@@ -4,37 +4,62 @@ adjusttie,Adjust Tie,EMOTE,TRUE,FALSE,FALSE,
 airguitar,Air Guitar,EMOTE,TRUE,FALSE,FALSE,
 airplane,Air Plane,EMOTE,TRUE,FALSE,FALSE,
 airsynth,Air Synth,EMOTE,TRUE,FALSE,FALSE,
+alien,Alien,WALK,FALSE,FALSE,TRUE,Marche
 argue,Argue,EMOTE,TRUE,FALSE,FALSE,
 argue2,Argue 2,EMOTE,TRUE,FALSE,FALSE,
+armored,Armored,WALK,FALSE,FALSE,TRUE,Marche
+arrogant,Arrogant,WALK,FALSE,FALSE,TRUE,Marche
 atm,Atm,EMOTE,TRUE,FALSE,FALSE,
+backpack,Backpack,EMOTE,TRUE,FALSE,FALSE,Item
 bark,Bark,EMOTE,TRUE,FALSE,FALSE,
 bartender,Bartender,EMOTE,TRUE,FALSE,FALSE,
+baseball,Baseball,ACTION,FALSE,TRUE,FALSE,Action a deux
+baseballthrow,Baseballthrow,ACTION,FALSE,TRUE,FALSE,Action a deux
 bbq,BBQ,EMOTE,TRUE,FALSE,FALSE,
 beast,Beast,EMOTE,TRUE,FALSE,FALSE,
+beer,Beer,EMOTE,TRUE,FALSE,FALSE,Item
 bird,Bird,EMOTE,TRUE,FALSE,FALSE,
 blowkiss,Blowkiss,EMOTE,TRUE,FALSE,FALSE,
 boi,Boi,EMOTE,TRUE,FALSE,FALSE,
+bong,Bong,EMOTE,TRUE,FALSE,FALSE,Item
+book,Book,EMOTE,TRUE,FALSE,FALSE,Item
+bouquet,Bouquet,EMOTE,TRUE,FALSE,FALSE,Item
 bow,Bow,EMOTE,TRUE,FALSE,FALSE,
 bow2,Bow 2,EMOTE,TRUE,FALSE,FALSE,
+box,Box,EMOTE,TRUE,FALSE,FALSE,Item
 boxing,Boxing,EMOTE,TRUE,FALSE,FALSE,
 boxing2,Boxing 2,EMOTE,TRUE,FALSE,FALSE,
+brave,Brave,WALK,FALSE,FALSE,TRUE,Marche
+brief3,Brief,EMOTE,TRUE,FALSE,FALSE,Item
 bringiton,Bring it on,EMOTE,TRUE,FALSE,FALSE,
+bro,Bro,ACTION,FALSE,TRUE,FALSE,Action a deux
+bro2,Bro2,ACTION,FALSE,TRUE,FALSE,Action a deux
 bumbin,Bumbin,EMOTE,TRUE,FALSE,FALSE,
 bumsleep,Bumsleep,EMOTE,TRUE,FALSE,FALSE,
-crossarms,Crossarms,EMOTE,TRUE,FALSE,FALSE,
-crossarms2,Crossarms 2,EMOTE,TRUE,FALSE,FALSE,
-crossarms3,Crossarms 3,EMOTE,TRUE,FALSE,FALSE,
-crossarms4,Crossarms 4,EMOTE,TRUE,FALSE,FALSE,
-crossarms5,Crossarms 5,EMOTE,TRUE,FALSE,FALSE,
-crossarms6,Crossarms 6,EMOTE,TRUE,FALSE,FALSE,
-crossarmsside,Crossarmsside,EMOTE,TRUE,FALSE,FALSE,
+burger,Burger,EMOTE,TRUE,FALSE,FALSE,Item
+camera,Camera,EMOTE,TRUE,FALSE,FALSE,Item
+casual1,Casual1,WALK,FALSE,FALSE,TRUE,Marche
+casual2,Casual2,WALK,FALSE,FALSE,TRUE,Marche
+casual3,Casual3,WALK,FALSE,FALSE,TRUE,Marche
+casual4,Casual4,WALK,FALSE,FALSE,TRUE,Marche
+casual5,Casual5,WALK,FALSE,FALSE,TRUE,Marche
+casual6,Casual6,WALK,FALSE,FALSE,TRUE,Marche
 celebrate,Celebrate,EMOTE,TRUE,FALSE,FALSE,
+champagne spray,Champagne spray,EMOTE,TRUE,FALSE,FALSE,Item
+champagne,Champagne,EMOTE,TRUE,FALSE,FALSE,Item
 cheer,Cheer,EMOTE,TRUE,FALSE,FALSE,
+chichi,Chichi,WALK,FALSE,FALSE,TRUE,Marche
 chicken,Chicken,EMOTE,TRUE,FALSE,FALSE,
 chill,Chill,EMOTE,TRUE,FALSE,FALSE,
 chinup,Chinup,EMOTE,TRUE,FALSE,FALSE,
+cig,Cig,EMOTE,TRUE,FALSE,FALSE,Item
+cigar,Cigar,EMOTE,TRUE,FALSE,FALSE,Item
+cigar2,Cigar 2,EMOTE,TRUE,FALSE,FALSE,Item
 clap,Clap,EMOTE,TRUE,FALSE,FALSE,
 clapangry,Clapangry,EMOTE,TRUE,FALSE,FALSE,
+clean,Clean,EMOTE,TRUE,FALSE,FALSE,Item
+clean2,Clean 2,EMOTE,TRUE,FALSE,FALSE,Item
+clipboard,Clipboard,EMOTE,TRUE,FALSE,FALSE,Item
 clipboard,Clipboard,EMOTE,TRUE,FALSE,FALSE,Item
 clipboard2,Clipboard 2,EMOTE,TRUE,FALSE,FALSE,Item
 cloudgaze,Cloudgaze,EMOTE,TRUE,FALSE,FALSE,
@@ -44,7 +69,9 @@ clown2,Clown 2,EMOTE,TRUE,FALSE,FALSE,
 clown3,Clown 3,EMOTE,TRUE,FALSE,FALSE,
 clown4,Clown 4,EMOTE,TRUE,FALSE,FALSE,
 clown5,Clown 5,EMOTE,TRUE,FALSE,FALSE,
+coffee,Coffee,EMOTE,TRUE,FALSE,FALSE,Item
 comeatmebro,Comeatmebro,EMOTE,TRUE,FALSE,FALSE,
+confident,Confident,WALK,FALSE,FALSE,TRUE,Marche
 cop1,Cop 1,EMOTE,TRUE,FALSE,TRUE,
 cop2,Cop 2,EMOTE,TRUE,FALSE,TRUE,
 cop3,Cop 3,EMOTE,TRUE,FALSE,TRUE,
@@ -54,320 +81,19 @@ countdown,Countdown,EMOTE,TRUE,FALSE,FALSE,
 cpr,Cpr,EMOTE,TRUE,FALSE,FALSE,
 cpr2,Cpr 2,EMOTE,TRUE,FALSE,FALSE,
 crawl,Crawl,EMOTE,TRUE,FALSE,FALSE,
+crossarms,Crossarms,EMOTE,TRUE,FALSE,FALSE,
+crossarms2,Crossarms 2,EMOTE,TRUE,FALSE,FALSE,
+crossarms3,Crossarms 3,EMOTE,TRUE,FALSE,FALSE,
+crossarms4,Crossarms 4,EMOTE,TRUE,FALSE,FALSE,
+crossarms5,Crossarms 5,EMOTE,TRUE,FALSE,FALSE,
+crossarms6,Crossarms 6,EMOTE,TRUE,FALSE,FALSE,
+crossarmsside,Crossarmsside,EMOTE,TRUE,FALSE,FALSE,
+cup,Cup,EMOTE,TRUE,FALSE,FALSE,Item
 curtsy,Curtsy,EMOTE,TRUE,FALSE,FALSE,
 cutthroat,Cutthroat,EMOTE,TRUE,FALSE,FALSE,
 cutthroat2,Cutthroat 2,EMOTE,TRUE,FALSE,FALSE,
 damn,Damn,EMOTE,TRUE,FALSE,FALSE,
 damn2,Damn 2,EMOTE,TRUE,FALSE,FALSE,
-dj,Dj,EMOTE,TRUE,FALSE,FALSE,
-eat,Eat,EMOTE,TRUE,FALSE,FALSE,
-facepalm,Facepalm,EMOTE,TRUE,FALSE,FALSE,
-facepalm2,Facepalm 2,EMOTE,TRUE,FALSE,FALSE,
-facepalm3,Facepalm 3,EMOTE,TRUE,FALSE,FALSE,
-facepalm4,Facepalm 4,EMOTE,TRUE,FALSE,FALSE,
-fallover,Fallover,EMOTE,TRUE,FALSE,FALSE,
-fallover2,Fallover 2,EMOTE,TRUE,FALSE,FALSE,
-fallover3,Fallover 3,EMOTE,TRUE,FALSE,FALSE,
-fallover4,Fallover 4,EMOTE,TRUE,FALSE,FALSE,
-fallover5,Fallover 5,EMOTE,TRUE,FALSE,FALSE,
-fallasleep,Fallasleep,EMOTE,TRUE,FALSE,FALSE,
-fightme,Fightme,EMOTE,TRUE,FALSE,FALSE,
-fightme2,Fightme 2,EMOTE,TRUE,FALSE,FALSE,
-filmshocking,Filmshocking,EMOTE,TRUE,FALSE,FALSE,
-finger,Finger,EMOTE,TRUE,FALSE,FALSE,
-finger2,Finger 2,EMOTE,TRUE,FALSE,FALSE,
-fishdance,Fishdance,EMOTE,TRUE,FALSE,FALSE,Danse
-flex,Flex,EMOTE,TRUE,FALSE,FALSE,
-flip,Flip,EMOTE,TRUE,FALSE,FALSE,
-flip2,Flip 2,EMOTE,TRUE,FALSE,FALSE,
-flipoff,Flipoff,EMOTE,TRUE,FALSE,FALSE,
-flipoff2,Flipoff 2,EMOTE,TRUE,FALSE,FALSE,
-foldarms,Foldarms,EMOTE,TRUE,FALSE,FALSE,
-foldarms2,Foldarms 2,EMOTE,TRUE,FALSE,FALSE,
-gangsign,Gangsign,EMOTE,TRUE,FALSE,FALSE,
-gangsign2,GAngsign 2,EMOTE,TRUE,FALSE,FALSE,
-glofswing,Glofswing,EMOTE,TRUE,FALSE,FALSE,
-guard,Guard,EMOTE,TRUE,FALSE,TRUE,
-hammer,Hammer,EMOTE,TRUE,FALSE,FALSE,
-handshake,Handshake,EMOTE,TRUE,FALSE,FALSE,
-handshake2,Handshake 2,EMOTE,TRUE,FALSE,FALSE,
-handsup,Handsup,EMOTE,TRUE,FALSE,FALSE,
-handsup2,Handsup 2,EMOTE,TRUE,FALSE,FALSE,
-hangout,Hangout,EMOTE,TRUE,FALSE,FALSE,
-headbutt,Headbutt,EMOTE,TRUE,TRUE,FALSE,
-hiking,Hiking,EMOTE,TRUE,FALSE,TRUE,
-holster,Holster,EMOTE,TRUE,FALSE,FALSE,
-hug,Hug,EMOTE,TRUE,TRUE,FALSE,
-hug2,Hug 2,EMOTE,TRUE,TRUE,FALSE,
-hug3,Hug 3,EMOTE,TRUE,FALSE,FALSE,
-idle,Idle,EMOTE,TRUE,FALSE,FALSE,
-idle2,Idle 2,EMOTE,TRUE,FALSE,FALSE,
-idle3,Idle 3,EMOTE,TRUE,FALSE,FALSE,
-idle4,Idle 4,EMOTE,TRUE,FALSE,FALSE,
-idle5,Idle 5,EMOTE,TRUE,FALSE,FALSE,
-idle6,Idle 6,EMOTE,TRUE,FALSE,FALSE,
-idle7,Idle 7,EMOTE,TRUE,FALSE,FALSE,
-idle8,Idle 8,EMOTE,TRUE,FALSE,FALSE,
-idle9,Idle 9,EMOTE,TRUE,FALSE,FALSE,
-idle10,Idle  10,EMOTE,TRUE,FALSE,FALSE,
-idle11,Idle 11,EMOTE,TRUE,FALSE,FALSE,
-idledrunk,Idledrunk,EMOTE,TRUE,FALSE,FALSE,
-idledrunk2,Idledrunk 2,EMOTE,TRUE,FALSE,FALSE,
-idledrunk3,Idledrunk 3,EMOTE,TRUE,FALSE,FALSE,
-impatient,Impatient,EMOTE,TRUE,FALSE,FALSE,
-inspect,Inspect,EMOTE,TRUE,FALSE,FALSE,
-janitor,Janitor,EMOTE,TRUE,FALSE,TRUE,
-jazzhand,Jazzhand,EMOTE,TRUE,FALSE,FALSE,
-jog,Jog,EMOTE,TRUE,FALSE,TRUE,
-jog2,Jog 2,EMOTE,TRUE,FALSE,FALSE,
-jog3,Jog 3,EMOTE,TRUE,FALSE,FALSE,
-jog4,Jog 4,EMOTE,TRUE,FALSE,FALSE,
-jog5,Jog 5,EMOTE,TRUE,FALSE,FALSE,
-jumpingjack,Jumpingjack,EMOTE,TRUE,FALSE,FALSE,
-karate,Karate,EMOTE,TRUE,FALSE,FALSE,
-karate2,Karate 2,EMOTE,TRUE,FALSE,FALSE,
-keyfob,Keyfob,EMOTE,TRUE,FALSE,FALSE,
-kneel,Kneel,EMOTE,TRUE,FALSE,FALSE,
-kneel2,Kneel 2,EMOTE,TRUE,FALSE,FALSE,
-kneel3,Kneel 3,EMOTE,TRUE,FALSE,FALSE,
-knock,Knock,EMOTE,TRUE,FALSE,FALSE,
-knock2,Knock  2,EMOTE,TRUE,FALSE,FALSE,
-knuclecrush,Knuclecrush,EMOTE,TRUE,FALSE,FALSE,
-lapdance,Lapdance,EMOTE,TRUE,FALSE,FALSE,Danse
-lapdance2,Lapdance 2,EMOTE,TRUE,FALSE,FALSE,Danse
-lapdance3,Lapdance 3,EMOTE,TRUE,FALSE,FALSE,Danse
-leafblower,Leafblower,EMOTE,TRUE,FALSE,FALSE,
-lean1,Lean 1,EMOTE,TRUE,FALSE,FALSE,
-lean2,Lean 2,EMOTE,TRUE,FALSE,FALSE,
-lean3,Lean 3,EMOTE,TRUE,FALSE,FALSE,
-lean4,Lean 4,EMOTE,TRUE,FALSE,FALSE,
-lean5,Lean 5,EMOTE,TRUE,FALSE,FALSE,
-leanbar,Leanbar,EMOTE,TRUE,FALSE,FALSE,
-leanbar2,Leanbar 2,EMOTE,TRUE,FALSE,FALSE,
-leanbar3,Leanbar 3,EMOTE,TRUE,FALSE,FALSE,
-leanbar4,Leanbar 4,EMOTE,TRUE,FALSE,FALSE,
-leanbar5,Leanbar 5,EMOTE,TRUE,FALSE,FALSE,
-leanfilrt,Leanfilrt,EMOTE,TRUE,FALSE,FALSE,
-leanhight,Leanhight,EMOTE,TRUE,FALSE,FALSE,
-leanhight2,Leanhight 2,EMOTE,TRUE,FALSE,FALSE,
-leanside,Leanside,EMOTE,TRUE,FALSE,FALSE,
-leanside2,Leanside 2,EMOTE,TRUE,FALSE,FALSE,
-leanside3,Leanside 3,EMOTE,TRUE,FALSE,FALSE,
-leanside4,Leanside 4,EMOTE,TRUE,FALSE,FALSE,
-leanside5,Leanside 5,EMOTE,TRUE,FALSE,FALSE,
-ledge,Ledge,EMOTE,TRUE,FALSE,FALSE,
-lift,Lift,EMOTE,TRUE,FALSE,FALSE,
-lol,Lol,EMOTE,TRUE,FALSE,FALSE,
-lol2,Lol 2,EMOTE,TRUE,FALSE,FALSE,
-lookout,Lookout,EMOTE,TRUE,FALSE,FALSE,
-maid,Maid,EMOTE,TRUE,FALSE,FALSE,
-me,Me,EMOTE,TRUE,FALSE,FALSE,
-mechanic,Mechanic,EMOTE,TRUE,FALSE,FALSE,
-mechanic2,Mechanic 2,EMOTE,TRUE,FALSE,FALSE,
-mechanic3,Mechanic 3,EMOTE,TRUE,FALSE,FALSE,
-mechanic4,Mechanic 4,EMOTE,TRUE,FALSE,FALSE,
-medic,Medic,EMOTE,TRUE,FALSE,FALSE,
-medic2,Medic 2,EMOTE,TRUE,FALSE,FALSE,
-meditate,Meditate,EMOTE,TRUE,FALSE,FALSE,
-meditate2,Meditate 2,EMOTE,TRUE,FALSE,FALSE,
-meditate3,Meditate 3,EMOTE,TRUE,FALSE,FALSE,
-mindblown,Mindblown,EMOTE,TRUE,FALSE,FALSE,
-mindblown2,Mindblown 2,EMOTE,TRUE,FALSE,FALSE,
-mindcontrol,Mindcontrol,EMOTE,TRUE,FALSE,FALSE,
-mindcontrol2,Mindcontrol 2,EMOTE,TRUE,FALSE,FALSE,
-musician,Musician,EMOTE,TRUE,FALSE,FALSE,
-namaste,Namaste,EMOTE,TRUE,FALSE,FALSE,
-nervous,Nervous,EMOTE,TRUE,FALSE,FALSE,
-nervous2,Nervous 2,EMOTE,TRUE,FALSE,FALSE,
-nervous3,Nervous 3,EMOTE,TRUE,FALSE,FALSE,
-no,No,EMOTE,TRUE,FALSE,FALSE,
-no2,No 2,EMOTE,TRUE,FALSE,FALSE,
-nosepick,Nosepick,EMOTE,TRUE,FALSE,FALSE,
-notepad2,Notepad 2,EMOTE,TRUE,FALSE,FALSE,
-noway,Noway,EMOTE,TRUE,FALSE,FALSE,
-outofbreath,Outofbreath,EMOTE,TRUE,FALSE,FALSE,
-parkingmeter,Parkingmeter,EMOTE,TRUE,FALSE,FALSE,
-party,Party,EMOTE,TRUE,FALSE,FALSE,
-passout,Passout,EMOTE,TRUE,FALSE,FALSE,
-passout2,Passout 2,EMOTE,TRUE,FALSE,FALSE,
-passout3,Passout 3,EMOTE,TRUE,FALSE,FALSE,
-passout4,Passout 4,EMOTE,TRUE,FALSE,FALSE,
-passout5,Passout 5,EMOTE,TRUE,FALSE,FALSE,
-peace,Peace,EMOTE,TRUE,FALSE,FALSE,
-peace2,Peace 2,EMOTE,TRUE,FALSE,FALSE,
-pee,Pee,EMOTE,TRUE,FALSE,FALSE,
-peek,Peek,EMOTE,TRUE,FALSE,FALSE,
-Petting,Petting,EMOTE,TRUE,FALSE,FALSE,
-pickup,Pickup,EMOTE,TRUE,FALSE,FALSE,
-point,Point,EMOTE,TRUE,FALSE,FALSE,
-pointdown,Pointdown,EMOTE,TRUE,FALSE,FALSE,
-pointright,Pointright,EMOTE,TRUE,FALSE,FALSE,
-prone,Prone,EMOTE,TRUE,FALSE,FALSE,
-prostituehigt,Prostituehigt,EMOTE,TRUE,FALSE,FALSE,
-prostituelow,Prostituelow,EMOTE,TRUE,FALSE,FALSE,
-puddle,Puddle,EMOTE,TRUE,FALSE,FALSE,
-pull,Pull,EMOTE,TRUE,FALSE,FALSE,
-pullover,Pullover,EMOTE,TRUE,FALSE,FALSE,
-punching,Punching,EMOTE,TRUE,FALSE,FALSE,
-push,Push,EMOTE,TRUE,FALSE,FALSE,
-push2,Push 2,EMOTE,TRUE,FALSE,FALSE,
-pushup,Pushup,EMOTE,TRUE,FALSE,FALSE,
-rabbit,Rabbit,EMOTE,TRUE,FALSE,FALSE,
-radio,Radio,EMOTE,TRUE,FALSE,FALSE,
-reaching,Reaching,EMOTE,TRUE,FALSE,FALSE,
-record,Record,EMOTE,TRUE,FALSE,FALSE,
-salute,Salute,EMOTE,TRUE,FALSE,FALSE,
-salute2,Salute 2,EMOTE,TRUE,FALSE,FALSE,
-salute3,Salute 3,EMOTE,TRUE,FALSE,FALSE,
-scared,Scared,EMOTE,TRUE,FALSE,TRUE,
-scared2,Scared 2,EMOTE,TRUE,FALSE,FALSE,
-screwyou,Screwyou,EMOTE,TRUE,FALSE,FALSE,
-shakeoff,Shakeoff,EMOTE,TRUE,FALSE,FALSE,
-shot,Shot,EMOTE,TRUE,FALSE,FALSE,
-shrug,Shrug,EMOTE,TRUE,FALSE,FALSE,
-shrug2,Shrug 2,EMOTE,TRUE,FALSE,FALSE,
-sit1,Sit 1,EMOTE,TRUE,FALSE,FALSE,
-sit2,Sit 2,EMOTE,TRUE,FALSE,FALSE,
-sit3,Sit 3,EMOTE,TRUE,FALSE,FALSE,
-sit4,Sit 4,EMOTE,TRUE,FALSE,FALSE,
-sit5,Sit 5,EMOTE,TRUE,FALSE,FALSE,
-sit6,Sit 6,EMOTE,TRUE,FALSE,FALSE,
-sit7,Sit 7,EMOTE,TRUE,FALSE,FALSE,
-sit8,Sit 8,EMOTE,TRUE,FALSE,FALSE,
-sit9,Sit 9,EMOTE,TRUE,FALSE,FALSE,
-sitchair,Sitchair,EMOTE,TRUE,FALSE,FALSE,
-sitchair2,Sitchair 2,EMOTE,TRUE,FALSE,FALSE,
-sitchair3,Sitchair 3,EMOTE,TRUE,FALSE,FALSE,
-sitchair4,Sitchair 4,EMOTE,TRUE,FALSE,FALSE,
-sitchair5,Sitchair 5,EMOTE,TRUE,FALSE,FALSE,
-sitchair6,Sitchair 6,EMOTE,TRUE,FALSE,FALSE,
-sitchairside,Sitchairside,EMOTE,TRUE,FALSE,FALSE,
-sitdrunk,Sitdrunk,EMOTE,TRUE,FALSE,FALSE,
-sitlean,Sitlean,EMOTE,TRUE,FALSE,FALSE,
-sitescared,Sitescared,EMOTE,TRUE,FALSE,FALSE,
-sitescared2,Sitescared 2,EMOTE,TRUE,FALSE,FALSE,
-sitescared3,Sitescared 3,EMOTE,TRUE,FALSE,FALSE,
-sitesad,Sitesad,EMOTE,TRUE,FALSE,FALSE,
-situp,Situp,EMOTE,TRUE,FALSE,FALSE,
-slap,Slap,EMOTE,TRUE,TRUE,FALSE,
-sleep,Sleep,EMOTE,TRUE,FALSE,FALSE,
-slide,Slide,EMOTE,TRUE,FALSE,FALSE,
-slide2,Slide 2,EMOTE,TRUE,FALSE,FALSE,
-slide3,Slide 3,EMOTE,TRUE,FALSE,FALSE,
-slowclap,Slowclap,EMOTE,TRUE,FALSE,FALSE,
-slowclap2,Slowclap 2,EMOTE,TRUE,FALSE,FALSE,
-slowclap3,Slowclap 3,EMOTE,TRUE,FALSE,FALSE,
-slugger,Slugger,EMOTE,TRUE,FALSE,FALSE,
-smell,Smell,EMOTE,TRUE,FALSE,FALSE,
-spiderman,Spiderman,EMOTE,TRUE,FALSE,FALSE,
-statue,Statue,EMOTE,TRUE,FALSE,FALSE,
-statue2,Statue 2,EMOTE,TRUE,FALSE,FALSE,
-statue3,Statue 3,EMOTE,TRUE,FALSE,FALSE,
-stickup,Stickup,EMOTE,TRUE,TRUE,FALSE,
-stretch,Stretch,EMOTE,TRUE,FALSE,FALSE,
-stretch2,Stretch 2,EMOTE,TRUE,FALSE,FALSE,
-stretch3,Stretch 3,EMOTE,TRUE,FALSE,FALSE,
-stretch4,Stretch 4,EMOTE,TRUE,FALSE,FALSE,
-stumble,Stumble,EMOTE,TRUE,FALSE,FALSE,
-stumble,Stumble,EMOTE,TRUE,FALSE,FALSE,
-stunned,Stunned,EMOTE,TRUE,FALSE,FALSE,
-sunbathe,Sunbathe,EMOTE,TRUE,FALSE,FALSE,
-sunbathe2,Sunbathe 2,EMOTE,TRUE,FALSE,FALSE,
-sunbathe3,Sunbathe 3,EMOTE,TRUE,FALSE,FALSE,
-sunbatheback,Sunbatheback,EMOTE,TRUE,FALSE,FALSE,
-superhero,Superhero,EMOTE,TRUE,FALSE,FALSE,
-superhero2,Superhero 2,EMOTE,TRUE,FALSE,FALSE,
-surrender,Surrender,EMOTE,TRUE,FALSE,FALSE,
-t,T,EMOTE,TRUE,FALSE,FALSE,
-t2,T 2,EMOTE,TRUE,FALSE,FALSE,
-texting,Texting,EMOTE,TRUE,FALSE,FALSE,
-think,Think,EMOTE,TRUE,FALSE,FALSE,
-think2,Think 2,EMOTE,TRUE,FALSE,FALSE,
-think3,Think 3,EMOTE,TRUE,FALSE,FALSE,
-think4,Think 4,EMOTE,TRUE,FALSE,FALSE,
-think5,Think 5,EMOTE,TRUE,FALSE,FALSE,
-thumbsup,Thumbsup,EMOTE,TRUE,FALSE,FALSE,
-thumbsup2,Thumbsup 2,EMOTE,TRUE,FALSE,FALSE,
-thumbsup3,Thumbsup 3,EMOTE,TRUE,FALSE,FALSE,
-tryclothes,Tryclothes,EMOTE,TRUE,FALSE,FALSE,
-tryclothes2,Tryclothes 2,EMOTE,TRUE,FALSE,FALSE,
-tryclothes3,Tryclothes 3,EMOTE,TRUE,FALSE,FALSE,
-twerk,Twerk,EMOTE,TRUE,FALSE,FALSE,
-type,Type,EMOTE,TRUE,FALSE,FALSE,
-type2,Type 2,EMOTE,TRUE,FALSE,FALSE,
-type3,Type 3,EMOTE,TRUE,FALSE,FALSE,
-type4,Type 4,EMOTE,TRUE,FALSE,FALSE,
-uncuff,Uncuff,EMOTE,TRUE,FALSE,FALSE,
-wait1,Wait 1,EMOTE,TRUE,FALSE,FALSE,
-wait2,Wait 2,EMOTE,TRUE,FALSE,FALSE,
-wait3,Wait 3,EMOTE,TRUE,FALSE,FALSE,
-wait4,Wait 4,EMOTE,TRUE,FALSE,FALSE,
-wait5,Wait 5,EMOTE,TRUE,FALSE,FALSE,
-wait6,Wait 6,EMOTE,TRUE,FALSE,FALSE,
-wait7,Wait 7,EMOTE,TRUE,FALSE,FALSE,
-wait8,Wait 8,EMOTE,TRUE,FALSE,FALSE,
-wait9,Wait 9,EMOTE,TRUE,FALSE,FALSE,
-wait10,Wait  10,EMOTE,TRUE,FALSE,FALSE,
-wait11,Wait 1 1,EMOTE,TRUE,FALSE,FALSE,
-wait12,Wait 1 2,EMOTE,TRUE,FALSE,FALSE,
-wait13,Wait 1 3,EMOTE,TRUE,FALSE,FALSE,
-wave1,Wave 1,EMOTE,TRUE,FALSE,FALSE,
-wave2,Wave 2,EMOTE,TRUE,FALSE,FALSE,
-wave3,Wave 3,EMOTE,TRUE,FALSE,FALSE,
-wave4,Wave 4,EMOTE,TRUE,FALSE,FALSE,
-wave5,Wave 5,EMOTE,TRUE,FALSE,FALSE,
-wave6,Wave 6,EMOTE,TRUE,FALSE,FALSE,
-wave7,Wave 7,EMOTE,TRUE,FALSE,FALSE,
-wave8,Wave 8,EMOTE,TRUE,FALSE,FALSE,
-wave9,Wave 9,EMOTE,TRUE,FALSE,FALSE,
-weld,Weld,EMOTE,TRUE,FALSE,FALSE,
-whistle,Whistle,EMOTE,TRUE,FALSE,FALSE,
-whistle2,Whistle 2,EMOTE,TRUE,FALSE,FALSE,
-windowshop,Window shop,EMOTE,TRUE,FALSE,FALSE,
-yeah,Yeah,EMOTE,TRUE,FALSE,FALSE,
-yoga,Yoga,EMOTE,TRUE,FALSE,FALSE,
-backpack,Backpack,EMOTE,TRUE,FALSE,FALSE,Item
-beer,Beer,EMOTE,TRUE,FALSE,FALSE,Item
-bong,Bong,EMOTE,TRUE,FALSE,FALSE,Item
-book,Book,EMOTE,TRUE,FALSE,FALSE,Item
-bouquet,Bouquet,EMOTE,TRUE,FALSE,FALSE,Item
-box,Box,EMOTE,TRUE,FALSE,FALSE,Item
-brief3,Brief,EMOTE,TRUE,FALSE,FALSE,Item
-burger,Burger,EMOTE,TRUE,FALSE,FALSE,Item
-camera,Camera,EMOTE,TRUE,FALSE,FALSE,Item
-champagne,Champagne,EMOTE,TRUE,FALSE,FALSE,Item
-champagne spray,Champagne spray,EMOTE,TRUE,FALSE,FALSE,Item
-cig,Cig,EMOTE,TRUE,FALSE,FALSE,Item
-cigar,Cigar,EMOTE,TRUE,FALSE,FALSE,Item
-cigar2,Cigar 2,EMOTE,TRUE,FALSE,FALSE,Item
-clean,Clean,EMOTE,TRUE,FALSE,FALSE,Item
-clean2,Clean 2,EMOTE,TRUE,FALSE,FALSE,Item
-clipboard,Clipboard,EMOTE,TRUE,FALSE,FALSE,Item
-coffee,Coffee,EMOTE,TRUE,FALSE,FALSE,Item
-cup,Cup,EMOTE,TRUE,FALSE,FALSE,Item
-donut,Donut,EMOTE,TRUE,FALSE,FALSE,Item
-egobar,Egobar,EMOTE,TRUE,FALSE,FALSE,Item
-flute,Flute,EMOTE,TRUE,FALSE,FALSE,Item
-guitar,Guitar,EMOTE,TRUE,FALSE,FALSE,Item
-guitar2,Guitar2,EMOTE,TRUE,FALSE,FALSE,Item
-guitarelectric,Guitar electric,EMOTE,TRUE,FALSE,FALSE,Item
-guitarelectric2,Guitar electric 2,EMOTE,TRUE,FALSE,FALSE,Item
-joint,Joint,EMOTE,TRUE,FALSE,FALSE,Item
-makeitrain,Makeitrain,EMOTE,TRUE,FALSE,FALSE,Item
-map,Map,EMOTE,TRUE,FALSE,FALSE,Item
-mugshot,Mugshot,EMOTE,TRUE,FALSE,FALSE,Item
-notepad,Notepad,EMOTE,TRUE,FALSE,FALSE,Item
-phone,Phone,EMOTE,TRUE,FALSE,FALSE,Item
-phonecall,Phonecall,EMOTE,TRUE,FALSE,FALSE,Item
-rose,Rose,EMOTE,TRUE,FALSE,FALSE,Item
-sandwich,Sandwich,EMOTE,TRUE,FALSE,FALSE,Item
-suitcase,Suitcase,EMOTE,TRUE,FALSE,FALSE,Item
-suitcase2,Suitcase 2,EMOTE,TRUE,FALSE,FALSE,Item
-tablet,Tablet,EMOTE,TRUE,FALSE,FALSE,Item
-tablet2,Tablet 2,EMOTE,TRUE,FALSE,FALSE,Item
-teddy,Teddy,EMOTE,TRUE,FALSE,FALSE,Item
-whiskey,Whiskey,EMOTE,TRUE,FALSE,FALSE,Item
-wine,Wine,EMOTE,TRUE,FALSE,FALSE,Item
 dance,Dance,EMOTE,TRUE,TRUE,FALSE,Danse
 dance2,Dance 2,EMOTE,TRUE,TRUE,FALSE,Danse
 dance3,Dance 3,EMOTE,TRUE,TRUE,FALSE,Danse
@@ -406,79 +132,353 @@ danceslow2,Dance Slow 2,EMOTE,TRUE,TRUE,FALSE,Danse
 danceslow3,Dance Slow 3,EMOTE,TRUE,TRUE,FALSE,Danse
 danceupper,Dance Upper,EMOTE,TRUE,TRUE,FALSE,Danse
 danceupper2,Dance Upper 2,EMOTE,TRUE,TRUE,FALSE,Danse
-normal,Normal,WALK,FALSE,FALSE,TRUE,Marche
-injured,Blessé,WALK,FALSE,FALSE,TRUE,Marche
-alien,Alien,WALK,FALSE,FALSE,TRUE,Marche
-armored,Armored,WALK,FALSE,FALSE,TRUE,Marche
-arrogant,Arrogant,WALK,FALSE,FALSE,TRUE,Marche
-brave,Brave,WALK,FALSE,FALSE,TRUE,Marche
-casual1,Casual1,WALK,FALSE,FALSE,TRUE,Marche
-casual2,Casual2,WALK,FALSE,FALSE,TRUE,Marche
-casual3,Casual3,WALK,FALSE,FALSE,TRUE,Marche
-casual4,Casual4,WALK,FALSE,FALSE,TRUE,Marche
-casual5,Casual5,WALK,FALSE,FALSE,TRUE,Marche
-casual6,Casual6,WALK,FALSE,FALSE,TRUE,Marche
-chichi,Chichi,WALK,FALSE,FALSE,TRUE,Marche
-confident,Confident,WALK,FALSE,FALSE,TRUE,Marche
 defaultfemale,Defaultfemale,WALK,FALSE,FALSE,TRUE,Marche
 defaultmale,Defaultmale,WALK,FALSE,FALSE,TRUE,Marche
+dj,Dj,EMOTE,TRUE,FALSE,FALSE,
+donut,Donut,EMOTE,TRUE,FALSE,FALSE,Item
 drunk,Drunk,WALK,FALSE,FALSE,TRUE,Marche
 drunk2,Drunk2,WALK,FALSE,FALSE,TRUE,Marche
 drunk3,Drunk3,WALK,FALSE,FALSE,TRUE,Marche
+eat,Eat,EMOTE,TRUE,FALSE,FALSE,
+egobar,Egobar,EMOTE,TRUE,FALSE,FALSE,Item
+facepalm,Facepalm,EMOTE,TRUE,FALSE,FALSE,
+facepalm2,Facepalm 2,EMOTE,TRUE,FALSE,FALSE,
+facepalm3,Facepalm 3,EMOTE,TRUE,FALSE,FALSE,
+facepalm4,Facepalm 4,EMOTE,TRUE,FALSE,FALSE,
+fallasleep,Fallasleep,EMOTE,TRUE,FALSE,FALSE,
+fallover,Fallover,EMOTE,TRUE,FALSE,FALSE,
+fallover2,Fallover 2,EMOTE,TRUE,FALSE,FALSE,
+fallover3,Fallover 3,EMOTE,TRUE,FALSE,FALSE,
+fallover4,Fallover 4,EMOTE,TRUE,FALSE,FALSE,
+fallover5,Fallover 5,EMOTE,TRUE,FALSE,FALSE,
 femme,Femme,WALK,FALSE,FALSE,TRUE,Marche
+fightme,Fightme,EMOTE,TRUE,FALSE,FALSE,
+fightme2,Fightme 2,EMOTE,TRUE,FALSE,FALSE,
+filmshocking,Filmshocking,EMOTE,TRUE,FALSE,FALSE,
+finger,Finger,EMOTE,TRUE,FALSE,FALSE,
+finger2,Finger 2,EMOTE,TRUE,FALSE,FALSE,
 fire,Fire,WALK,FALSE,FALSE,TRUE,Marche
 fire2,Fire2,WALK,FALSE,FALSE,TRUE,Marche
 fire3,Fire3,WALK,FALSE,FALSE,TRUE,Marche
+fishdance,Fishdance,EMOTE,TRUE,FALSE,FALSE,Danse
+flex,Flex,EMOTE,TRUE,FALSE,FALSE,
+flip,Flip,EMOTE,TRUE,FALSE,FALSE,
+flip2,Flip 2,EMOTE,TRUE,FALSE,FALSE,
+flipoff,Flipoff,EMOTE,TRUE,FALSE,FALSE,
+flipoff2,Flipoff 2,EMOTE,TRUE,FALSE,FALSE,
+flute,Flute,EMOTE,TRUE,FALSE,FALSE,Item
+foldarms,Foldarms,EMOTE,TRUE,FALSE,FALSE,
+foldarms2,Foldarms 2,EMOTE,TRUE,FALSE,FALSE,
 franklin,Franklin,WALK,FALSE,FALSE,TRUE,Marche
+gangsign,Gangsign,EMOTE,TRUE,FALSE,FALSE,
+gangsign2,GAngsign 2,EMOTE,TRUE,FALSE,FALSE,
 gangster,Gangster,WALK,FALSE,FALSE,TRUE,Marche
 gangster2,Gangster2,WALK,FALSE,FALSE,TRUE,Marche
 gangster3,Gangster3,WALK,FALSE,FALSE,TRUE,Marche
 gangster4,Gangster4,WALK,FALSE,FALSE,TRUE,Marche
 gangster5,Gangster5,WALK,FALSE,FALSE,TRUE,Marche
-Grooving,Grooving,WALK,FALSE,FALSE,TRUE,Marche
+give,Give,ACTION,FALSE,TRUE,FALSE,Action a deux
+give2,Give2,ACTION,FALSE,TRUE,FALSE,Action a deux
+glofswing,Glofswing,EMOTE,TRUE,FALSE,FALSE,
+grooving,Grooving,WALK,FALSE,FALSE,TRUE,Marche
+guard,Guard,EMOTE,TRUE,FALSE,TRUE,
+guitar,Guitar,EMOTE,TRUE,FALSE,FALSE,Item
+guitar2,Guitar2,EMOTE,TRUE,FALSE,FALSE,Item
+guitarelectric,Guitar electric,EMOTE,TRUE,FALSE,FALSE,Item
+guitarelectric2,Guitar electric 2,EMOTE,TRUE,FALSE,FALSE,Item
+hammer,Hammer,EMOTE,TRUE,FALSE,FALSE,
 handcuffs,Handcuffs,WALK,FALSE,FALSE,TRUE,Marche
+handshake,Handshake,ACTION,FALSE,TRUE,FALSE,Action a deux
+handshake,Handshake,EMOTE,TRUE,FALSE,FALSE,
+handshake2,Handshake 2,EMOTE,TRUE,FALSE,FALSE,
+handshake2,Handshake2,ACTION,FALSE,TRUE,FALSE,Action a deux
+handsup,Handsup,EMOTE,TRUE,FALSE,FALSE,
+handsup2,Handsup 2,EMOTE,TRUE,FALSE,FALSE,
+hangout,Hangout,EMOTE,TRUE,FALSE,FALSE,
+headbutt,Headbutt,EMOTE,TRUE,TRUE,FALSE,
+headbutted,Headbutted,ACTION,FALSE,TRUE,FALSE,Action a deux
 heels,Heels,WALK,FALSE,FALSE,TRUE,Marche
 heels2,Heels2,WALK,FALSE,FALSE,TRUE,Marche
+hiking,Hiking,EMOTE,TRUE,FALSE,TRUE,
 hipster,Hipster,WALK,FALSE,FALSE,TRUE,Marche
 hobo,Hobo,WALK,FALSE,FALSE,TRUE,Marche
+holster,Holster,EMOTE,TRUE,FALSE,FALSE,
+hug,Hug,EMOTE,TRUE,TRUE,FALSE,
+hug2,Hug 2,EMOTE,TRUE,TRUE,FALSE,
+hug3,Hug 3,EMOTE,TRUE,FALSE,FALSE,
 hurry,Hurry,WALK,FALSE,FALSE,TRUE,Marche
+idle,Idle,EMOTE,TRUE,FALSE,FALSE,
+idle10,Idle  10,EMOTE,TRUE,FALSE,FALSE,
+idle11,Idle 11,EMOTE,TRUE,FALSE,FALSE,
+idle2,Idle 2,EMOTE,TRUE,FALSE,FALSE,
+idle3,Idle 3,EMOTE,TRUE,FALSE,FALSE,
+idle4,Idle 4,EMOTE,TRUE,FALSE,FALSE,
+idle5,Idle 5,EMOTE,TRUE,FALSE,FALSE,
+idle6,Idle 6,EMOTE,TRUE,FALSE,FALSE,
+idle7,Idle 7,EMOTE,TRUE,FALSE,FALSE,
+idle8,Idle 8,EMOTE,TRUE,FALSE,FALSE,
+idle9,Idle 9,EMOTE,TRUE,FALSE,FALSE,
+idledrunk,Idledrunk,EMOTE,TRUE,FALSE,FALSE,
+idledrunk2,Idledrunk 2,EMOTE,TRUE,FALSE,FALSE,
+idledrunk3,Idledrunk 3,EMOTE,TRUE,FALSE,FALSE,
+impatient,Impatient,EMOTE,TRUE,FALSE,FALSE,
+injured,Blessé,WALK,FALSE,FALSE,TRUE,Marche
+inspect,Inspect,EMOTE,TRUE,FALSE,FALSE,
+janitor,Janitor,EMOTE,TRUE,FALSE,TRUE,
 janitor2,Janitor2,WALK,FALSE,FALSE,TRUE,Marche
+jazzhand,Jazzhand,EMOTE,TRUE,FALSE,FALSE,
+jog,Jog,EMOTE,TRUE,FALSE,TRUE,
+jog2,Jog 2,EMOTE,TRUE,FALSE,FALSE,
+jog3,Jog 3,EMOTE,TRUE,FALSE,FALSE,
+jog4,Jog 4,EMOTE,TRUE,FALSE,FALSE,
+jog5,Jog 5,EMOTE,TRUE,FALSE,FALSE,
+joint,Joint,EMOTE,TRUE,FALSE,FALSE,Item
+jumpingjack,Jumpingjack,EMOTE,TRUE,FALSE,FALSE,
+karate,Karate,EMOTE,TRUE,FALSE,FALSE,
+karate2,Karate 2,EMOTE,TRUE,FALSE,FALSE,
+keyfob,Keyfob,EMOTE,TRUE,FALSE,FALSE,
+kneel,Kneel,EMOTE,TRUE,FALSE,FALSE,
+kneel2,Kneel 2,EMOTE,TRUE,FALSE,FALSE,
+kneel3,Kneel 3,EMOTE,TRUE,FALSE,FALSE,
+knock,Knock,EMOTE,TRUE,FALSE,FALSE,
+knock2,Knock  2,EMOTE,TRUE,FALSE,FALSE,
+knuclecrush,Knuclecrush,EMOTE,TRUE,FALSE,FALSE,
+lapdance,Lapdance,EMOTE,TRUE,FALSE,FALSE,Danse
+lapdance2,Lapdance 2,EMOTE,TRUE,FALSE,FALSE,Danse
+lapdance3,Lapdance 3,EMOTE,TRUE,FALSE,FALSE,Danse
+leafblower,Leafblower,EMOTE,TRUE,FALSE,FALSE,
+lean1,Lean 1,EMOTE,TRUE,FALSE,FALSE,
+lean2,Lean 2,EMOTE,TRUE,FALSE,FALSE,
+lean3,Lean 3,EMOTE,TRUE,FALSE,FALSE,
+lean4,Lean 4,EMOTE,TRUE,FALSE,FALSE,
+lean5,Lean 5,EMOTE,TRUE,FALSE,FALSE,
+leanbar,Leanbar,EMOTE,TRUE,FALSE,FALSE,
+leanbar2,Leanbar 2,EMOTE,TRUE,FALSE,FALSE,
+leanbar3,Leanbar 3,EMOTE,TRUE,FALSE,FALSE,
+leanbar4,Leanbar 4,EMOTE,TRUE,FALSE,FALSE,
+leanbar5,Leanbar 5,EMOTE,TRUE,FALSE,FALSE,
+leanfilrt,Leanfilrt,EMOTE,TRUE,FALSE,FALSE,
+leanhight,Leanhight,EMOTE,TRUE,FALSE,FALSE,
+leanhight2,Leanhight 2,EMOTE,TRUE,FALSE,FALSE,
+leanside,Leanside,EMOTE,TRUE,FALSE,FALSE,
+leanside2,Leanside 2,EMOTE,TRUE,FALSE,FALSE,
+leanside3,Leanside 3,EMOTE,TRUE,FALSE,FALSE,
+leanside4,Leanside 4,EMOTE,TRUE,FALSE,FALSE,
+leanside5,Leanside 5,EMOTE,TRUE,FALSE,FALSE,
+ledge,Ledge,EMOTE,TRUE,FALSE,FALSE,
 lemar,Lemar,WALK,FALSE,FALSE,TRUE,Marche
 lester,Lester,WALK,FALSE,FALSE,TRUE,Marche
 lester2,Lester2,WALK,FALSE,FALSE,TRUE,Marche
+lift,Lift,EMOTE,TRUE,FALSE,FALSE,
+lol,Lol,EMOTE,TRUE,FALSE,FALSE,
+lol2,Lol 2,EMOTE,TRUE,FALSE,FALSE,
+lookout,Lookout,EMOTE,TRUE,FALSE,FALSE,
+maid,Maid,EMOTE,TRUE,FALSE,FALSE,
+makeitrain,Makeitrain,EMOTE,TRUE,FALSE,FALSE,Item
 maneater,Maneater,WALK,FALSE,FALSE,TRUE,Marche
+map,Map,EMOTE,TRUE,FALSE,FALSE,Item
+me,Me,EMOTE,TRUE,FALSE,FALSE,
+mechanic,Mechanic,EMOTE,TRUE,FALSE,FALSE,
+mechanic2,Mechanic 2,EMOTE,TRUE,FALSE,FALSE,
+mechanic3,Mechanic 3,EMOTE,TRUE,FALSE,FALSE,
+mechanic4,Mechanic 4,EMOTE,TRUE,FALSE,FALSE,
+medic,Medic,EMOTE,TRUE,FALSE,FALSE,
+medic2,Medic 2,EMOTE,TRUE,FALSE,FALSE,
+meditate,Meditate,EMOTE,TRUE,FALSE,FALSE,
+meditate2,Meditate 2,EMOTE,TRUE,FALSE,FALSE,
+meditate3,Meditate 3,EMOTE,TRUE,FALSE,FALSE,
 micheal,Micheal,WALK,FALSE,FALSE,TRUE,Marche
+mindblown,Mindblown,EMOTE,TRUE,FALSE,FALSE,
+mindblown2,Mindblown 2,EMOTE,TRUE,FALSE,FALSE,
+mindcontrol,Mindcontrol,EMOTE,TRUE,FALSE,FALSE,
+mindcontrol2,Mindcontrol 2,EMOTE,TRUE,FALSE,FALSE,
 money,Money,WALK,FALSE,FALSE,TRUE,Marche
+mugshot,Mugshot,EMOTE,TRUE,FALSE,FALSE,Item
 muscle,Muscle,WALK,FALSE,FALSE,TRUE,Marche
+musician,Musician,EMOTE,TRUE,FALSE,FALSE,
+namaste,Namaste,EMOTE,TRUE,FALSE,FALSE,
+nervous,Nervous,EMOTE,TRUE,FALSE,FALSE,
+nervous2,Nervous 2,EMOTE,TRUE,FALSE,FALSE,
+nervous3,Nervous 3,EMOTE,TRUE,FALSE,FALSE,
+no,No,EMOTE,TRUE,FALSE,FALSE,
+no2,No 2,EMOTE,TRUE,FALSE,FALSE,
+normal,Normal,WALK,FALSE,FALSE,TRUE,Marche
+nosepick,Nosepick,EMOTE,TRUE,FALSE,FALSE,
+notepad,Notepad,EMOTE,TRUE,FALSE,FALSE,Item
+notepad2,Notepad 2,EMOTE,TRUE,FALSE,FALSE,
+noway,Noway,EMOTE,TRUE,FALSE,FALSE,
+outofbreath,Outofbreath,EMOTE,TRUE,FALSE,FALSE,
+parkingmeter,Parkingmeter,EMOTE,TRUE,FALSE,FALSE,
+party,Party,EMOTE,TRUE,FALSE,FALSE,
+passout,Passout,EMOTE,TRUE,FALSE,FALSE,
+passout2,Passout 2,EMOTE,TRUE,FALSE,FALSE,
+passout3,Passout 3,EMOTE,TRUE,FALSE,FALSE,
+passout4,Passout 4,EMOTE,TRUE,FALSE,FALSE,
+passout5,Passout 5,EMOTE,TRUE,FALSE,FALSE,
+peace,Peace,EMOTE,TRUE,FALSE,FALSE,
+peace2,Peace 2,EMOTE,TRUE,FALSE,FALSE,
+pee,Pee,EMOTE,TRUE,FALSE,FALSE,
+peek,Peek,EMOTE,TRUE,FALSE,FALSE,
+petting,Petting,EMOTE,TRUE,FALSE,FALSE,
+phone,Phone,EMOTE,TRUE,FALSE,FALSE,Item
+phonecall,Phonecall,EMOTE,TRUE,FALSE,FALSE,Item
+pickup,Pickup,EMOTE,TRUE,FALSE,FALSE,
+point,Point,EMOTE,TRUE,FALSE,FALSE,
+pointdown,Pointdown,EMOTE,TRUE,FALSE,FALSE,
+pointright,Pointright,EMOTE,TRUE,FALSE,FALSE,
 posh,Posh,WALK,FALSE,FALSE,TRUE,Marche
 posh2,Posh2,WALK,FALSE,FALSE,TRUE,Marche
+prone,Prone,EMOTE,TRUE,FALSE,FALSE,
+prostituehigt,Prostituehigt,EMOTE,TRUE,FALSE,FALSE,
+prostituelow,Prostituelow,EMOTE,TRUE,FALSE,FALSE,
+puddle,Puddle,EMOTE,TRUE,FALSE,FALSE,
+pull,Pull,EMOTE,TRUE,FALSE,FALSE,
+pullover,Pullover,EMOTE,TRUE,FALSE,FALSE,
+punch,Punch,ACTION,FALSE,TRUE,FALSE,Action a deux
+punched,Punched,ACTION,FALSE,TRUE,FALSE,Action a deux
+punching,Punching,EMOTE,TRUE,FALSE,FALSE,
+push,Push,EMOTE,TRUE,FALSE,FALSE,
+push2,Push 2,EMOTE,TRUE,FALSE,FALSE,
+pushup,Pushup,EMOTE,TRUE,FALSE,FALSE,
 quick,Quick,WALK,FALSE,FALSE,TRUE,Marche
+rabbit,Rabbit,EMOTE,TRUE,FALSE,FALSE,
+radio,Radio,EMOTE,TRUE,FALSE,FALSE,
+reaching,Reaching,EMOTE,TRUE,FALSE,FALSE,
+record,Record,EMOTE,TRUE,FALSE,FALSE,
+rose,Rose,EMOTE,TRUE,FALSE,FALSE,Item
 runner,Runner,WALK,FALSE,FALSE,TRUE,Marche
 sad,Sad,WALK,FALSE,FALSE,TRUE,Marche
+salute,Salute,EMOTE,TRUE,FALSE,FALSE,
+salute2,Salute 2,EMOTE,TRUE,FALSE,FALSE,
+salute3,Salute 3,EMOTE,TRUE,FALSE,FALSE,
+sandwich,Sandwich,EMOTE,TRUE,FALSE,FALSE,Item
 sassy,Sassy,WALK,FALSE,FALSE,TRUE,Marche
 sassy2,Sassy2,WALK,FALSE,FALSE,TRUE,Marche
+scared,Scared,EMOTE,TRUE,FALSE,TRUE,
+scared2,Scared 2,EMOTE,TRUE,FALSE,FALSE,
+screwyou,Screwyou,EMOTE,TRUE,FALSE,FALSE,
 sexy,Sexy,WALK,FALSE,FALSE,TRUE,Marche
 shady,Shady,WALK,FALSE,FALSE,TRUE,Marche
+shakeoff,Shakeoff,EMOTE,TRUE,FALSE,FALSE,
+shot,Shot,EMOTE,TRUE,FALSE,FALSE,
+shrug,Shrug,EMOTE,TRUE,FALSE,FALSE,
+shrug2,Shrug 2,EMOTE,TRUE,FALSE,FALSE,
+sit1,Sit 1,EMOTE,TRUE,FALSE,FALSE,
+sit2,Sit 2,EMOTE,TRUE,FALSE,FALSE,
+sit3,Sit 3,EMOTE,TRUE,FALSE,FALSE,
+sit4,Sit 4,EMOTE,TRUE,FALSE,FALSE,
+sit5,Sit 5,EMOTE,TRUE,FALSE,FALSE,
+sit6,Sit 6,EMOTE,TRUE,FALSE,FALSE,
+sit7,Sit 7,EMOTE,TRUE,FALSE,FALSE,
+sit8,Sit 8,EMOTE,TRUE,FALSE,FALSE,
+sit9,Sit 9,EMOTE,TRUE,FALSE,FALSE,
+sitchair,Sitchair,EMOTE,TRUE,FALSE,FALSE,
+sitchair2,Sitchair 2,EMOTE,TRUE,FALSE,FALSE,
+sitchair3,Sitchair 3,EMOTE,TRUE,FALSE,FALSE,
+sitchair4,Sitchair 4,EMOTE,TRUE,FALSE,FALSE,
+sitchair5,Sitchair 5,EMOTE,TRUE,FALSE,FALSE,
+sitchair6,Sitchair 6,EMOTE,TRUE,FALSE,FALSE,
+sitchairside,Sitchairside,EMOTE,TRUE,FALSE,FALSE,
+sitdrunk,Sitdrunk,EMOTE,TRUE,FALSE,FALSE,
+sitesad,Sitesad,EMOTE,TRUE,FALSE,FALSE,
+sitescared,Sitescared,EMOTE,TRUE,FALSE,FALSE,
+sitescared2,Sitescared 2,EMOTE,TRUE,FALSE,FALSE,
+sitescared3,Sitescared 3,EMOTE,TRUE,FALSE,FALSE,
+sitlean,Sitlean,EMOTE,TRUE,FALSE,FALSE,
+situp,Situp,EMOTE,TRUE,FALSE,FALSE,
+slap,Slap,EMOTE,TRUE,TRUE,FALSE,
+slap2,Slap2,ACTION,FALSE,TRUE,FALSE,Action a deux
+slapped,Slapped,ACTION,FALSE,TRUE,FALSE,Action a deux
+slapped2,Slapped2,ACTION,FALSE,TRUE,FALSE,Action a deux
+sleep,Sleep,EMOTE,TRUE,FALSE,FALSE,
+slide,Slide,EMOTE,TRUE,FALSE,FALSE,
+slide2,Slide 2,EMOTE,TRUE,FALSE,FALSE,
+slide3,Slide 3,EMOTE,TRUE,FALSE,FALSE,
 slow,Slow,WALK,FALSE,FALSE,TRUE,Marche
+slowclap,Slowclap,EMOTE,TRUE,FALSE,FALSE,
+slowclap2,Slowclap 2,EMOTE,TRUE,FALSE,FALSE,
+slowclap3,Slowclap 3,EMOTE,TRUE,FALSE,FALSE,
+slugger,Slugger,EMOTE,TRUE,FALSE,FALSE,
+smell,Smell,EMOTE,TRUE,FALSE,FALSE,
+spiderman,Spiderman,EMOTE,TRUE,FALSE,FALSE,
+statue,Statue,EMOTE,TRUE,FALSE,FALSE,
+statue2,Statue 2,EMOTE,TRUE,FALSE,FALSE,
+statue3,Statue 3,EMOTE,TRUE,FALSE,FALSE,
+stickup,Stickup,EMOTE,TRUE,TRUE,FALSE,
+stickupscared,Stickupscared,ACTION,FALSE,TRUE,FALSE,Action a deux
+stretch,Stretch,EMOTE,TRUE,FALSE,FALSE,
+stretch2,Stretch 2,EMOTE,TRUE,FALSE,FALSE,
+stretch3,Stretch 3,EMOTE,TRUE,FALSE,FALSE,
+stretch4,Stretch 4,EMOTE,TRUE,FALSE,FALSE,
+stumble,Stumble,EMOTE,TRUE,FALSE,FALSE,
+stumble,Stumble,EMOTE,TRUE,FALSE,FALSE,
+stunned,Stunned,EMOTE,TRUE,FALSE,FALSE,
+suitcase,Suitcase,EMOTE,TRUE,FALSE,FALSE,Item
+suitcase2,Suitcase 2,EMOTE,TRUE,FALSE,FALSE,Item
+sunbathe,Sunbathe,EMOTE,TRUE,FALSE,FALSE,
+sunbathe2,Sunbathe 2,EMOTE,TRUE,FALSE,FALSE,
+sunbathe3,Sunbathe 3,EMOTE,TRUE,FALSE,FALSE,
+sunbatheback,Sunbatheback,EMOTE,TRUE,FALSE,FALSE,
+superhero,Superhero,EMOTE,TRUE,FALSE,FALSE,
+superhero2,Superhero 2,EMOTE,TRUE,FALSE,FALSE,
+surrender,Surrender,EMOTE,TRUE,FALSE,FALSE,
 swagger,Swagger,WALK,FALSE,FALSE,TRUE,Marche
+t,T,EMOTE,TRUE,FALSE,FALSE,
+t2,T 2,EMOTE,TRUE,FALSE,FALSE,
+tablet,Tablet,EMOTE,TRUE,FALSE,FALSE,Item
+tablet2,Tablet 2,EMOTE,TRUE,FALSE,FALSE,Item
+teddy,Teddy,EMOTE,TRUE,FALSE,FALSE,Item
+tevor,Tevor,WALK,FALSE,FALSE,TRUE,Marche
+texting,Texting,EMOTE,TRUE,FALSE,FALSE,
+think,Think,EMOTE,TRUE,FALSE,FALSE,
+think2,Think 2,EMOTE,TRUE,FALSE,FALSE,
+think3,Think 3,EMOTE,TRUE,FALSE,FALSE,
+think4,Think 4,EMOTE,TRUE,FALSE,FALSE,
+think5,Think 5,EMOTE,TRUE,FALSE,FALSE,
+thumbsup,Thumbsup,EMOTE,TRUE,FALSE,FALSE,
+thumbsup2,Thumbsup 2,EMOTE,TRUE,FALSE,FALSE,
+thumbsup3,Thumbsup 3,EMOTE,TRUE,FALSE,FALSE,
 tough,Tough,WALK,FALSE,FALSE,TRUE,Marche
 tough2,Tough2,WALK,FALSE,FALSE,TRUE,Marche
 trash,Trash,WALK,FALSE,FALSE,TRUE,Marche
 trash2,Trash2,WALK,FALSE,FALSE,TRUE,Marche
-tevor,Tevor,WALK,FALSE,FALSE,TRUE,Marche
+tryclothes,Tryclothes,EMOTE,TRUE,FALSE,FALSE,
+tryclothes2,Tryclothes 2,EMOTE,TRUE,FALSE,FALSE,
+tryclothes3,Tryclothes 3,EMOTE,TRUE,FALSE,FALSE,
+twerk,Twerk,EMOTE,TRUE,FALSE,FALSE,
+type,Type,EMOTE,TRUE,FALSE,FALSE,
+type2,Type 2,EMOTE,TRUE,FALSE,FALSE,
+type3,Type 3,EMOTE,TRUE,FALSE,FALSE,
+type4,Type 4,EMOTE,TRUE,FALSE,FALSE,
+uncuff,Uncuff,EMOTE,TRUE,FALSE,FALSE,
+wait1,Wait 1,EMOTE,TRUE,FALSE,FALSE,
+wait10,Wait  10,EMOTE,TRUE,FALSE,FALSE,
+wait11,Wait 1 1,EMOTE,TRUE,FALSE,FALSE,
+wait12,Wait 1 2,EMOTE,TRUE,FALSE,FALSE,
+wait13,Wait 1 3,EMOTE,TRUE,FALSE,FALSE,
+wait2,Wait 2,EMOTE,TRUE,FALSE,FALSE,
+wait3,Wait 3,EMOTE,TRUE,FALSE,FALSE,
+wait4,Wait 4,EMOTE,TRUE,FALSE,FALSE,
+wait5,Wait 5,EMOTE,TRUE,FALSE,FALSE,
+wait6,Wait 6,EMOTE,TRUE,FALSE,FALSE,
+wait7,Wait 7,EMOTE,TRUE,FALSE,FALSE,
+wait8,Wait 8,EMOTE,TRUE,FALSE,FALSE,
+wait9,Wait 9,EMOTE,TRUE,FALSE,FALSE,
+wave1,Wave 1,EMOTE,TRUE,FALSE,FALSE,
+wave2,Wave 2,EMOTE,TRUE,FALSE,FALSE,
+wave3,Wave 3,EMOTE,TRUE,FALSE,FALSE,
+wave4,Wave 4,EMOTE,TRUE,FALSE,FALSE,
+wave5,Wave 5,EMOTE,TRUE,FALSE,FALSE,
+wave6,Wave 6,EMOTE,TRUE,FALSE,FALSE,
+wave7,Wave 7,EMOTE,TRUE,FALSE,FALSE,
+wave8,Wave 8,EMOTE,TRUE,FALSE,FALSE,
+wave9,Wave 9,EMOTE,TRUE,FALSE,FALSE,
+weld,Weld,EMOTE,TRUE,FALSE,FALSE,
+whiskey,Whiskey,EMOTE,TRUE,FALSE,FALSE,Item
+whistle,Whistle,EMOTE,TRUE,FALSE,FALSE,
+whistle2,Whistle 2,EMOTE,TRUE,FALSE,FALSE,
 wide,Wide,WALK,FALSE,FALSE,TRUE,Marche
-baseball,Baseball,ACTION,FALSE,TRUE,FALSE,Action a deux
-baseballthrow,Baseballthrow,ACTION,FALSE,TRUE,FALSE,Action a deux
-bro,Bro,ACTION,FALSE,TRUE,FALSE,Action a deux
-bro2,Bro2,ACTION,FALSE,TRUE,FALSE,Action a deux
-give,Give,ACTION,FALSE,TRUE,FALSE,Action a deux
-give2,Give2,ACTION,FALSE,TRUE,FALSE,Action a deux
-handshake,Handshake,ACTION,FALSE,TRUE,FALSE,Action a deux
-handshake2,Handshake2,ACTION,FALSE,TRUE,FALSE,Action a deux
-headbutted,Headbutted,ACTION,FALSE,TRUE,FALSE,Action a deux
-punch,Punch,ACTION,FALSE,TRUE,FALSE,Action a deux
-punched,Punched,ACTION,FALSE,TRUE,FALSE,Action a deux
-slap2,Slap2,ACTION,FALSE,TRUE,FALSE,Action a deux
-slapped,Slapped,ACTION,FALSE,TRUE,FALSE,Action a deux
-slapped2,Slapped2,ACTION,FALSE,TRUE,FALSE,Action a deux
-stickupscared,Stickupscared,ACTION,FALSE,TRUE,FALSE,Action a deux
+windowshop,Window shop,EMOTE,TRUE,FALSE,FALSE,
+wine,Wine,EMOTE,TRUE,FALSE,FALSE,Item
+yeah,Yeah,EMOTE,TRUE,FALSE,FALSE,
+yoga,Yoga,EMOTE,TRUE,FALSE,FALSE,
