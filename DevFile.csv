@@ -380,10 +380,10 @@ sitchair5,Sitchair 5,EMOTE,TRUE,FALSE,FALSE
 sitchair6,Sitchair 6,EMOTE,TRUE,FALSE,FALSE
 sitchairside,Sitchairside,EMOTE,TRUE,FALSE,FALSE
 sitdrunk,Sitdrunk,EMOTE,TRUE,FALSE,FALSE
-sitesad,Sitesad,EMOTE,TRUE,FALSE,FALSE
-sitescared,Sitescared,EMOTE,TRUE,FALSE,FALSE
-sitescared2,Sitescared 2,EMOTE,TRUE,FALSE,FALSE
-sitescared3,Sitescared 3,EMOTE,TRUE,FALSE,FALSE
+sitsad,Sitesad,EMOTE,TRUE,FALSE,FALSE
+sitscared,Sitescared,EMOTE,TRUE,FALSE,FALSE
+sitscared2,Sitescared 2,EMOTE,TRUE,FALSE,FALSE
+sitscared3,Sitescared 3,EMOTE,TRUE,FALSE,FALSE
 sitlean,Sitlean,EMOTE,TRUE,FALSE,FALSE
 situp,Situp,EMOTE,TRUE,FALSE,FALSE
 slap,Slap,EMOTE,TRUE,TRUE,FALSE
