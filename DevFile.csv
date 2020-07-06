@@ -483,10 +483,10 @@ wine,Wine,EMOTE,TRUE,FALSE,FALSE,FALSE
 yeah,Yeah,EMOTE,TRUE,FALSE,FALSE,FALSE
 yoga,Yoga,EMOTE,TRUE,FALSE,FALSE,FALSE
 me,Me,CMD,FALSE,FALSE,FALSE,TRUE
-habit,S'habiller,CMD,FALSE,FALSE,FALSE,TRUE
-chandail,Enlever chandail,CMD,FALSE,FALSE,FALSE,TRUE
-pantalon,Enlever pantalon,CMD,FALSE,FALSE,FALSE,TRUE
-souliers,Enlever souliers,CMD,FALSE,FALSE,FALSE,TRUE
+habit,S'habiller,CMD,FALSE,FALSE,FALSE,FALSE
+chandail,Enlever chandail,CMD,FALSE,FALSE,FALSE,FALSE
+pantalon,Enlever pantalon,CMD,FALSE,FALSE,FALSE,FALSE
+souliers,Enlever souliers,CMD,FALSE,FALSE,FALSE,FALSE
 chapeau,Mettre/retirer chapeau,CMD,FALSE,FALSE,FALSE,FALSE
 lunettes,Mettre/retirer lunettes,CMD,FALSE,FALSE,FALSE,FALSE
 masque,Mettre/retirer masque,CMD,FALSE,FALSE,FALSE,FALSE
