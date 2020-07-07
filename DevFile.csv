@@ -1,4 +1,4 @@
-ID,NAME,TYPE,ISEMOTE,ISACTION,ISWALK,HASARGS
+﻿ID,NAME,TYPE,ISEMOTE,ISACTION,ISWALK,HASARGS
 adjust,Adjust,EMOTE,TRUE,FALSE,FALSE,FALSE,FALSE
 adjusttie,Adjust Tie,EMOTE,TRUE,FALSE,FALSE,FALSE,FALSE
 airguitar,Air Guitar,EMOTE,TRUE,FALSE,FALSE,FALSE,FALSE
@@ -482,16 +482,28 @@ windowshop,Window shop,EMOTE,TRUE,FALSE,FALSE,FALSE
 wine,Wine,EMOTE,TRUE,FALSE,FALSE,FALSE
 yeah,Yeah,EMOTE,TRUE,FALSE,FALSE,FALSE
 yoga,Yoga,EMOTE,TRUE,FALSE,FALSE,FALSE
-me,Me,CMD,FALSE,FALSE,FALSE,TRUE
-habit,S'habiller,CMD,FALSE,FALSE,FALSE,FALSE
+acessoire,Mettre/retirer accessoire,CMD,FALSE,FALSE,FALSE,FALSE
 chandail,Enlever chandail,CMD,FALSE,FALSE,FALSE,FALSE
-pantalon,Enlever pantalon,CMD,FALSE,FALSE,FALSE,FALSE
-souliers,Enlever souliers,CMD,FALSE,FALSE,FALSE,FALSE
 chapeau,Mettre/retirer chapeau,CMD,FALSE,FALSE,FALSE,FALSE
+clé,Donner clé,CMD,FALSE,FALSE,FALSE,FALSE
+coffre,Ouvrir/fermer coffre,CMD,FALSE,FALSE,FALSE,FALSE
+facture,Faire une facture,CMD,FALSE,FALSE,FALSE,TRUE
+fen,Descendre/monter fenêtre,CMD,FALSE,FALSE,FALSE,TRUE
+habit,S'habiller,CMD,FALSE,FALSE,FALSE,FALSE
+id,Afficher mon identifiant,CMD,FALSE,FALSE,FALSE,FALSE
+id2,Afficher les identifiants,CMD,FALSE,FALSE,FALSE,FALSE
+infos,Afficher informations personnage,CMD,FALSE,FALSE,FALSE,FALSE
 lunettes,Mettre/retirer lunettes,CMD,FALSE,FALSE,FALSE,FALSE
 masque,Mettre/retirer masque,CMD,FALSE,FALSE,FALSE,FALSE
-services,Afficher services,CMD,FALSE,FALSE,FALSE,FALSE
-infos,Afficher informations personnage,CMD,FALSE,FALSE,FALSE,FALSE
-radio,Éteindre radio,CMD,FALSE,FALSE,FALSE,FALSE
-raccrocher,Raccrocher téléphone,CMD,FALSE,FALSE,FALSE,FALSE
+me,Me,CMD,FALSE,FALSE,FALSE,TRUE
+moteur,Démarrer/éteindre moteur,CMD,FALSE,FALSE,FALSE,FALSE
 openradio,Allumer la radio,CMD,FALSE,FALSE,FALSE,FALSE
+oreille,Mettre/retirer oreillette,CMD,FALSE,FALSE,FALSE,FALSE
+pantalon,Enlever pantalon,CMD,FALSE,FALSE,FALSE,FALSE
+patate,Prendre en patate,CMD,FALSE,FALSE,FALSE,FALSE
+raccrocher,Raccrocher téléphone,CMD,FALSE,FALSE,FALSE,FALSE
+radio,Éteindre radio,CMD,FALSE,FALSE,FALSE,FALSE
+ramper,Ramper,CMD,FALSE,FALSE,FALSE,FALSE
+services,Afficher services,CMD,FALSE,FALSE,FALSE,FALSE
+siege,Changer de siège,CMD,FALSE,FALSE,FALSE,TRUE
+souliers,Enlever souliers,CMD,FALSE,FALSE,FALSE,FALSE
