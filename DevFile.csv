@@ -109,7 +109,7 @@ dancef3,Dance F 3,EMOTE,TRUE,TRUE,FALSE,FALSE
 dancef4,Dance F 4,EMOTE,TRUE,TRUE,FALSE,FALSE
 dancef5,Dance F 5,EMOTE,TRUE,TRUE,FALSE,FALSE
 dancef6,Dance F 6,EMOTE,TRUE,TRUE,FALSE,FALSE
-danceglowstick1,Dance Glowstick 1,EMOTE,TRUE,TRUE,FALSE,FALSE
+danceglowstick,Dance Glowstick 1,EMOTE,TRUE,TRUE,FALSE,FALSE
 danceglowstick2,Dance Glowstick 2,EMOTE,TRUE,TRUE,FALSE,FALSE
 danceglowstick3,Dance Glowstick 3,EMOTE,TRUE,TRUE,FALSE,FALSE
 dancehorse,Dance Horse,EMOTE,TRUE,TRUE,FALSE,FALSE
