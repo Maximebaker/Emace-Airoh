@@ -495,6 +495,7 @@ id2,Afficher les identifiants,CMD,FALSE,FALSE,FALSE,FALSE
 infos,Afficher informations personnage,CMD,FALSE,FALSE,FALSE,FALSE
 lunette,Mettre/retirer lunettes,CMD,FALSE,FALSE,FALSE,FALSE
 masque,Mettre/retirer masque,CMD,FALSE,FALSE,FALSE,FALSE
+mdt,Console des services d'urgence,CMD,FALSE,FALSE,FALSE,FALSE
 me,Me,CMD,FALSE,FALSE,FALSE,TRUE
 moteur,Démarrer/éteindre moteur,CMD,FALSE,FALSE,FALSE,FALSE
 openradio,Allumer la radio,CMD,FALSE,FALSE,FALSE,FALSE
@@ -507,3 +508,4 @@ ramper,Ramper,CMD,FALSE,FALSE,FALSE,FALSE
 services,Afficher services,CMD,FALSE,FALSE,FALSE,FALSE
 siege,Changer de siège,CMD,FALSE,FALSE,FALSE,TRUE
 souliers,Enlever souliers,CMD,FALSE,FALSE,FALSE,FALSE
+voler,Voler,CMD,FALSE,FALSE,FALSE,FALSE
