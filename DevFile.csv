@@ -482,7 +482,7 @@ windowshop,Window shop,EMOTE,TRUE,FALSE,FALSE,FALSE
 wine,Wine,EMOTE,TRUE,FALSE,FALSE,FALSE
 yeah,Yeah,EMOTE,TRUE,FALSE,FALSE,FALSE
 yoga,Yoga,EMOTE,TRUE,FALSE,FALSE,FALSE
-acessoire,Mettre/retirer accessoire,CMD,FALSE,FALSE,FALSE,FALSE
+accessoire,Mettre/retirer accessoire,CMD,FALSE,FALSE,FALSE,FALSE
 chandail,Enlever chandail,CMD,FALSE,FALSE,FALSE,FALSE
 chapeau,Mettre/retirer chapeau,CMD,FALSE,FALSE,FALSE,FALSE
 clé,Donner clé,CMD,FALSE,FALSE,FALSE,FALSE
