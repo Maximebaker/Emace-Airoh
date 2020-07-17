@@ -486,6 +486,7 @@ chapeau,Mettre/retirer chapeau,CMD,FALSE,FALSE,FALSE,FALSE
 clé,Donner clé,CMD,FALSE,FALSE,FALSE,FALSE
 coffre,Ouvrir/fermer coffre,CMD,FALSE,FALSE,FALSE,FALSE
 facture,Faire une facture,CMD,FALSE,FALSE,FALSE,TRUE
+fauteuil,Sortir un fauteuil roulant,CMD,FALSE,FALSE,FALSE,FALSE
 fen,Descendre/monter fenêtre,CMD,FALSE,FALSE,FALSE,TRUE
 habit,S'habiller,CMD,FALSE,FALSE,FALSE,FALSE
 id,Afficher mon identifiant,CMD,FALSE,FALSE,FALSE,FALSE
@@ -504,6 +505,7 @@ patate,Prendre en patate,CMD,FALSE,FALSE,FALSE,FALSE
 raccrocher,Raccrocher téléphone,CMD,FALSE,FALSE,FALSE,FALSE
 radio,Éteindre radio,CMD,FALSE,FALSE,FALSE,FALSE
 ramper,Ramper,CMD,FALSE,FALSE,FALSE,FALSE
+rfauteuil,Ranger un fauteuil roulant,CMD,FALSE,FALSE,FALSE,FALSE
 services,Afficher services,CMD,FALSE,FALSE,FALSE,FALSE
 siege,Changer de siège,CMD,FALSE,FALSE,FALSE,TRUE
 souliers,Enlever souliers,CMD,FALSE,FALSE,FALSE,FALSE
