@@ -485,28 +485,42 @@ chandail,Enlever chandail,CMD,FALSE,FALSE,FALSE,FALSE
 chapeau,Mettre/retirer chapeau,CMD,FALSE,FALSE,FALSE,FALSE
 clé,Donner clé,CMD,FALSE,FALSE,FALSE,FALSE
 coffre,Ouvrir/fermer coffre,CMD,FALSE,FALSE,FALSE,FALSE
+crocheter,Crocheter un véhicule,CMD,FALSE,FALSE,FALSE,FALSE
 facture,Faire une facture,CMD,FALSE,FALSE,FALSE,TRUE
 fauteuil,Sortir un fauteuil roulant,CMD,FALSE,FALSE,FALSE,FALSE
 fen,Descendre/monter fenêtre,CMD,FALSE,FALSE,FALSE,TRUE
+fix,Réparer un véhicule,CMD,FALSE,FALSE,FALSE,FALSE
 habit,S'habiller,CMD,FALSE,FALSE,FALSE,FALSE
 id,Afficher mon identifiant,CMD,FALSE,FALSE,FALSE,FALSE
 id2,Afficher les identifiants,CMD,FALSE,FALSE,FALSE,FALSE
+impound,Remorquer un véhicule,CMD,FALSE,FALSE,FALSE,FALSE
 infos,Afficher informations personnage,CMD,FALSE,FALSE,FALSE,FALSE
 lunette,Mettre/retirer lunettes,CMD,FALSE,FALSE,FALSE,FALSE
 masque,Mettre/retirer masque,CMD,FALSE,FALSE,FALSE,FALSE
-matricule,Mettre/retirer matricule,CMD,FALSE,FALSE,FALSE,TRUE
+matricule,Mise en place du Matricule TEAMSPEAK,CMD,FALSE,FALSE,FALSE,TRUE
 mdt,Console des services d'urgence,CMD,FALSE,FALSE,FALSE,FALSE
 me,Me,CMD,FALSE,FALSE,FALSE,TRUE
 moteur,Démarrer/éteindre moteur,CMD,FALSE,FALSE,FALSE,FALSE
 openradio,Allumer la radio,CMD,FALSE,FALSE,FALSE,FALSE
 oreille,Mettre/retirer oreillette,CMD,FALSE,FALSE,FALSE,FALSE
+pansement,Arrêter les saignements,CMD,FALSE,FALSE,FALSE,FALSE
 pantalon,Enlever pantalon,CMD,FALSE,FALSE,FALSE,FALSE
 patate,Prendre en patate,CMD,FALSE,FALSE,FALSE,FALSE
 raccrocher,Raccrocher téléphone,CMD,FALSE,FALSE,FALSE,FALSE
 radio,Éteindre radio,CMD,FALSE,FALSE,FALSE,FALSE
 ramper,Ramper,CMD,FALSE,FALSE,FALSE,FALSE
+reanimer,Revive quelqu'un de KO,CMD,FALSE,FALSE,FALSE,FALSE
 rfauteuil,Ranger un fauteuil roulant,CMD,FALSE,FALSE,FALSE,FALSE
 services,Afficher services,CMD,FALSE,FALSE,FALSE,FALSE
 siege,Changer de siège,CMD,FALSE,FALSE,FALSE,TRUE
+soigner,Retirer les douleurs et arrêter les saignements,CMD,FALSE,FALSE,FALSE,FALSE
 souliers,Enlever souliers,CMD,FALSE,FALSE,FALSE,FALSE
+status,Voir les signes physiques,CMD,FALSE,FALSE,FALSE,FALSE
+sv,Spawn véhicule,CMD,FALSE,FALSE,FALSE,TRUE
 voler,Voler,CMD,FALSE,FALSE,FALSE,FALSE
+10-14,KO en service,CMD,FALSE,FALSE,FALSE,FALSE
+10-42,Fin de service à distance,CMD,FALSE,FALSE,FALSE,FALSE
+911,Faire un appel 911,CMD,FALSE,FALSE,FALSE,TRUE
+911r,Répondre à un appel 911,CMD,FALSE,FALSE,FALSE,TRUE
+311,Faire un appel 311,CMD,FALSE,FALSE,FALSE,TRUE
+311r,Répondre à un appel 311,CMD,FALSE,FALSE,FALSE,TRUE
