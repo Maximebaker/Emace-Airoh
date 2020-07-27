@@ -495,7 +495,7 @@ id,Afficher mon identifiant,CMD,FALSE,FALSE,FALSE,FALSE
 id2,Afficher les identifiants,CMD,FALSE,FALSE,FALSE,FALSE
 impound,Remorquer un véhicule,CMD,FALSE,FALSE,FALSE,FALSE
 infos,Afficher informations personnage,CMD,FALSE,FALSE,FALSE,FALSE
-lunette,Mettre/retirer lunettes,CMD,FALSE,FALSE,FALSE,FALSE
+lunettes,Mettre/retirer lunettes,CMD,FALSE,FALSE,FALSE,FALSE
 masque,Mettre/retirer masque,CMD,FALSE,FALSE,FALSE,FALSE
 matricule,Mise en place du Matricule TEAMSPEAK,CMD,FALSE,FALSE,FALSE,TRUE
 mdt,Console des services d'urgence,CMD,FALSE,FALSE,FALSE,FALSE
