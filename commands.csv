@@ -486,6 +486,7 @@ chapeau,Mettre/retirer chapeau,CMD,FALSE,FALSE,FALSE,FALSE
 clé,Donner clé,CMD,FALSE,FALSE,FALSE,FALSE
 coffre,Ouvrir/fermer coffre,CMD,FALSE,FALSE,FALSE,FALSE
 crocheter,Crocheter un véhicule,CMD,FALSE,FALSE,FALSE,FALSE
+ems,Console des services d'urgence,CMD,FALSE,FALSE,FALSE,FALSE
 facture,Faire une facture,CMD,FALSE,FALSE,FALSE,TRUE
 fauteuil,Sortir un fauteuil roulant,CMD,FALSE,FALSE,FALSE,FALSE
 fen,Descendre/monter fenêtre,CMD,FALSE,FALSE,FALSE,TRUE
