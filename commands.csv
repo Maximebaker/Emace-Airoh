@@ -481,12 +481,15 @@ wine,Wine,EMOTE,TRUE,FALSE,FALSE,FALSE
 yeah,Yeah,EMOTE,TRUE,FALSE,FALSE,FALSE
 yoga,Yoga,EMOTE,TRUE,FALSE,FALSE,FALSE
 accessoire,Mettre/retirer accessoire,CMD,FALSE,FALSE,FALSE,FALSE
+dé,Lancer un dé,CMD,FALSE,FALSE,FALSE,TRUE
 chandail,Enlever chandail,CMD,FALSE,FALSE,FALSE,FALSE
 chapeau,Mettre/retirer chapeau,CMD,FALSE,FALSE,FALSE,FALSE
 clé,Donner clé,CMD,FALSE,FALSE,FALSE,FALSE
 coffre,Ouvrir/fermer coffre,CMD,FALSE,FALSE,FALSE,FALSE
+color,Couleur du véhicule de service (police),FALSE,FALSE,FALSE,TRUE
 crocheter,Crocheter un véhicule,CMD,FALSE,FALSE,FALSE,FALSE
 ems,Console des services d'urgence,CMD,FALSE,FALSE,FALSE,FALSE
+extra,Ajouter des éléments additionnels sur un véhicule,CMD,FALSE,FALSE,FALSE,TRUE
 facture,Faire une facture,CMD,FALSE,FALSE,FALSE,TRUE
 fauteuil,Sortir un fauteuil roulant,CMD,FALSE,FALSE,FALSE,FALSE
 fen,Descendre/monter fenêtre,CMD,FALSE,FALSE,FALSE,TRUE
@@ -496,6 +499,7 @@ id,Afficher mon identifiant,CMD,FALSE,FALSE,FALSE,FALSE
 id2,Afficher les identifiants,CMD,FALSE,FALSE,FALSE,FALSE
 impound,Remorquer un véhicule,CMD,FALSE,FALSE,FALSE,FALSE
 infos,Afficher informations personnage,CMD,FALSE,FALSE,FALSE,FALSE
+livery,Changer plaque véhicule,CMD,FALSE,FALSE,FALSE,TRUE
 lunettes,Mettre/retirer lunettes,CMD,FALSE,FALSE,FALSE,FALSE
 masque,Mettre/retirer masque,CMD,FALSE,FALSE,FALSE,FALSE
 matricule,Mise en place du Matricule TEAMSPEAK,CMD,FALSE,FALSE,FALSE,TRUE
@@ -518,6 +522,7 @@ soigner,Retirer les douleurs et arrêter les saignements,CMD,FALSE,FALSE,FALSE,F
 souliers,Enlever souliers,CMD,FALSE,FALSE,FALSE,FALSE
 status,Voir les signes physiques,CMD,FALSE,FALSE,FALSE,FALSE
 sv,Spawn véhicule,CMD,FALSE,FALSE,FALSE,TRUE
+tint,Teinte de couleur des fenêtres,CMD,FALSE,FALSE,FALSE,TRUE
 voler,Voler,CMD,FALSE,FALSE,FALSE,FALSE
 10-13,Officier blessé,CMD,FALSE,FALSE,FALSE,FALSE
 10-14,EMS blessé,CMD,FALSE,FALSE,FALSE,FALSE
