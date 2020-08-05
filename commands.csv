@@ -494,6 +494,8 @@ facture,Faire une facture,CMD,FALSE,FALSE,FALSE,TRUE
 fauteuil,Sortir un fauteuil roulant,CMD,FALSE,FALSE,FALSE,FALSE
 fen,Descendre/monter fenêtre,CMD,FALSE,FALSE,FALSE,TRUE
 fix,Réparer un véhicule,CMD,FALSE,FALSE,FALSE,FALSE
+fouiller,Fouiller quelqu'un,CMD,FALSE,FALSE,FALSE,FALSE
+frisk,Savoir si la personne a une arme ou de la drogue,CMD,FALSE,FALSE,FALSE,FALSE
 habit,S'habiller,CMD,FALSE,FALSE,FALSE,FALSE
 id,Afficher mon identifiant,CMD,FALSE,FALSE,FALSE,FALSE
 id2,Afficher les identifiants,CMD,FALSE,FALSE,FALSE,FALSE
