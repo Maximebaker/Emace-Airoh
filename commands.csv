@@ -484,6 +484,7 @@ accessoire,Mettre/retirer accessoire,CMD,FALSE,FALSE,FALSE,FALSE
 dé,Lancer un dé,CMD,FALSE,FALSE,FALSE,TRUE
 chandail,Enlever chandail,CMD,FALSE,FALSE,FALSE,FALSE
 chapeau,Mettre/retirer chapeau,CMD,FALSE,FALSE,FALSE,FALSE
+cheveux,Retirer cheveux,CMD,FALSE,FALSE,FALSE,FALSE
 clé,Donner clé,CMD,FALSE,FALSE,FALSE,FALSE
 coffre,Ouvrir/fermer coffre,CMD,FALSE,FALSE,FALSE,FALSE
 color,Couleur du véhicule de service (police),FALSE,FALSE,FALSE,TRUE
