@@ -526,6 +526,7 @@ siege,Changer de siège,CMD,FALSE,FALSE,FALSE,TRUE
 soigner,Retirer les douleurs et arrêter les saignements,CMD,FALSE,FALSE,FALSE,FALSE
 souliers,Enlever souliers,CMD,FALSE,FALSE,FALSE,FALSE
 status,Voir les signes physiques,CMD,FALSE,FALSE,FALSE,FALSE
+statusc,Status personnalisé,CMD,FALSE,FALSE,FALSE,TRUE
 sv,Spawn véhicule,CMD,FALSE,FALSE,FALSE,TRUE
 tint,Teinte de couleur des fenêtres,CMD,FALSE,FALSE,FALSE,TRUE
 voler,Voler,CMD,FALSE,FALSE,FALSE,FALSE
