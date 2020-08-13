@@ -516,6 +516,7 @@ oreille,Mettre/retirer oreillette,CMD,FALSE,FALSE,FALSE,FALSE
 pansement,Arrêter les saignements,CMD,FALSE,FALSE,FALSE,FALSE
 pantalon,Enlever pantalon,CMD,FALSE,FALSE,FALSE,FALSE
 patate,Prendre en patate,CMD,FALSE,FALSE,FALSE,FALSE
+ping,Envoyer position GPS,CMD,FALSE,FALSE,FALSE,TRUE
 raccrocher,Raccrocher téléphone,CMD,FALSE,FALSE,FALSE,FALSE
 radio,Éteindre radio,CMD,FALSE,FALSE,FALSE,FALSE
 ramper,Ramper,CMD,FALSE,FALSE,FALSE,FALSE
