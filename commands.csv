@@ -397,6 +397,7 @@ slowclap2,Slowclap 2,EMOTE,TRUE,FALSE,FALSE,FALSE
 slowclap3,Slowclap 3,EMOTE,TRUE,FALSE,FALSE,FALSE
 slugger,Slugger,EMOTE,TRUE,FALSE,FALSE,FALSE
 smell,Smell,EMOTE,TRUE,FALSE,FALSE,FALSE
+smoke2,Fumer une cigarette,EMOTE,TRUE,FALSE,FALSE,FALSE
 spiderman,Spiderman,EMOTE,TRUE,FALSE,FALSE,FALSE
 statue,Statue,EMOTE,TRUE,FALSE,FALSE,FALSE
 statue2,Statue 2,EMOTE,TRUE,FALSE,FALSE,FALSE
@@ -481,6 +482,7 @@ yeah,Yeah,EMOTE,TRUE,FALSE,FALSE,FALSE
 yoga,Yoga,EMOTE,TRUE,FALSE,FALSE,FALSE
 accessoire,Mettre/retirer accessoire,CMD,FALSE,FALSE,FALSE,FALSE
 ancre,Monter/descendre l'ancre des bateaux,CMD,FALSE,FALSE,FALSE,FALSE
+arreterjob,Arrêter le travail,CMD,FALSE,FALSE,FALSE,FALSE
 dé,Lancer un dé,CMD,FALSE,FALSE,FALSE,TRUE
 chandail,Enlever chandail,CMD,FALSE,FALSE,FALSE,FALSE
 chapeau,Mettre/retirer chapeau,CMD,FALSE,FALSE,FALSE,FALSE
@@ -490,6 +492,7 @@ clear,Effacer le chat,CMD,FALSE,FALSE,FALSE,FALSE
 clé,Donner clé,CMD,FALSE,FALSE,FALSE,FALSE
 coffre,Ouvrir/fermer coffre,CMD,FALSE,FALSE,FALSE,FALSE
 color,Couleur du véhicule de service (police),CMD,FALSE,FALSE,FALSE,TRUE
+commencerjob,Commencer un travail,CMD,FALSE,FALSE,FALSE,FALSE
 crocheter,Crocheter un véhicule,CMD,FALSE,FALSE,FALSE,FALSE
 ems,Console des services d'urgence,CMD,FALSE,FALSE,FALSE,FALSE
 extra,Ajouter des éléments additionnels sur un véhicule,CMD,FALSE,FALSE,FALSE,TRUE
@@ -503,6 +506,7 @@ habit,S'habiller,CMD,FALSE,FALSE,FALSE,FALSE
 id,Afficher mon identifiant,CMD,FALSE,FALSE,FALSE,FALSE
 id2,Afficher les identifiants,CMD,FALSE,FALSE,FALSE,FALSE
 impound,Remorquer un véhicule,CMD,FALSE,FALSE,FALSE,FALSE
+impoundcriminel,Remorquer un véhicule criminel,CMD,FALSE,FALSE,FALSE,FALSE
 infos,Afficher informations personnage,CMD,FALSE,FALSE,FALSE,FALSE
 livery,Changer plaque véhicule,CMD,FALSE,FALSE,FALSE,TRUE
 lunettes,Mettre/retirer lunettes,CMD,FALSE,FALSE,FALSE,FALSE
@@ -511,6 +515,7 @@ matricule,Mise en place du Matricule TEAMSPEAK,CMD,FALSE,FALSE,FALSE,TRUE
 mdt,Console des services d'urgence,CMD,FALSE,FALSE,FALSE,FALSE
 me,Me,CMD,FALSE,FALSE,FALSE,TRUE
 moteur,Démarrer/éteindre moteur,CMD,FALSE,FALSE,FALSE,FALSE
+notif,Notification,CMD,FALSE,FALSE,FALSE,FALSE
 openradio,Allumer la radio,CMD,FALSE,FALSE,FALSE,FALSE
 oreille,Mettre/retirer oreillette,CMD,FALSE,FALSE,FALSE,FALSE
 pansement,Arrêter les saignements,CMD,FALSE,FALSE,FALSE,FALSE
@@ -524,6 +529,7 @@ radio,Éteindre radio,CMD,FALSE,FALSE,FALSE,FALSE
 ramper,Ramper,CMD,FALSE,FALSE,FALSE,FALSE
 reanimer,Revive quelqu'un de KO,CMD,FALSE,FALSE,FALSE,FALSE
 rfauteuil,Ranger un fauteuil roulant,CMD,FALSE,FALSE,FALSE,FALSE
+rpc,Roche Papier Ciseaux,CMD,FALSE,FALSE,FALSE,TRUE
 services,Afficher services,CMD,FALSE,FALSE,FALSE,FALSE
 siege,Changer de siège,CMD,FALSE,FALSE,FALSE,TRUE
 soigner,Retirer les douleurs et arrêter les saignements,CMD,FALSE,FALSE,FALSE,FALSE
@@ -532,6 +538,7 @@ status,Voir les signes physiques,CMD,FALSE,FALSE,FALSE,FALSE
 statusc,Status personnalisé,CMD,FALSE,FALSE,FALSE,TRUE
 sv,Spawn véhicule,CMD,FALSE,FALSE,FALSE,TRUE
 tint,Teinte de couleur des fenêtres,CMD,FALSE,FALSE,FALSE,TRUE
+veste,Retirer veste,CMD,FALSE,FALSE,FALSE,FALSE
 voler,Voler,CMD,FALSE,FALSE,FALSE,FALSE
 10-13,Officier blessé,CMD,FALSE,FALSE,FALSE,FALSE
 10-14,EMS blessé,CMD,FALSE,FALSE,FALSE,FALSE
