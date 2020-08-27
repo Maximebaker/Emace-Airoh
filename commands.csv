@@ -537,6 +537,7 @@ souliers,Enlever souliers,CMD,FALSE,FALSE,FALSE,FALSE
 status,Voir les signes physiques,CMD,FALSE,FALSE,FALSE,FALSE
 statusc,Status personnalisé,CMD,FALSE,FALSE,FALSE,TRUE
 sv,Spawn véhicule,CMD,FALSE,FALSE,FALSE,TRUE
+vape,Utiliser une vapoteuse,CMD,FALSE,FALSE,FALSE,TRUE
 tint,Teinte de couleur des fenêtres,CMD,FALSE,FALSE,FALSE,TRUE
 veste,Retirer veste,CMD,FALSE,FALSE,FALSE,FALSE
 voler,Voler,CMD,FALSE,FALSE,FALSE,FALSE
