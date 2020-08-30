@@ -516,7 +516,6 @@ mdt,Console des services d'urgence,CMD,FALSE,FALSE,FALSE,FALSE
 me,Me,CMD,FALSE,FALSE,FALSE,TRUE
 moteur,Démarrer/éteindre moteur,CMD,FALSE,FALSE,FALSE,FALSE
 notif,Notification,CMD,FALSE,FALSE,FALSE,FALSE
-openradio,Allumer la radio,CMD,FALSE,FALSE,FALSE,FALSE
 oreille,Mettre/retirer oreillette,CMD,FALSE,FALSE,FALSE,FALSE
 pansement,Arrêter les saignements,CMD,FALSE,FALSE,FALSE,FALSE
 pantalon,Enlever pantalon,CMD,FALSE,FALSE,FALSE,FALSE
