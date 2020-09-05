@@ -1,2 +1,2 @@
 1.1.1
-https://discord.emace-airoh.ca
+https://eagit.emace-airoh.ca/setup.exe
