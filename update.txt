@@ -1,2 +1,2 @@
-1.1.0
+1.1.1
 https://eagit.emace-airoh.ca/setup.exe
