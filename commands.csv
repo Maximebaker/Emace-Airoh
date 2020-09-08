@@ -483,10 +483,12 @@ yoga,Yoga,EMOTE,TRUE,FALSE,FALSE,FALSE
 accessoire,Mettre/retirer accessoire,CMD,FALSE,FALSE,FALSE,FALSE
 ancre,Monter/descendre l'ancre des bateaux,CMD,FALSE,FALSE,FALSE,FALSE
 arreterjob,Arrêter le travail,CMD,FALSE,FALSE,FALSE,FALSE
+blocnotes,Sortir bloc-notes,CMD,FALSE,FALSE,FALSE,FALSE
 dé,Lancer un dé,CMD,FALSE,FALSE,FALSE,TRUE
 chandail,Enlever chandail,CMD,FALSE,FALSE,FALSE,FALSE
 chapeau,Mettre/retirer chapeau,CMD,FALSE,FALSE,FALSE,FALSE
 cheveux,Retirer cheveux,CMD,FALSE,FALSE,FALSE,FALSE
+calculatrice,Sortir calculatrice,CMD,FALSE,FALSE,FALSE,FALSE
 cam,Sortir/ranger caméra,CMD,FALSE,FALSE,FALSE,FALSE
 clear,Effacer le chat,CMD,FALSE,FALSE,FALSE,FALSE
 clé,Donner clé,CMD,FALSE,FALSE,FALSE,FALSE
@@ -502,6 +504,7 @@ fen,Descendre/monter fenêtre,CMD,FALSE,FALSE,FALSE,TRUE
 fix,Réparer un véhicule,CMD,FALSE,FALSE,FALSE,FALSE
 fouiller,Fouiller quelqu'un,CMD,FALSE,FALSE,FALSE,FALSE
 frisk,Savoir si la personne a une arme ou de la drogue,CMD,FALSE,FALSE,FALSE,FALSE
+jumelles,Sortir/Ranger jumelles,CMD,FALSE,FALSE,FALSE,FALSE
 habit,S'habiller,CMD,FALSE,FALSE,FALSE,FALSE
 id,Afficher mon identifiant,CMD,FALSE,FALSE,FALSE,FALSE
 id2,Afficher les identifiants,CMD,FALSE,FALSE,FALSE,FALSE
@@ -519,6 +522,7 @@ notif,Notification,CMD,FALSE,FALSE,FALSE,FALSE
 oreille,Mettre/retirer oreillette,CMD,FALSE,FALSE,FALSE,FALSE
 pansement,Arrêter les saignements,CMD,FALSE,FALSE,FALSE,FALSE
 pantalon,Enlever pantalon,CMD,FALSE,FALSE,FALSE,FALSE
+parapluie,Sortir/Ranger parapluie,CMD,FALSE,FALSE,FALSE,FALSE
 patate,Prendre en patate,CMD,FALSE,FALSE,FALSE,FALSE
 patron,Gestion entreprise,CMD,FALSE,FALSE,FALSE,FALSE
 ping,Envoyer position GPS,CMD,FALSE,FALSE,FALSE,TRUE
