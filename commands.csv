@@ -533,6 +533,7 @@ ramper,Ramper,CMD,FALSE,FALSE,FALSE,FALSE
 reanimer,Revive quelqu'un de KO,CMD,FALSE,FALSE,FALSE,FALSE
 rfauteuil,Ranger un fauteuil roulant,CMD,FALSE,FALSE,FALSE,FALSE
 rpc,Roche Papier Ciseaux,CMD,FALSE,FALSE,FALSE,TRUE
+salaire,Voir le salaire,CMD,FALSE,FALSE,FALSE,FALSE
 services,Afficher services,CMD,FALSE,FALSE,FALSE,FALSE
 siege,Changer de siège,CMD,FALSE,FALSE,FALSE,TRUE
 soigner,Retirer les douleurs et arrêter les saignements,CMD,FALSE,FALSE,FALSE,FALSE
