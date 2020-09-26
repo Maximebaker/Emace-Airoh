@@ -481,6 +481,7 @@ wine,Wine,EMOTE,TRUE,FALSE,FALSE,FALSE
 yeah,Yeah,EMOTE,TRUE,FALSE,FALSE,FALSE
 yoga,Yoga,EMOTE,TRUE,FALSE,FALSE,FALSE
 accessoire,Mettre/retirer accessoire,CMD,FALSE,FALSE,FALSE,FALSE
+amende,Donner une amende,CMD,FALSE,FALSE,FALSE,TRUE
 ancre,Monter/descendre l'ancre des bateaux,CMD,FALSE,FALSE,FALSE,FALSE
 arreterjob,Arrêter le travail,CMD,FALSE,FALSE,FALSE,FALSE
 blocnotes,Sortir bloc-notes,CMD,FALSE,FALSE,FALSE,FALSE
