@@ -507,6 +507,7 @@ fouiller,Fouiller quelqu'un,CMD,FALSE,FALSE,FALSE,FALSE
 frisk,Savoir si la personne a une arme ou de la drogue,CMD,FALSE,FALSE,FALSE,FALSE
 jumelles,Sortir/Ranger jumelles,CMD,FALSE,FALSE,FALSE,FALSE
 habit,S'habiller,CMD,FALSE,FALSE,FALSE,FALSE
+hud,Modifier L'affichage,CMD,FALSE,FALSE,FALSE,TRUE
 id,Afficher mon identifiant,CMD,FALSE,FALSE,FALSE,FALSE
 id2,Afficher les identifiants,CMD,FALSE,FALSE,FALSE,FALSE
 impound,Remorquer un véhicule,CMD,FALSE,FALSE,FALSE,FALSE
