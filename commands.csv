@@ -533,6 +533,7 @@ raccrocher,Raccrocher téléphone,CMD,FALSE,FALSE,FALSE,FALSE
 radio,Éteindre radio,CMD,FALSE,FALSE,FALSE,FALSE
 ramper,Ramper,CMD,FALSE,FALSE,FALSE,FALSE
 reanimer,Revive quelqu'un de KO,CMD,FALSE,FALSE,FALSE,FALSE
+reparer,Réparer,CMD,FALSE,FALSE,FALSE,FALSE
 rfauteuil,Ranger un fauteuil roulant,CMD,FALSE,FALSE,FALSE,FALSE
 rpc,Roche Papier Ciseaux,CMD,FALSE,FALSE,FALSE,TRUE
 salaire,Voir le salaire,CMD,FALSE,FALSE,FALSE,FALSE
