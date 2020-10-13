@@ -486,6 +486,7 @@ ancre,Monter/descendre l'ancre des bateaux,CMD,FALSE,FALSE,FALSE,FALSE
 arreterjob,Arrêter le travail,CMD,FALSE,FALSE,FALSE,FALSE
 blocnotes,Sortir bloc-notes,CMD,FALSE,FALSE,FALSE,FALSE
 dé,Lancer un dé,CMD,FALSE,FALSE,FALSE,TRUE
+chaise,S'asseoir/Se lever,CMD,FALSE,FALSE,FALSE,FALSE
 chandail,Enlever chandail,CMD,FALSE,FALSE,FALSE,FALSE
 chapeau,Mettre/retirer chapeau,CMD,FALSE,FALSE,FALSE,FALSE
 cheveux,Retirer cheveux,CMD,FALSE,FALSE,FALSE,FALSE
@@ -519,6 +520,7 @@ masque,Mettre/retirer masque,CMD,FALSE,FALSE,FALSE,FALSE
 matricule,Mise en place du Matricule TEAMSPEAK,CMD,FALSE,FALSE,FALSE,TRUE
 mdt,Console des services d'urgence,CMD,FALSE,FALSE,FALSE,FALSE
 me,Me,CMD,FALSE,FALSE,FALSE,TRUE
+mo,Verrouiller/Déverrouiller porte à distance,CMD,FALSE,FALSE,FALSE,TRUE
 moteur,Démarrer/éteindre moteur,CMD,FALSE,FALSE,FALSE,FALSE
 notif,Notification,CMD,FALSE,FALSE,FALSE,FALSE
 oreille,Mettre/retirer oreillette,CMD,FALSE,FALSE,FALSE,FALSE
@@ -533,7 +535,9 @@ raccrocher,Raccrocher téléphone,CMD,FALSE,FALSE,FALSE,FALSE
 radio,Éteindre radio,CMD,FALSE,FALSE,FALSE,FALSE
 ramper,Ramper,CMD,FALSE,FALSE,FALSE,FALSE
 reanimer,Revive quelqu'un de KO,CMD,FALSE,FALSE,FALSE,FALSE
+register,Enregistrer un personnage,CMD,FALSE,FALSE,FALSE,FALSE
 reparer,Réparer,CMD,FALSE,FALSE,FALSE,FALSE
+retourner,Retourner un véhicule renversé,CMD,FALSE,FALSE,FALSE,FALSE
 rfauteuil,Ranger un fauteuil roulant,CMD,FALSE,FALSE,FALSE,FALSE
 rpc,Roche Papier Ciseaux,CMD,FALSE,FALSE,FALSE,TRUE
 salaire,Voir le salaire,CMD,FALSE,FALSE,FALSE,FALSE
