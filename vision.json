@@ -1,0 +1,5249 @@
+[
+ {
+   "ID": "adjust",
+   "NAME": "Adjust",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "adjusttie",
+   "NAME": "Adjust Tie",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "airguitar",
+   "NAME": "Air Guitar",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "airplane",
+   "NAME": "Air Plane",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "airsynth",
+   "NAME": "Air Synth",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "alien",
+   "NAME": "Alien",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "argue",
+   "NAME": "Argue",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "argue2",
+   "NAME": "Argue 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "armored",
+   "NAME": "Armored",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "arrogant",
+   "NAME": "Arrogant",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "atm",
+   "NAME": "Atm",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "backpack",
+   "NAME": "Backpack",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bark",
+   "NAME": "Bark",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bartender",
+   "NAME": "Bartender",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "baseball",
+   "NAME": "Baseball",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "baseballthrow",
+   "NAME": "Baseballthrow",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bbq",
+   "NAME": "BBQ",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "beast",
+   "NAME": "Beast",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "beer",
+   "NAME": "Beer",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bird",
+   "NAME": "Bird",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "blowkiss",
+   "NAME": "Blowkiss",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "boi",
+   "NAME": "Boi",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bong",
+   "NAME": "Bong",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "book",
+   "NAME": "Book",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bouquet",
+   "NAME": "Bouquet",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bow",
+   "NAME": "Bow",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bow2",
+   "NAME": "Bow 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "box",
+   "NAME": "Box",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "boxing",
+   "NAME": "Boxing",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "boxing2",
+   "NAME": "Boxing 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "brave",
+   "NAME": "Brave",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "brief3",
+   "NAME": "Brief",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bringiton",
+   "NAME": "Bring it on",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bro",
+   "NAME": "Bro",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bro2",
+   "NAME": "Bro2",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bumbin",
+   "NAME": "Bumbin",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "bumsleep",
+   "NAME": "Bumsleep",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "burger",
+   "NAME": "Burger",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "camera",
+   "NAME": "Camera",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "casual",
+   "NAME": "Casual",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "casual2",
+   "NAME": "Casual2",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "casual3",
+   "NAME": "Casual3",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "casual4",
+   "NAME": "Casual4",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "casual5",
+   "NAME": "Casual5",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "casual6",
+   "NAME": "Casual6",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "celebrate",
+   "NAME": "Celebrate",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "champagne spray",
+   "NAME": "Champagne spray",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "champagne",
+   "NAME": "Champagne",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cheer",
+   "NAME": "Cheer",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "chichi",
+   "NAME": "Chichi",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "chicken",
+   "NAME": "Chicken",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "chill",
+   "NAME": "Chill",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "chinup",
+   "NAME": "Chinup",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cig",
+   "NAME": "Cig",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cigar",
+   "NAME": "Cigar",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cigar2",
+   "NAME": "Cigar 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clap",
+   "NAME": "Clap",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clapangry",
+   "NAME": "Clapangry",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clean",
+   "NAME": "Clean",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clean2",
+   "NAME": "Clean 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clipboard",
+   "NAME": "Clipboard",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clipboard2",
+   "NAME": "Clipboard 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cloudgaze",
+   "NAME": "Cloudgaze",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cloudgaze2",
+   "NAME": "Cloudgaze 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clown",
+   "NAME": "Clown",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clown2",
+   "NAME": "Clown 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clown3",
+   "NAME": "Clown 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clown4",
+   "NAME": "Clown 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clown5",
+   "NAME": "Clown 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "coffee",
+   "NAME": "Coffee",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "comeatmebro",
+   "NAME": "Comeatmebro",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "confident",
+   "NAME": "Confident",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "cop",
+   "NAME": "Cop 1",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "cop2",
+   "NAME": "Cop 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "cop3",
+   "NAME": "Cop 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "copbeacon",
+   "NAME": "Copbeacon",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cough",
+   "NAME": "Cough",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "countdown",
+   "NAME": "Countdown",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cpr",
+   "NAME": "Cpr",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cpr2",
+   "NAME": "Cpr 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "crawl",
+   "NAME": "Crawl",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "crossarms",
+   "NAME": "Crossarms",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "crossarms2",
+   "NAME": "Crossarms 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "crossarms3",
+   "NAME": "Crossarms 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "crossarms4",
+   "NAME": "Crossarms 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "crossarms5",
+   "NAME": "Crossarms 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "crossarms6",
+   "NAME": "Crossarms 6",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "crossarmsside",
+   "NAME": "Crossarmsside",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cup",
+   "NAME": "Cup",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "curtsy",
+   "NAME": "Curtsy",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cutthroat",
+   "NAME": "Cutthroat",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cutthroat2",
+   "NAME": "Cutthroat 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "damn",
+   "NAME": "Damn",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "damn2",
+   "NAME": "Damn 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dance",
+   "NAME": "Dance",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dance2",
+   "NAME": "Dance 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dance3",
+   "NAME": "Dance 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dance4",
+   "NAME": "Dance 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dance5",
+   "NAME": "Dance 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dance6",
+   "NAME": "Dance 6",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dance7",
+   "NAME": "Dance 7",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dance8",
+   "NAME": "Dance 8",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dance9",
+   "NAME": "Dance 9",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancef",
+   "NAME": "Dance F",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancef2",
+   "NAME": "Dance F 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancef3",
+   "NAME": "Dance F 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancef4",
+   "NAME": "Dance F 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancef5",
+   "NAME": "Dance F 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancef6",
+   "NAME": "Dance F 6",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "danceglowstick",
+   "NAME": "Dance Glowstick 1",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "danceglowstick2",
+   "NAME": "Dance Glowstick 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "danceglowstick3",
+   "NAME": "Dance Glowstick 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancehorse",
+   "NAME": "Dance Horse",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancehorse2",
+   "NAME": "Dance Horse 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancehorse3",
+   "NAME": "Dance Horse 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "danceshy",
+   "NAME": "Dance Shy",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "danceshy2",
+   "NAME": "Dance Shy 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "danceshy3",
+   "NAME": "Dance Shy 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancesilly",
+   "NAME": "Dance Silly",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancesilly2",
+   "NAME": "Dance Silly 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancesilly3",
+   "NAME": "Dance Silly 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancesilly4",
+   "NAME": "Dance Silly 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancesilly5",
+   "NAME": "Dance Silly 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancesilly6",
+   "NAME": "Dance Silly 6",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancesilly7",
+   "NAME": "Dance Silly 7",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancesilly8",
+   "NAME": "Dance Silly 8",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dancesilly9",
+   "NAME": "Dance Silly 9",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "danceslow",
+   "NAME": "Dance Slow",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "danceslow2",
+   "NAME": "Dance Slow 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "danceslow3",
+   "NAME": "Dance Slow 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "danceupper",
+   "NAME": "Dance Upper",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "danceupper2",
+   "NAME": "Dance Upper 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "defaultfemale",
+   "NAME": "Defaultfemale",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "defaultmale",
+   "NAME": "Defaultmale",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "dj",
+   "NAME": "Dj",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "donut",
+   "NAME": "Donut",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "drunk",
+   "NAME": "Drunk",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "drunk2",
+   "NAME": "Drunk2",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "drunk3",
+   "NAME": "Drunk3",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "duo1a",
+   "NAME": "duo1a",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "duo1b",
+   "NAME": "duo1b",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "duo2a",
+   "NAME": "duo2a",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "duo2b",
+   "NAME": "duo2b",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "duo3a",
+   "NAME": "duo3a",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "duo3b",
+   "NAME": "duo3b",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "eat",
+   "NAME": "Eat",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "egobar",
+   "NAME": "Egobar",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "facepalm",
+   "NAME": "Facepalm",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "facepalm2",
+   "NAME": "Facepalm 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "facepalm3",
+   "NAME": "Facepalm 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "facepalm4",
+   "NAME": "Facepalm 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "fallasleep",
+   "NAME": "Fallasleep",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "fallover",
+   "NAME": "Fallover",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "fallover2",
+   "NAME": "Fallover 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "fallover3",
+   "NAME": "Fallover 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "fallover4",
+   "NAME": "Fallover 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "fallover5",
+   "NAME": "Fallover 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "femme",
+   "NAME": "Femme",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "fightme",
+   "NAME": "Fightme",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "fightme2",
+   "NAME": "Fightme 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "filmshocking",
+   "NAME": "Filmshocking",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "finger",
+   "NAME": "Finger",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "finger2",
+   "NAME": "Finger 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "fire",
+   "NAME": "Fire",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "fire2",
+   "NAME": "Fire2",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "fire3",
+   "NAME": "Fire3",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "fishdance",
+   "NAME": "Fishdance",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "flex",
+   "NAME": "Flex",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "flip",
+   "NAME": "Flip",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "flip2",
+   "NAME": "Flip 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "flipoff",
+   "NAME": "Flipoff",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "flipoff2",
+   "NAME": "Flipoff 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "flute",
+   "NAME": "Flute",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "foldarms",
+   "NAME": "Foldarms",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "foldarms2",
+   "NAME": "Foldarms 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "franklin",
+   "NAME": "Franklin",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "gangsign",
+   "NAME": "Gangsign",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "gangsign2",
+   "NAME": "GAngsign 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "gangster",
+   "NAME": "Gangster",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "gangster2",
+   "NAME": "Gangster2",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "gangster3",
+   "NAME": "Gangster3",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "gangster4",
+   "NAME": "Gangster4",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "gangster5",
+   "NAME": "Gangster5",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "give",
+   "NAME": "Give",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "give2",
+   "NAME": "Give2",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "golfswing",
+   "NAME": "Golfswing",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "grooving",
+   "NAME": "Grooving",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "guard",
+   "NAME": "Guard",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "guitar",
+   "NAME": "Guitar",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "guitar2",
+   "NAME": "Guitar2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "guitarelectric",
+   "NAME": "Guitar electric",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "guitarelectric2",
+   "NAME": "Guitar electric 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "hammer",
+   "NAME": "Hammer",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "handcuffs",
+   "NAME": "Handcuffs",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "handshake",
+   "NAME": "Handshake",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "handshake2",
+   "NAME": "Handshake2",
+   "TYPE": "ACTION",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "handsup",
+   "NAME": "Handsup",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "hangout",
+   "NAME": "Hangout",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "headbutt",
+   "NAME": "Headbutt",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "headbutted",
+   "NAME": "Headbutted",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "heels",
+   "NAME": "Heels",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "heels2",
+   "NAME": "Heels2",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "hiking",
+   "NAME": "Hiking",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "hipster",
+   "NAME": "Hipster",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "hobo",
+   "NAME": "Hobo",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "holster",
+   "NAME": "Holster",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "hug",
+   "NAME": "Hug",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "hug2",
+   "NAME": "Hug 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "hug3",
+   "NAME": "Hug 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "hurry",
+   "NAME": "Hurry",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "idle",
+   "NAME": "Idle",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idle2",
+   "NAME": "Idle 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idle3",
+   "NAME": "Idle 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idle4",
+   "NAME": "Idle 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idle5",
+   "NAME": "Idle 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idle6",
+   "NAME": "Idle 6",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idle7",
+   "NAME": "Idle 7",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idle8",
+   "NAME": "Idle 8",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idle9",
+   "NAME": "Idle 9",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idle10",
+   "NAME": "Idle 10",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idle11",
+   "NAME": "Idle 11",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idledrunk",
+   "NAME": "Idledrunk",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idledrunk2",
+   "NAME": "Idledrunk 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "idledrunk3",
+   "NAME": "Idledrunk 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "impatient",
+   "NAME": "Impatient",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "injured",
+   "NAME": "Blessé",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "injured2",
+   "NAME": "Blessé",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "inspect",
+   "NAME": "Inspect",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "janitor",
+   "NAME": "Janitor",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "janitor2",
+   "NAME": "Janitor2",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "jazzhands",
+   "NAME": "Jazzhands",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "jog",
+   "NAME": "Jog",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "jog2",
+   "NAME": "Jog 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "jog3",
+   "NAME": "Jog 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "jog4",
+   "NAME": "Jog 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "jog5",
+   "NAME": "Jog 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "joint",
+   "NAME": "Joint",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "jumpingjacks",
+   "NAME": "Jumpingjacks",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "karate",
+   "NAME": "Karate",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "karate2",
+   "NAME": "Karate 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "keyfob",
+   "NAME": "Keyfob",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "kneel",
+   "NAME": "Kneel",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "kneel2",
+   "NAME": "Kneel 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "kneel3",
+   "NAME": "Kneel 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "knock",
+   "NAME": "Knock",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "knock2",
+   "NAME": "Knock  2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "knucklecrunch",
+   "NAME": "Knucklecrunch",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "lapdance",
+   "NAME": "Lapdance",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "lapdance2",
+   "NAME": "Lapdance 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "lapdance3",
+   "NAME": "Lapdance 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leafblower",
+   "NAME": "Leafblower",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "lean",
+   "NAME": "Lean 1",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "lean2",
+   "NAME": "Lean 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "lean3",
+   "NAME": "Lean 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "lean4",
+   "NAME": "Lean 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "lean5",
+   "NAME": "Lean 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanbar",
+   "NAME": "Leanbar",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanbar2",
+   "NAME": "Leanbar 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanbar3",
+   "NAME": "Leanbar 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanbar4",
+   "NAME": "Leanbar 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanbar5",
+   "NAME": "Leanbar 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanflirt",
+   "NAME": "Leanflirt",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanhight",
+   "NAME": "Leanhight",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanhight2",
+   "NAME": "Leanhight 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanside",
+   "NAME": "Leanside",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanside2",
+   "NAME": "Leanside 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanside3",
+   "NAME": "Leanside 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanside4",
+   "NAME": "Leanside 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "leanside5",
+   "NAME": "Leanside 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "ledge",
+   "NAME": "Ledge",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "lemar",
+   "NAME": "Lemar",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "lester",
+   "NAME": "Lester",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "lester2",
+   "NAME": "Lester2",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "lift",
+   "NAME": "Lift",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "lol",
+   "NAME": "Lol",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "lol2",
+   "NAME": "Lol 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "lookout",
+   "NAME": "Lookout",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "maid",
+   "NAME": "Maid",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "makeitrain",
+   "NAME": "Makeitrain",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "maneater",
+   "NAME": "Maneater",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "map",
+   "NAME": "Map",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "me",
+   "NAME": "Me",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "mechanic",
+   "NAME": "Mechanic",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "mechanic2",
+   "NAME": "Mechanic 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "mechanic3",
+   "NAME": "Mechanic 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "mechanic4",
+   "NAME": "Mechanic 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "medic",
+   "NAME": "Medic",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "medic2",
+   "NAME": "Medic 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "meditate",
+   "NAME": "Meditate",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "meditate2",
+   "NAME": "Meditate 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "meditate3",
+   "NAME": "Meditate 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "michael",
+   "NAME": "michael",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "mindblown",
+   "NAME": "Mindblown",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "mindblown2",
+   "NAME": "Mindblown 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "mindcontrol",
+   "NAME": "Mindcontrol",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "mindcontrol2",
+   "NAME": "Mindcontrol 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "money",
+   "NAME": "Money",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "mugshot",
+   "NAME": "Mugshot",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "muscle",
+   "NAME": "Muscle",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "musician",
+   "NAME": "Musician",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "namaste",
+   "NAME": "Namaste",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "nervous",
+   "NAME": "Nervous",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "nervous2",
+   "NAME": "Nervous 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "nervous3",
+   "NAME": "Nervous 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "no",
+   "NAME": "No",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "no2",
+   "NAME": "No 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "normal",
+   "NAME": "Normal",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "nosepick",
+   "NAME": "Nosepick",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "notepad",
+   "NAME": "Notepad",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "notepad2",
+   "NAME": "Notepad 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "noway",
+   "NAME": "Noway",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "outofbreath",
+   "NAME": "Outofbreath",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "parkingmeter",
+   "NAME": "Parkingmeter",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "party",
+   "NAME": "Party",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "passout",
+   "NAME": "Passout",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "passout2",
+   "NAME": "Passout 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "passout3",
+   "NAME": "Passout 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "passout4",
+   "NAME": "Passout 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "passout5",
+   "NAME": "Passout 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "peace",
+   "NAME": "Peace",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "peace2",
+   "NAME": "Peace 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "pee",
+   "NAME": "Pee",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "peek",
+   "NAME": "Peek",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "petting",
+   "NAME": "Petting",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "phone",
+   "NAME": "Phone",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "phonecall",
+   "NAME": "Phonecall",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "pickup",
+   "NAME": "Pickup",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "poledanc",
+   "NAME": "poledance 0",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "poledanc1",
+   "NAME": "poledance 1",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "poledanc2",
+   "NAME": "poledance 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "point",
+   "NAME": "Point",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "pointdown",
+   "NAME": "Pointdown",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "pointright",
+   "NAME": "Pointright",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "posh",
+   "NAME": "Posh",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "posh2",
+   "NAME": "Posh2",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "prive",
+   "NAME": "prive",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "prive1",
+   "NAME": "prive 1",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "prone",
+   "NAME": "Prone",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "prosthigh",
+   "NAME": "Prostituehigh",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "prostlow",
+   "NAME": "Prostituelow",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "puddle",
+   "NAME": "Puddle",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "pull",
+   "NAME": "Pull",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "pullover",
+   "NAME": "Pullover",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "punch",
+   "NAME": "Punch",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "punched",
+   "NAME": "Punched",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "punching",
+   "NAME": "Punching",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "push",
+   "NAME": "Push",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "push2",
+   "NAME": "Push 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "pushup",
+   "NAME": "Pushup",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "quick",
+   "NAME": "Quick",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "rabbit",
+   "NAME": "Rabbit",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "radio",
+   "NAME": "Radio",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "reaching",
+   "NAME": "Reaching",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "record",
+   "NAME": "Record",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "rose",
+   "NAME": "Rose",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "runner",
+   "NAME": "Runner",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "sad",
+   "NAME": "Sad",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "salute",
+   "NAME": "Salute",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "salute2",
+   "NAME": "Salute 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "salute3",
+   "NAME": "Salute 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sandwich",
+   "NAME": "Sandwich",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sassy",
+   "NAME": "Sassy",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "sassy2",
+   "NAME": "Sassy2",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "scared",
+   "NAME": "Scared",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "scared2",
+   "NAME": "Scared 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "screwyou",
+   "NAME": "Screwyou",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sexy",
+   "NAME": "Sexy",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "shady",
+   "NAME": "Shady",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "shakeoff",
+   "NAME": "Shakeoff",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "shot",
+   "NAME": "Shot",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "shrug",
+   "NAME": "Shrug",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "shrug2",
+   "NAME": "Shrug 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sit",
+   "NAME": "Sit 1",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sit2",
+   "NAME": "Sit 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sit3",
+   "NAME": "Sit 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sit4",
+   "NAME": "Sit 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sit5",
+   "NAME": "Sit 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sit6",
+   "NAME": "Sit 6",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sit7",
+   "NAME": "Sit 7",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sit8",
+   "NAME": "Sit 8",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sit9",
+   "NAME": "Sit 9",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitchair",
+   "NAME": "Sitchair",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitchair2",
+   "NAME": "Sitchair 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitchair3",
+   "NAME": "Sitchair 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitchair4",
+   "NAME": "Sitchair 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitchair5",
+   "NAME": "Sitchair 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitchair6",
+   "NAME": "Sitchair 6",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitchairside",
+   "NAME": "Sitchairside",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitdrunk",
+   "NAME": "Sitdrunk",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitsad",
+   "NAME": "Sitesad",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitscared",
+   "NAME": "Sitescared",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitscared2",
+   "NAME": "Sitescared 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitscared3",
+   "NAME": "Sitescared 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sitlean",
+   "NAME": "Sitlean",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "situp",
+   "NAME": "Situp",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "slap",
+   "NAME": "Slap",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "slap2",
+   "NAME": "Slap2",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "slapped",
+   "NAME": "Slapped",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "slapped2",
+   "NAME": "Slapped2",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sleep",
+   "NAME": "Sleep",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "slide",
+   "NAME": "Slide",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "slide2",
+   "NAME": "Slide 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "slide3",
+   "NAME": "Slide 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "slow",
+   "NAME": "Slow",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "slowclap",
+   "NAME": "Slowclap",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "slowclap2",
+   "NAME": "Slowclap 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "slowclap3",
+   "NAME": "Slowclap 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "slugger",
+   "NAME": "Slugger",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "smell",
+   "NAME": "Smell",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "smoke2",
+   "NAME": "Fumer une cigarette",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "spiderman",
+   "NAME": "Spiderman",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "statue",
+   "NAME": "Statue",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "statue2",
+   "NAME": "Statue 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "statue3",
+   "NAME": "Statue 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "stickup",
+   "NAME": "Stickup",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "stickupscared",
+   "NAME": "Stickupscared",
+   "TYPE": "ACTION",
+   "ISEMOTE": false,
+   "ISACTION": true,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "stretch",
+   "NAME": "Stretch",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "stretch2",
+   "NAME": "Stretch 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "stretch3",
+   "NAME": "Stretch 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "stretch4",
+   "NAME": "Stretch 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "strip",
+   "NAME": "Strip 0",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "strip1",
+   "NAME": "Strip 1",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "strip2",
+   "NAME": "Strip 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "stumble",
+   "NAME": "Stumble",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "stunned",
+   "NAME": "Stunned",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "suitcase",
+   "NAME": "Suitcase",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "suitcase2",
+   "NAME": "Suitcase 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sunbathe",
+   "NAME": "Sunbathe",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sunbathe2",
+   "NAME": "Sunbathe 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sunbathe3",
+   "NAME": "Sunbathe 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "sunbatheback",
+   "NAME": "Sunbatheback",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "superhero",
+   "NAME": "Superhero",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "superhero2",
+   "NAME": "Superhero 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "surrender",
+   "NAME": "Surrender",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "swagger",
+   "NAME": "Swagger",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "t",
+   "NAME": "T",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "t2",
+   "NAME": "T 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "tablet",
+   "NAME": "Tablet",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "tablet2",
+   "NAME": "Tablet 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "teddy",
+   "NAME": "Teddy",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "trevor",
+   "NAME": "Trevor",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "texting",
+   "NAME": "Texting",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "think",
+   "NAME": "Think",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "think2",
+   "NAME": "Think 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "think3",
+   "NAME": "Think 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "think4",
+   "NAME": "Think 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "think5",
+   "NAME": "Think 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "thumbsup",
+   "NAME": "Thumbsup",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "thumbsup2",
+   "NAME": "Thumbsup 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "thumbsup3",
+   "NAME": "Thumbsup 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "tough",
+   "NAME": "Tough",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "tough2",
+   "NAME": "Tough2",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "trash",
+   "NAME": "Trash",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "trash2",
+   "NAME": "Trash2",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "tryclothes",
+   "NAME": "Tryclothes",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "tryclothes2",
+   "NAME": "Tryclothes 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "tryclothes3",
+   "NAME": "Tryclothes 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "twerk",
+   "NAME": "Twerk",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "type",
+   "NAME": "Type",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "type2",
+   "NAME": "Type 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "type3",
+   "NAME": "Type 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "type4",
+   "NAME": "Type 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "uncuff",
+   "NAME": "Uncuff",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait",
+   "NAME": "Wait 1",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait2",
+   "NAME": "Wait 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait3",
+   "NAME": "Wait 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait4",
+   "NAME": "Wait 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait5",
+   "NAME": "Wait 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait6",
+   "NAME": "Wait 6",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait7",
+   "NAME": "Wait 7",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait8",
+   "NAME": "Wait 8",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait9",
+   "NAME": "Wait 9",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait10",
+   "NAME": "Wait 10",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait11",
+   "NAME": "Wait 11",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait12",
+   "NAME": "Wait 12",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wait13",
+   "NAME": "Wait 13",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "warmth",
+   "NAME": "Se rechauffer",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wave",
+   "NAME": "Wave 1",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wave2",
+   "NAME": "Wave 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wave3",
+   "NAME": "Wave 3",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wave4",
+   "NAME": "Wave 4",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wave5",
+   "NAME": "Wave 5",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wave6",
+   "NAME": "Wave 6",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wave7",
+   "NAME": "Wave 7",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wave8",
+   "NAME": "Wave 8",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wave9",
+   "NAME": "Wave 9",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "weld",
+   "NAME": "Weld",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "whiskey",
+   "NAME": "Whiskey",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "whistle",
+   "NAME": "Whistle",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "whistle2",
+   "NAME": "Whistle 2",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wide",
+   "NAME": "Wide",
+   "TYPE": "WALK",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": true,
+   "HASARGS": false
+ },
+ {
+   "ID": "windowshop",
+   "NAME": "Window shop",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "wine",
+   "NAME": "Wine",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "yeah",
+   "NAME": "Yeah",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "yoga",
+   "NAME": "Yoga",
+   "TYPE": "EMOTE",
+   "ISEMOTE": true,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "accessoire",
+   "NAME": "Mettre/retirer accessoire",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "amende",
+   "NAME": "Donner une amende",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "ancre",
+   "NAME": "Monter/descendre l'ancre des bateaux",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "arreterjob",
+   "NAME": "Arrêter le travail",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "blocnotes",
+   "NAME": "Sortir bloc-notes",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "breachp",
+   "NAME": "breachp",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "dé",
+   "NAME": "Lancer un dé",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "capot",
+   "NAME": "Ouvrir/Fermer le capot d'un véhicule",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "chaise",
+   "NAME": "S'asseoir/Se lever",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "chandail",
+   "NAME": "Enlever chandail",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "chapeau",
+   "NAME": "Mettre/retirer chapeau",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cheveux",
+   "NAME": "Retirer cheveux",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "calculatrice",
+   "NAME": "Sortir calculatrice",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "cam",
+   "NAME": "Sortir/ranger caméra",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clear",
+   "NAME": "Effacer le chat",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "clé",
+   "NAME": "Donner clé",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "coffre",
+   "NAME": "Ouvrir/fermer coffre",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "color",
+   "NAME": "Couleur du véhicule de service (police)",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "commencerjob",
+   "NAME": "Commencer un travail",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "crocheter",
+   "NAME": "Crocheter un véhicule",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "ems",
+   "NAME": "Console des services d'urgence",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "extra",
+   "NAME": "Ajouter des éléments additionnels sur un véhicule",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "facture",
+   "NAME": "Faire une facture",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "fauteuil",
+   "NAME": "Sortir un fauteuil roulant",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "fen",
+   "NAME": "Descendre/monter fenêtre",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "fix",
+   "NAME": "Réparer un véhicule",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "fouiller",
+   "NAME": "Fouiller quelqu'un",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "frisk",
+   "NAME": "Savoir si la personne a une arme ou de la drogue",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "jumelles",
+   "NAME": "Sortir/Ranger jumelles",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "habit",
+   "NAME": "S'habiller",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "hud",
+   "NAME": "Modifier L'affichage",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "id",
+   "NAME": "Afficher mon identifiant",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "id2",
+   "NAME": "Afficher les identifiants",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "impound",
+   "NAME": "Remorquer un véhicule",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "impoundcriminel",
+   "NAME": "Remorquer un véhicule criminel",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "infos",
+   "NAME": "Afficher informations personnage",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "livery",
+   "NAME": "Changer plaque véhicule",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "lunettes",
+   "NAME": "Mettre/retirer lunettes",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "masque",
+   "NAME": "Mettre/retirer masque",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "matricule",
+   "NAME": "Mise en place du Matricule TEAMSPEAK",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "mdt",
+   "NAME": "Console des services d'urgence",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "me",
+   "NAME": "Me",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "mo",
+   "NAME": "Verrouiller/Déverrouiller porte à distance",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "moteur",
+   "NAME": "Démarrer/éteindre moteur",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "notif",
+   "NAME": "Notification",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "oreille",
+   "NAME": "Mettre/retirer oreillette",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "pansement",
+   "NAME": "Arrêter les saignements",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "pantalon",
+   "NAME": "Enlever pantalon",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "parapluie",
+   "NAME": "Sortir/Ranger parapluie",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "patate",
+   "NAME": "Prendre en patate",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "patron",
+   "NAME": "Gestion entreprise",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "ping",
+   "NAME": "Envoyer position GPS",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "plaque",
+   "NAME": "Vérificateur de plaque",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "raccrocher",
+   "NAME": "Raccrocher téléphone",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "radio",
+   "NAME": "Éteindre radio",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "ramper",
+   "NAME": "Ramper",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "reanimer",
+   "NAME": "Revive quelqu'un de KO",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "register",
+   "NAME": "Enregistrer un personnage",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "reparer",
+   "NAME": "Réparer",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "retourner",
+   "NAME": "Retourner un véhicule renversé",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "rfauteuil",
+   "NAME": "Ranger un fauteuil roulant",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "rpc",
+   "NAME": "Roche Papier Ciseaux",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "salaire",
+   "NAME": "Voir le salaire",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "services",
+   "NAME": "Afficher services",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "siege",
+   "NAME": "Changer de siège",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "soigner",
+   "NAME": "Retirer les douleurs et arrêter les saignements",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "souliers",
+   "NAME": "Enlever souliers",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "status",
+   "NAME": "Voir les signes physiques",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "statusc",
+   "NAME": "Status personnalisé",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "sv",
+   "NAME": "Spawn véhicule",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "vape",
+   "NAME": "Utiliser une vapoteuse",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "tint",
+   "NAME": "Teinte de couleur des fenêtres",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "veste",
+   "NAME": "Retirer veste",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "voler",
+   "NAME": "Voler",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "10-13",
+   "NAME": "Officier blessé",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "10-13A",
+   "NAME": "",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "10-13B",
+   "NAME": "",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "10-14",
+   "NAME": "EMS blessé",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "10-14A",
+   "NAME": "",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "10-14B",
+   "NAME": "",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "10-41",
+   "NAME": "Début de service",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "10-42",
+   "NAME": "Fin de service",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": false
+ },
+ {
+   "ID": "911",
+   "NAME": "Faire un appel 911",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "911r",
+   "NAME": "Répondre à un appel 911",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "511",
+   "NAME": "Faire un appel mécano",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "511r",
+   "NAME": "Répondre à un appel mécano",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "311",
+   "NAME": "Faire un appel 311",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ },
+ {
+   "ID": "311r",
+   "NAME": "Répondre à un appel 311",
+   "TYPE": "CMD",
+   "ISEMOTE": false,
+   "ISACTION": false,
+   "ISWALK": false,
+   "HASARGS": true
+ }
+]
