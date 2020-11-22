@@ -1249,6 +1249,12 @@
          "HASARGS": false
       },
       {
+         "ID": "flee",
+         "NAME": "Flee",
+         "TYPE": "WALK",
+         "HASARGS": false
+      },
+      {
          "ID": "flex",
          "NAME": "Flex",
          "TYPE": "EMOTE",
