@@ -3511,6 +3511,12 @@
          "HASARGS": false
       },
       {
+         "ID": "inspection",
+         "NAME": "Inspection",
+         "TYPE": "CMD",
+         "HASARGS": false
+      },
+      {
          "ID": "livery",
          "NAME": "Changer plaque véhicule",
          "TYPE": "CMD",
