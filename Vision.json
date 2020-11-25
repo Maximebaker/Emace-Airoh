@@ -3295,6 +3295,12 @@
          "HASARGS": false
       },
       {
+         "ID": "a",
+         "NAME": "Répondre téléphone",
+         "TYPE": "CMD",
+         "HASARGS": false
+      },
+      {
          "ID": "accessoire",
          "NAME": "Mettre/retirer accessoire",
          "TYPE": "CMD",
@@ -3337,32 +3343,26 @@
          "HASARGS": true
       },
       {
+         "ID": "c",
+         "NAME": "Enlever chandail",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "capot",
          "NAME": "Ouvrir/Fermer le capot d'un véhicule",
          "TYPE": "CMD",
          "HASARGS": false
       },
       {
+         "ID": "ch",
+         "NAME": "Retirer cheveux",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "chaise",
          "NAME": "S'asseoir/Se lever",
-         "TYPE": "CMD",
-         "HASARGS": false
-      },
-      {
-         "ID": "chandail",
-         "NAME": "Enlever chandail",
-         "TYPE": "CMD",
-         "HASARGS": false
-      },
-      {
-         "ID": "chapeau",
-         "NAME": "Mettre/retirer chapeau",
-         "TYPE": "CMD",
-         "HASARGS": false
-      },
-      {
-         "ID": "cheveux",
-         "NAME": "Retirer cheveux",
          "TYPE": "CMD",
          "HASARGS": false
       },
@@ -3469,6 +3469,12 @@
          "HASARGS": false
       },
       {
+         "ID": "h",
+         "NAME": "Mettre/retirer chapeau",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "habit",
          "NAME": "S'habiller",
          "TYPE": "CMD",
@@ -3523,16 +3529,16 @@
          "HASARGS": true
       },
       {
-         "ID": "lunettes",
+         "ID": "l",
          "NAME": "Mettre/retirer lunettes",
          "TYPE": "CMD",
-         "HASARGS": false
+         "HASARGS": true
       },
       {
-         "ID": "masque",
+         "ID": "m",
          "NAME": "Mettre/retirer masque",
          "TYPE": "CMD",
-         "HASARGS": false
+         "HASARGS": true
       },
       {
          "ID": "matricule",
@@ -3577,20 +3583,20 @@
          "HASARGS": false
       },
       {
-         "ID": "oreille",
+         "ID": "o",
          "NAME": "Mettre/retirer oreillette",
          "TYPE": "CMD",
-         "HASARGS": false
+         "HASARGS": true
+      },
+      {
+         "ID": "p",
+         "NAME": "Enlever pantalon",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "pansement",
          "NAME": "Arrêter les saignements",
-         "TYPE": "CMD",
-         "HASARGS": false
-      },
-      {
-         "ID": "pantalon",
-         "NAME": "Enlever pantalon",
          "TYPE": "CMD",
          "HASARGS": false
       },
@@ -3626,6 +3632,12 @@
       },
       {
          "ID": "raccrocher",
+         "NAME": "Raccrocher téléphone",
+         "TYPE": "CMD",
+         "HASARGS": false
+      },
+      {
+         "ID": "r",
          "NAME": "Raccrocher téléphone",
          "TYPE": "CMD",
          "HASARGS": false
@@ -3679,6 +3691,12 @@
          "HASARGS": true
       },
       {
+         "ID": "s",
+         "NAME": "Enlever souliers",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "salaire",
          "NAME": "Voir le salaire",
          "TYPE": "CMD",
@@ -3703,12 +3721,6 @@
          "HASARGS": false
       },
       {
-         "ID": "souliers",
-         "NAME": "Enlever souliers",
-         "TYPE": "CMD",
-         "HASARGS": false
-      },
-      {
          "ID": "status",
          "NAME": "Voir les signes physiques",
          "TYPE": "CMD",
@@ -3727,6 +3739,12 @@
          "HASARGS": true
       },
       {
+         "ID": "v",
+         "NAME": "Retirer veste",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "vape",
          "NAME": "Utiliser une vapoteuse",
          "TYPE": "CMD",
@@ -3737,12 +3755,6 @@
          "NAME": "Teinte de couleur des fenêtres",
          "TYPE": "CMD",
          "HASARGS": true
-      },
-      {
-         "ID": "veste",
-         "NAME": "Retirer veste",
-         "TYPE": "CMD",
-         "HASARGS": false
       },
       {
          "ID": "voler",
@@ -3807,6 +3819,18 @@
       {
          "ID": "911r",
          "NAME": "Répondre à un appel 911",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "711",
+         "NAME": "Faire un appel avocat",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "711r",
+         "NAME": "Répondre à un appel avocat",
          "TYPE": "CMD",
          "HASARGS": true
       },
