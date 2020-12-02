@@ -1,7 +1,9 @@
-[
-    {
-        "id":"vision",
-        "name":"Vision",
-        "lang":"fr"
-    }
-]
+{
+	[
+		{
+			"id":"vision",
+			"name":"Vision",
+			"lang":"fr"
+		}
+	]
+}
