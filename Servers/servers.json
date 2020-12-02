@@ -3,5 +3,10 @@
 		"id":"vision",
 		"name":"Vision",
 		"lang":"fr"
+	},
+	{
+		"id":"uprising",
+		"name":"Uprising",
+		"lang":"fr"
 	}
 ]
