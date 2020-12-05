@@ -3686,8 +3686,7 @@
       },
       {
          "ID": "rnpc",
-         "NAME": "Réanimation NPC",
-         "description": "Réanimer les NPC (Police/EMS seulement)",
+         "NAME": "Réanimer les NPC (Police/EMS seulement)",
          "TYPE": "CMD",
          "HASARGS": false
       },
