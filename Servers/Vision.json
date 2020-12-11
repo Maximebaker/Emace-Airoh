@@ -3571,6 +3571,12 @@
          "HASARGS": false
       },
       {
+         "ID": "mpnj",
+         "NAME": "Mettre/enlever masque sur joueur (PNJ)",
+         "TYPE": "CMD",
+         "HASARGS": false
+      },
+      {
          "ID": "notif",
          "NAME": "Notification",
          "TYPE": "CMD",
