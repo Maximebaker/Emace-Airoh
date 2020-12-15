@@ -3343,6 +3343,12 @@
          "HASARGS": true
       },
       {
+         "ID": "dme",
+         "NAME": "Retirer dernier /tme",
+         "TYPE": "CMD",
+         "HASARGS": false
+      },
+      {
          "ID": "c",
          "NAME": "Enlever chandail",
          "TYPE": "CMD",
@@ -3765,6 +3771,12 @@
       {
          "ID": "tint",
          "NAME": "Teinte de couleur des fenêtres",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "tme",
+         "NAME": "/me avec un temps d'affichage en minute",
          "TYPE": "CMD",
          "HASARGS": true
       },
