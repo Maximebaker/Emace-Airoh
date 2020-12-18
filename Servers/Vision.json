@@ -3331,6 +3331,12 @@
          "HASARGS": false
       },
       {
+         "ID": "boule",
+         "NAME": "Boule de neige",
+         "TYPE": "CMD",
+         "HASARGS": false
+      },
+      {
          "ID": "breachp",
          "NAME": "breachp",
          "TYPE": "CMD",
@@ -3341,6 +3347,12 @@
          "NAME": "Lancer un dé",
          "TYPE": "CMD",
          "HASARGS": true
+      },
+      {
+         "ID": "die",
+         "NAME": "Mourir",
+         "TYPE": "CMD",
+         "HASARGS": false
       },
       {
          "ID": "dme",
