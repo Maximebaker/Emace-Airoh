@@ -3559,6 +3559,12 @@
          "HASARGS": true
       },
       {
+         "ID": "mp",
+         "NAME": "Envoyer un message à un prisonnier",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "matricule",
          "NAME": "Mise en place du Matricule TEAMSPEAK",
          "TYPE": "CMD",
