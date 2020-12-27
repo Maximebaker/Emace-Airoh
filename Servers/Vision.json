@@ -3601,12 +3601,6 @@
          "HASARGS": false
       },
       {
-         "ID": "notif",
-         "NAME": "Notification",
-         "TYPE": "CMD",
-         "HASARGS": false
-      },
-      {
          "ID": "numero",
          "NAME": "Afficher numéro de téléphone",
          "TYPE": "CMD",
