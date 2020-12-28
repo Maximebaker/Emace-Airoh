@@ -3427,6 +3427,12 @@
          "HASARGS": false
       },
       {
+         "ID": "cpneu",
+         "NAME": "Crever un pneu",
+         "TYPE": "CMD",
+         "HASARGS": false
+      },
+      {
          "ID": "crocheter",
          "NAME": "Crocheter un véhicule",
          "TYPE": "CMD",
