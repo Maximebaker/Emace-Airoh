@@ -3646,7 +3646,7 @@
          "ID": "patron",
          "NAME": "Gestion entreprise",
          "TYPE": "CMD",
-         "HASARGS": false
+         "HASARGS": true
       },
       {
          "ID": "ping",
