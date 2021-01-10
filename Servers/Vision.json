@@ -1867,12 +1867,6 @@
          "HASARGS": false
       },
       {
-         "ID": "leanbar5",
-         "NAME": "Leanbar 5",
-         "TYPE": "EMOTE",
-         "HASARGS": false
-      },
-      {
          "ID": "leanflirt",
          "NAME": "Leanflirt",
          "TYPE": "EMOTE",
