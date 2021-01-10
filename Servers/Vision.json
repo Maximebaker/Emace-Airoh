@@ -3487,10 +3487,10 @@
          "HASARGS": false
       },
       {
-         "ID": "jumelles",
-         "NAME": "Sortir/Ranger jumelles",
+         "ID": "gate",
+         "NAME": "Permet d'ouvrir certaines portes",
          "TYPE": "CMD",
-         "HASARGS": false
+         "HASARGS": true
       },
       {
          "ID": "h",
@@ -3543,6 +3543,12 @@
       {
          "ID": "inspection",
          "NAME": "Inspection",
+         "TYPE": "CMD",
+         "HASARGS": false
+      },
+      {
+         "ID": "jumelles",
+         "NAME": "Sortir/Ranger jumelles",
          "TYPE": "CMD",
          "HASARGS": false
       },
