@@ -3301,6 +3301,12 @@
          "HASARGS": false
       },
       {
+         "ID": "ajouterowner",
+         "NAME": "Ajouter un propriétaire à la maison (Doit avoir un double de clé) [id du joueur]",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "amende",
          "NAME": "Donner une amende",
          "TYPE": "CMD",
@@ -3353,6 +3359,12 @@
          "NAME": "Retirer dernier /tme",
          "TYPE": "CMD",
          "HASARGS": false
+      },
+      {
+         "ID": "donnercle",
+         "NAME": "Ajouter un locataire à la maison (Doit être propriétaire) [id du joueur]",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "c",
@@ -3435,6 +3447,12 @@
       {
          "ID": "ems",
          "NAME": "Console des services d'urgence",
+         "TYPE": "CMD",
+         "HASARGS": false
+      },
+      {
+         "ID": "entrer",
+         "NAME": "Rentrer dans une maison (Police / Raid)",
          "TYPE": "CMD",
          "HASARGS": false
       },
@@ -3655,6 +3673,24 @@
          "HASARGS": true
       },
       {
+         "ID": "placercoffre",
+         "NAME": "Placer le coffre dans la maison. Peut être fait à multiples reprises! (Doit être propriétaire)",
+         "TYPE": "CMD",
+         "HASARGS": false
+      },
+      {
+         "ID": "placercoffre2",
+         "NAME": "Placer le deuxième coffre dans la maison. Peut être fait à multiples reprises! (Doit être propriétaire)",
+         "TYPE": "CMD",
+         "HASARGS": false
+      },
+      {
+         "ID": "placergarderobe",
+         "NAME": "Placer la garde-robe dans la maison. Peut être fait à multiples reprises! (Doit être propriétaire)",
+         "TYPE": "CMD",
+         "HASARGS": false
+      },
+      {
          "ID": "plaque",
          "NAME": "Vérificateur de plaque",
          "TYPE": "CMD",
@@ -3701,6 +3737,12 @@
          "NAME": "Réparer",
          "TYPE": "CMD",
          "HASARGS": false
+      },
+      {
+         "ID": "retirercle",
+         "NAME": "Retirer un locataire de la maison (Ne peut pas retirer d'autre propriétaire) [id du joueur]",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "retourner",
