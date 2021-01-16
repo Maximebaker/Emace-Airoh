@@ -2844,6 +2844,12 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "don",
+         "NAME": "Faire un don à un joueur en argent comptant [id du joueur] [montant]",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "donnercle",
          "NAME": "Ajouter un locataire à la maison (Doit être propriétaire) [id du joueur]",
          "TYPE": "CMD",
