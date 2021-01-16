@@ -1581,13 +1581,13 @@
          "TYPE": "EMOTE"
       },
       {
-         "ID": "leanhight",
-         "NAME": "Leanhight",
+         "ID": "leanhigh",
+         "NAME": "Leanhigh",
          "TYPE": "EMOTE"
       },
       {
-         "ID": "leanhight2",
-         "NAME": "Leanhight 2",
+         "ID": "leanhigh2",
+         "NAME": "Leanhigh 2",
          "TYPE": "EMOTE"
       },
       {
@@ -2376,6 +2376,11 @@
          "TYPE": "ACTION"
       },
       {
+         "ID": "stink",
+         "NAME": "stink",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "stretch",
          "NAME": "Stretch",
          "TYPE": "EMOTE"
@@ -2528,6 +2533,11 @@
       {
          "ID": "think5",
          "NAME": "Think 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "threaten",
+         "NAME": "Threaten",
          "TYPE": "EMOTE"
       },
       {
