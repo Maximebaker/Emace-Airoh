@@ -1,6 +1,16 @@
 ﻿{
    "commands": [
       {
+         "ID": "a",
+         "NAME": "Répondre téléphone",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "accessoire",
+         "NAME": "Mettre/retirer accessoire",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "adjust",
          "NAME": "Adjust",
          "TYPE": "EMOTE"
@@ -26,9 +36,31 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "ajouterowner",
+         "NAME": "Ajouter un propriétaire à la maison (Doit avoir un double de clé) [id du joueur]",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "alien",
          "NAME": "Alien",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "amende",
+         "NAME": "Donner une amende",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "ancre",
+         "NAME": "Monter/descendre l'ancre des bateaux",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "angry",
+         "NAME": "Faché",
+         "TYPE": "MOOD"
       },
       {
          "ID": "argue",
@@ -44,6 +76,11 @@
          "ID": "armored",
          "NAME": "Armored",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "arreterjob",
+         "NAME": "Arrêter le travail",
+         "TYPE": "CMD"
       },
       {
          "ID": "arrogant",
@@ -106,6 +143,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "blocnotes",
+         "NAME": "Sortir bloc-notes",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "blowkiss",
          "NAME": "Blowkiss",
          "TYPE": "EMOTE"
@@ -129,6 +171,11 @@
          "ID": "book",
          "NAME": "Book",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "boule",
+         "NAME": "Boule de neige",
+         "TYPE": "CMD"
       },
       {
          "ID": "bouquet",
@@ -166,6 +213,11 @@
          "TYPE": "WALK"
       },
       {
+         "ID": "breachp",
+         "NAME": "breachp",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "brief3",
          "NAME": "Brief",
          "TYPE": "EMOTE"
@@ -201,9 +253,30 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "c",
+         "NAME": "Enlever chandail",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "calculatrice",
+         "NAME": "Sortir calculatrice",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "cam",
+         "NAME": "Sortir/ranger caméra",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "camera",
          "NAME": "Camera",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "capot",
+         "NAME": "Ouvrir/Fermer le capot d'un véhicule",
+         "TYPE": "CMD"
       },
       {
          "ID": "casual",
@@ -239,6 +312,17 @@
          "ID": "celebrate",
          "NAME": "Celebrate",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "ch",
+         "NAME": "Retirer cheveux",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "chaise",
+         "NAME": "S'asseoir/Se lever",
+         "TYPE": "CMD"
       },
       {
          "ID": "champagnespray",
@@ -301,6 +385,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "clé",
+         "NAME": "Donner clé",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "clean",
          "NAME": "Clean",
          "TYPE": "EMOTE"
@@ -309,6 +398,11 @@
          "ID": "clean2",
          "NAME": "Clean 2",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "clear",
+         "NAME": "Effacer le chat",
+         "TYPE": "CMD"
       },
       {
          "ID": "clipboard",
@@ -361,9 +455,25 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "coffre",
+         "NAME": "Ouvrir/fermer coffre",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "color",
+         "NAME": "Couleur du véhicule de service (police)",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "comeatmebro",
          "NAME": "Comeatmebro",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "commencerjob",
+         "NAME": "Commencer un travail",
+         "TYPE": "CMD"
       },
       {
          "ID": "confident",
@@ -416,6 +526,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "cpneu",
+         "NAME": "Crever un pneu",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "cpr",
          "NAME": "Cpr",
          "TYPE": "EMOTE"
@@ -429,6 +544,11 @@
          "ID": "crawl",
          "NAME": "Crawl",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "crocheter",
+         "NAME": "Crocheter un véhicule",
+         "TYPE": "CMD"
       },
       {
          "ID": "crossarms",
@@ -886,6 +1006,12 @@
          "TYPE": "ACTION"
       },
       {
+         "ID": "dé",
+         "NAME": "Lancer un dé",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "\"Default Female\"",
          "NAME": "Default Female",
          "TYPE": "WALK"
@@ -896,14 +1022,41 @@
          "TYPE": "WALK"
       },
       {
+         "ID": "die",
+         "NAME": "Mourir",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "dj",
          "NAME": "Dj",
          "TYPE": "EMOTE"
       },
       {
+         "ID": "dme",
+         "NAME": "Retirer dernier /tme",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "don",
+         "NAME": "Faire un don à un joueur en argent comptant [id du joueur] [montant]",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "donnercle",
+         "NAME": "Ajouter un locataire à la maison (Doit être propriétaire) [id du joueur]",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "donut",
          "NAME": "Donut",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "drunk",
+         "NAME": "Saoul",
+         "TYPE": "MOOD"
       },
       {
          "ID": "drunk",
@@ -919,6 +1072,11 @@
          "ID": "drunk3",
          "NAME": "Drunk3",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "dumb",
+         "NAME": "Dumb",
+         "TYPE": "MOOD"
       },
       {
          "ID": "duo1a",
@@ -961,6 +1119,27 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "electrocuted",
+         "NAME": "Electrocuté",
+         "TYPE": "MOOD"
+      },
+      {
+         "ID": "ems",
+         "NAME": "Console des services d'urgence",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "entrer",
+         "NAME": "Rentrer dans une maison (Police / Raid)",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "extra",
+         "NAME": "Ajouter des éléments additionnels sur un véhicule",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "facepalm",
          "NAME": "Facepalm",
          "TYPE": "EMOTE"
@@ -979,6 +1158,12 @@
          "ID": "facepalm4",
          "NAME": "Facepalm 4",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "facture",
+         "NAME": "Faire une facture",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "fallasleep",
@@ -1011,9 +1196,20 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "fauteuil",
+         "NAME": "Sortir un fauteuil roulant",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "femme",
          "NAME": "Femme",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "fen",
+         "NAME": "Descendre/monter fenêtre",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "fightme",
@@ -1061,6 +1257,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "fix",
+         "NAME": "Réparer un véhicule",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "flee",
          "NAME": "Flee",
          "TYPE": "WALK"
@@ -1106,9 +1307,19 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "fouiller",
+         "NAME": "Fouiller quelqu'un",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "franklin",
          "NAME": "Franklin",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "frisk",
+         "NAME": "Savoir si la personne a une arme ou de la drogue",
+         "TYPE": "CMD"
       },
       {
          "ID": "gangsign",
@@ -1146,6 +1357,12 @@
          "TYPE": "WALK"
       },
       {
+         "ID": "gate",
+         "NAME": "Permet d'ouvrir certaines portes",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "give",
          "NAME": "Give",
          "TYPE": "ACTION"
@@ -1164,6 +1381,11 @@
          "ID": "grooving",
          "NAME": "Grooving",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "grumpy",
+         "NAME": "Grumpy",
+         "TYPE": "MOOD"
       },
       {
          "ID": "guard",
@@ -1194,6 +1416,17 @@
          "ID": "guitarelectric2",
          "NAME": "Guitar electric 2",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "h",
+         "NAME": "Mettre/retirer chapeau",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "habit",
+         "NAME": "S'habiller",
+         "TYPE": "CMD"
       },
       {
          "ID": "hammer",
@@ -1229,6 +1462,11 @@
          "ID": "hangout",
          "NAME": "Hangout",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "happy",
+         "NAME": "Content",
+         "TYPE": "MOOD"
       },
       {
          "ID": "headbutt",
@@ -1281,6 +1519,12 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "hud",
+         "NAME": "Modifier L'affichage",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "hug",
          "NAME": "Hug",
          "TYPE": "EMOTE"
@@ -1314,6 +1558,16 @@
          "ID": "hurry",
          "NAME": "Hurry",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "id",
+         "NAME": "Afficher mon identifiant",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "id2",
+         "NAME": "Afficher les identifiants",
+         "TYPE": "CMD"
       },
       {
          "ID": "idle",
@@ -1391,6 +1645,26 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "impound",
+         "NAME": "Remorquer un véhicule",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "impoundcriminel",
+         "NAME": "Remorquer un véhicule criminel",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "infos",
+         "NAME": "Afficher informations personnage",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "injured",
+         "NAME": "Blessé",
+         "TYPE": "MOOD"
+      },
+      {
          "ID": "injured",
          "NAME": "Blessé",
          "TYPE": "WALK"
@@ -1404,6 +1678,11 @@
          "ID": "inspect",
          "NAME": "Inspect",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "inspection",
+         "NAME": "Inspection",
+         "TYPE": "CMD"
       },
       {
          "ID": "janitor",
@@ -1461,6 +1740,16 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "joyful",
+         "NAME": "Très content",
+         "TYPE": "MOOD"
+      },
+      {
+         "ID": "jumelles",
+         "NAME": "Sortir/Ranger jumelles",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "jumpingjacks",
          "NAME": "Jumpingjacks",
          "TYPE": "EMOTE"
@@ -1509,6 +1798,12 @@
          "ID": "knucklecrunch",
          "NAME": "Knucklecrunch",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "l",
+         "NAME": "Mettre/retirer lunettes",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "lapdance",
@@ -1641,6 +1936,12 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "livery",
+         "NAME": "Changer plaque véhicule",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "lol",
          "NAME": "Lol",
          "TYPE": "EMOTE"
@@ -1654,6 +1955,12 @@
          "ID": "lookout",
          "NAME": "Lookout",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "m",
+         "NAME": "Mettre/retirer masque",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "maid",
@@ -1676,9 +1983,26 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "matricule",
+         "NAME": "Mise en place du Matricule TEAMSPEAK",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "mdt",
+         "NAME": "Console des services d'urgence",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "me",
          "NAME": "Me",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "me",
+         "NAME": "Me",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "mechanic",
@@ -1756,9 +2080,36 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "mo",
+         "NAME": "Verrouiller/Déverrouiller porte à distance",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "money",
          "NAME": "Money",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "moteur",
+         "NAME": "Démarrer/éteindre moteur",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "mouthbreather",
+         "NAME": "Mouthbreather",
+         "TYPE": "MOOD"
+      },
+      {
+         "ID": "mp",
+         "NAME": "Envoyer un message à un prisonnier",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "mpnj",
+         "NAME": "Mettre/enlever masque sur joueur (PNJ)",
+         "TYPE": "CMD"
       },
       {
          "ID": "mugshot",
@@ -1831,14 +2182,46 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "numero",
+         "NAME": "Afficher numéro de téléphone",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "o",
+         "NAME": "Mettre/retirer oreillette",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "ok",
          "NAME": "Ok",
          "TYPE": "EMOTE"
       },
       {
+         "ID": "oneeye",
+         "NAME": "Un oeil",
+         "TYPE": "MOOD"
+      },
+      {
          "ID": "outofbreath",
          "NAME": "Outofbreath",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "p",
+         "NAME": "Enlever pantalon",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "pansement",
+         "NAME": "Arrêter les saignements",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "parapluie",
+         "NAME": "Sortir/Ranger parapluie",
+         "TYPE": "CMD"
       },
       {
          "ID": "parkingmeter",
@@ -1874,6 +2257,17 @@
          "ID": "passout5",
          "NAME": "Passout 5",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "patate",
+         "NAME": "Prendre en patate",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "patron",
+         "NAME": "Gestion entreprise",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "peace",
@@ -1914,6 +2308,33 @@
          "ID": "pickup",
          "NAME": "Pickup",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "ping",
+         "NAME": "Envoyer position GPS",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "placercoffre",
+         "NAME": "Placer le coffre dans la maison. Peut être fait à multiples reprises! (Doit être propriétaire)",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "placercoffre2",
+         "NAME": "Placer le deuxième coffre dans la maison. Peut être fait à multiples reprises! (Doit être propriétaire)",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "placergarderobe",
+         "NAME": "Placer la garde-robe dans la maison. Peut être fait à multiples reprises! (Doit être propriétaire)",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "plaque",
+         "NAME": "Vérificateur de plaque",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "poledanc",
@@ -2031,9 +2452,19 @@
          "TYPE": "WALK"
       },
       {
+         "ID": "r",
+         "NAME": "Raccrocher téléphone",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "rabbit",
          "NAME": "Rabbit",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "raccrocher",
+         "NAME": "Raccrocher téléphone",
+         "TYPE": "CMD"
       },
       {
          "ID": "radio",
@@ -2041,9 +2472,24 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "radio",
+         "NAME": "Éteindre radio",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "ramper",
+         "NAME": "Ramper",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "reaching",
          "NAME": "Reaching",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "reanimer",
+         "NAME": "Revive quelqu'un de KO",
+         "TYPE": "CMD"
       },
       {
          "ID": "record",
@@ -2051,9 +2497,46 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "register",
+         "NAME": "Enregistrer un personnage",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "reparer",
+         "NAME": "Réparer",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "retirercle",
+         "NAME": "Retirer un locataire de la maison (Ne peut pas retirer d'autre propriétaire) [id du joueur]",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "retourner",
+         "NAME": "Retourner un véhicule renversé",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "rfauteuil",
+         "NAME": "Ranger un fauteuil roulant",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "rnpc",
+         "NAME": "Réanimer les NPC (Police/EMS seulement)",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "rose",
          "NAME": "Rose",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "rpc",
+         "NAME": "Roche Papier Ciseaux",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "runner",
@@ -2061,9 +2544,20 @@
          "TYPE": "WALK"
       },
       {
+         "ID": "s",
+         "NAME": "Enlever souliers",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "sad",
          "NAME": "Sad",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "salaire",
+         "NAME": "Voir le salaire",
+         "TYPE": "CMD"
       },
       {
          "ID": "salute",
@@ -2116,6 +2610,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "services",
+         "NAME": "Afficher services",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "sexy",
          "NAME": "Sexy",
          "TYPE": "WALK"
@@ -2131,6 +2630,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "shocked",
+         "NAME": "Choqué",
+         "TYPE": "MOOD"
+      },
+      {
          "ID": "shot",
          "NAME": "Shot",
          "TYPE": "EMOTE"
@@ -2144,6 +2648,12 @@
          "ID": "shrug2",
          "NAME": "Shrug 2",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "siege",
+         "NAME": "Changer de siège",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "sit",
@@ -2291,6 +2801,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "sleeping",
+         "NAME": "Dormir",
+         "TYPE": "MOOD"
+      },
+      {
          "ID": "slide",
          "NAME": "Slide",
          "TYPE": "EMOTE"
@@ -2341,6 +2856,21 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "smug",
+         "NAME": "Smug",
+         "TYPE": "MOOD"
+      },
+      {
+         "ID": "soigner",
+         "NAME": "Retirer les douleurs et arrêter les saignements",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "speculative",
+         "NAME": "Speculative",
+         "TYPE": "MOOD"
+      },
+      {
          "ID": "spiderman",
          "NAME": "Spiderman",
          "TYPE": "EMOTE"
@@ -2361,6 +2891,17 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "status",
+         "NAME": "Voir les signes physiques",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "statusc",
+         "NAME": "Status personnalisé",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "stickup",
          "NAME": "Stickup",
          "TYPE": "EMOTE"
@@ -2379,6 +2920,11 @@
          "ID": "stink",
          "NAME": "stink",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "stressed",
+         "NAME": "Stressed",
+         "TYPE": "MOOD"
       },
       {
          "ID": "stretch",
@@ -2436,6 +2982,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "sulking",
+         "NAME": "Sulking",
+         "TYPE": "MOOD"
+      },
+      {
          "ID": "sunbathe",
          "NAME": "Sunbathe",
          "TYPE": "EMOTE"
@@ -2469,6 +3020,12 @@
          "ID": "surrender",
          "NAME": "Surrender",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sv",
+         "NAME": "Spawn véhicule",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "swagger",
@@ -2556,6 +3113,18 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "tint",
+         "NAME": "Teinte de couleur des fenêtres",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "tme",
+         "NAME": "/me avec un temps d'affichage en minute",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "tough",
          "NAME": "Tough",
          "TYPE": "WALK"
@@ -2619,6 +3188,23 @@
          "ID": "uncuff",
          "NAME": "Uncuff",
          "TYPE": "EMOTE"
+      },
+      {
+         "ID": "v",
+         "NAME": "Retirer veste",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "vape",
+         "NAME": "Utiliser une vapoteuse",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "voler",
+         "NAME": "Voler",
+         "TYPE": "CMD"
       },
       {
          "ID": "wait",
@@ -2736,6 +3322,16 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "weird",
+         "NAME": "Bizarre",
+         "TYPE": "MOOD"
+      },
+      {
+         "ID": "weird2",
+         "NAME": "Bizarre 2",
+         "TYPE": "MOOD"
+      },
+      {
          "ID": "weld",
          "NAME": "Weld",
          "TYPE": "EMOTE"
@@ -2779,512 +3375,6 @@
          "ID": "yoga",
          "NAME": "Yoga",
          "TYPE": "EMOTE"
-      },
-      {
-         "ID": "a",
-         "NAME": "Répondre téléphone",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "accessoire",
-         "NAME": "Mettre/retirer accessoire",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "ajouterowner",
-         "NAME": "Ajouter un propriétaire à la maison (Doit avoir un double de clé) [id du joueur]",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "amende",
-         "NAME": "Donner une amende",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "ancre",
-         "NAME": "Monter/descendre l'ancre des bateaux",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "arreterjob",
-         "NAME": "Arrêter le travail",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "blocnotes",
-         "NAME": "Sortir bloc-notes",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "boule",
-         "NAME": "Boule de neige",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "breachp",
-         "NAME": "breachp",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "dé",
-         "NAME": "Lancer un dé",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "die",
-         "NAME": "Mourir",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "dme",
-         "NAME": "Retirer dernier /tme",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "don",
-         "NAME": "Faire un don à un joueur en argent comptant [id du joueur] [montant]",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "donnercle",
-         "NAME": "Ajouter un locataire à la maison (Doit être propriétaire) [id du joueur]",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "c",
-         "NAME": "Enlever chandail",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "capot",
-         "NAME": "Ouvrir/Fermer le capot d'un véhicule",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "ch",
-         "NAME": "Retirer cheveux",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "chaise",
-         "NAME": "S'asseoir/Se lever",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "calculatrice",
-         "NAME": "Sortir calculatrice",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "cam",
-         "NAME": "Sortir/ranger caméra",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "clear",
-         "NAME": "Effacer le chat",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "clé",
-         "NAME": "Donner clé",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "coffre",
-         "NAME": "Ouvrir/fermer coffre",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "color",
-         "NAME": "Couleur du véhicule de service (police)",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "commencerjob",
-         "NAME": "Commencer un travail",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "cpneu",
-         "NAME": "Crever un pneu",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "crocheter",
-         "NAME": "Crocheter un véhicule",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "ems",
-         "NAME": "Console des services d'urgence",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "entrer",
-         "NAME": "Rentrer dans une maison (Police / Raid)",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "extra",
-         "NAME": "Ajouter des éléments additionnels sur un véhicule",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "facture",
-         "NAME": "Faire une facture",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "fauteuil",
-         "NAME": "Sortir un fauteuil roulant",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "fen",
-         "NAME": "Descendre/monter fenêtre",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "fix",
-         "NAME": "Réparer un véhicule",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "fouiller",
-         "NAME": "Fouiller quelqu'un",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "frisk",
-         "NAME": "Savoir si la personne a une arme ou de la drogue",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "gate",
-         "NAME": "Permet d'ouvrir certaines portes",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "h",
-         "NAME": "Mettre/retirer chapeau",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "habit",
-         "NAME": "S'habiller",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "hud",
-         "NAME": "Modifier L'affichage",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "id",
-         "NAME": "Afficher mon identifiant",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "id2",
-         "NAME": "Afficher les identifiants",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "impound",
-         "NAME": "Remorquer un véhicule",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "impoundcriminel",
-         "NAME": "Remorquer un véhicule criminel",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "infos",
-         "NAME": "Afficher informations personnage",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "inspection",
-         "NAME": "Inspection",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "jumelles",
-         "NAME": "Sortir/Ranger jumelles",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "livery",
-         "NAME": "Changer plaque véhicule",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "l",
-         "NAME": "Mettre/retirer lunettes",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "m",
-         "NAME": "Mettre/retirer masque",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "mp",
-         "NAME": "Envoyer un message à un prisonnier",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "matricule",
-         "NAME": "Mise en place du Matricule TEAMSPEAK",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "mdt",
-         "NAME": "Console des services d'urgence",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "me",
-         "NAME": "Me",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "mo",
-         "NAME": "Verrouiller/Déverrouiller porte à distance",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "moteur",
-         "NAME": "Démarrer/éteindre moteur",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "mpnj",
-         "NAME": "Mettre/enlever masque sur joueur (PNJ)",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "numero",
-         "NAME": "Afficher numéro de téléphone",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "o",
-         "NAME": "Mettre/retirer oreillette",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "p",
-         "NAME": "Enlever pantalon",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "pansement",
-         "NAME": "Arrêter les saignements",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "parapluie",
-         "NAME": "Sortir/Ranger parapluie",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "patate",
-         "NAME": "Prendre en patate",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "patron",
-         "NAME": "Gestion entreprise",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "ping",
-         "NAME": "Envoyer position GPS",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "placercoffre",
-         "NAME": "Placer le coffre dans la maison. Peut être fait à multiples reprises! (Doit être propriétaire)",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "placercoffre2",
-         "NAME": "Placer le deuxième coffre dans la maison. Peut être fait à multiples reprises! (Doit être propriétaire)",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "placergarderobe",
-         "NAME": "Placer la garde-robe dans la maison. Peut être fait à multiples reprises! (Doit être propriétaire)",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "plaque",
-         "NAME": "Vérificateur de plaque",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "raccrocher",
-         "NAME": "Raccrocher téléphone",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "r",
-         "NAME": "Raccrocher téléphone",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "radio",
-         "NAME": "Éteindre radio",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "ramper",
-         "NAME": "Ramper",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "reanimer",
-         "NAME": "Revive quelqu'un de KO",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "register",
-         "NAME": "Enregistrer un personnage",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "reparer",
-         "NAME": "Réparer",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "retirercle",
-         "NAME": "Retirer un locataire de la maison (Ne peut pas retirer d'autre propriétaire) [id du joueur]",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "retourner",
-         "NAME": "Retourner un véhicule renversé",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "rfauteuil",
-         "NAME": "Ranger un fauteuil roulant",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "rnpc",
-         "NAME": "Réanimer les NPC (Police/EMS seulement)",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "rpc",
-         "NAME": "Roche Papier Ciseaux",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "s",
-         "NAME": "Enlever souliers",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "salaire",
-         "NAME": "Voir le salaire",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "services",
-         "NAME": "Afficher services",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "siege",
-         "NAME": "Changer de siège",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "soigner",
-         "NAME": "Retirer les douleurs et arrêter les saignements",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "status",
-         "NAME": "Voir les signes physiques",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "statusc",
-         "NAME": "Status personnalisé",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "sv",
-         "NAME": "Spawn véhicule",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "v",
-         "NAME": "Retirer veste",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "vape",
-         "NAME": "Utiliser une vapoteuse",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "tint",
-         "NAME": "Teinte de couleur des fenêtres",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "tme",
-         "NAME": "/me avec un temps d'affichage en minute",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
-         "ID": "voler",
-         "NAME": "Voler",
-         "TYPE": "CMD"
       },
       {
          "ID": "10-13",
@@ -3378,6 +3468,7 @@
    "command_types": {
       "emote": "e",
       "shared_emote": "action",
-      "walk_style": "marche"
+      "walk_style": "marche",
+      "mood": "visage"
    }
 }
