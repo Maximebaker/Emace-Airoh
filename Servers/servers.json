@@ -1,12 +1,17 @@
 [
 	{
-		"id":"vision",
-		"name":"Vision",
-		"lang":"fr"
+		"id": "vision",
+		"name": "Vision",
+		"lang": "fr"
 	},
 	{
-		"id":"generic",
-		"name":"Generic",
-		"lang":"fr"
+		"id": "abondance",
+		"name": "Abondance",
+		"lang": "fr"
+	},
+	{
+		"id": "generic",
+		"name": "Generic",
+		"lang": "fr"
 	}
 ]
