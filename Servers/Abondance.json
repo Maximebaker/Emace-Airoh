@@ -402,6 +402,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "clear",
+         "NAME": "Clear the chat",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "clipboard",
          "NAME": "Clipboard",
          "TYPE": "EMOTE"
