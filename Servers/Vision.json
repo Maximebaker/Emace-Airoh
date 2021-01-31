@@ -3058,6 +3058,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "telfix",
+         "NAME": "Fix le téléphone lorsqu'il y a des problèmes d'affichage",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "trevor",
          "NAME": "Trevor",
          "TYPE": "WALK"
