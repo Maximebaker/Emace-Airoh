@@ -1022,6 +1022,11 @@
          "TYPE": "WALK"
       },
       {
+         "ID": "desintox",
+         "NAME": "Désintoxiquer une personne",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "die",
          "NAME": "Mourir",
          "TYPE": "CMD"
