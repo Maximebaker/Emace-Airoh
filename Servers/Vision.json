@@ -21,6 +21,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "adn",
+         "NAME": "ADN",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "airguitar",
          "NAME": "Air Guitar",
          "TYPE": "EMOTE"
@@ -1136,6 +1141,11 @@
       {
          "ID": "entrer",
          "NAME": "Rentrer dans une maison (Police / Raid)",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "evidences",
+         "NAME": "Évidences",
          "TYPE": "CMD"
       },
       {
