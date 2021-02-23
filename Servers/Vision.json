@@ -2218,6 +2218,12 @@
          "TYPE": "MOOD"
       },
       {
+         "ID": "ooc",
+         "NAME": "Envoyer un message public",
+         "TYPE": "CMD",
+         "HASARGS":true
+      },
+      {
          "ID": "outofbreath",
          "NAME": "Outofbreath",
          "TYPE": "EMOTE"
@@ -3443,6 +3449,12 @@
          "HASARGS": true
       },
       {
+         "ID": "911a",
+         "NAME": "Faire un appel 911 anonyme",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "911r",
          "NAME": "Répondre à un appel 911",
          "TYPE": "CMD",
@@ -3475,6 +3487,12 @@
       {
          "ID": "311",
          "NAME": "Faire un appel 311",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "311a",
+         "NAME": "Faire un appel 311 anonyme",
          "TYPE": "CMD",
          "HASARGS": true
       },
