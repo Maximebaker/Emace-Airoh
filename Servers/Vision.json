@@ -2626,6 +2626,12 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "scene",
+         "NAME": "Gérer une scène [ajouter/retirer/enlever]",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "screwyou",
          "NAME": "Screwyou",
          "TYPE": "EMOTE"
