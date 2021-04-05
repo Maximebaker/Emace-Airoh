@@ -1064,6 +1064,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "doj",
+         "NAME": "DOJ",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "drunk",
          "NAME": "Saoul",
          "TYPE": "MOOD"
@@ -2329,12 +2334,6 @@
          "ID": "pickup",
          "NAME": "Pickup",
          "TYPE": "EMOTE"
-      },
-      {
-         "ID": "ping",
-         "NAME": "Envoyer position GPS",
-         "TYPE": "CMD",
-         "HASARGS": true
       },
       {
          "ID": "placercoffre",
