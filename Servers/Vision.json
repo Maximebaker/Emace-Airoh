@@ -1542,7 +1542,7 @@
          "ID": "hud",
          "NAME": "Modifier L'affichage",
          "TYPE": "CMD",
-         "HASARGS": true
+         "HASARGS": false
       },
       {
          "ID": "hug",
