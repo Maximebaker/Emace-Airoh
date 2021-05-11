@@ -1,0 +1,2834 @@
+﻿{
+   "commands": [
+      {
+         "ID": "À venir",
+         "NAME": "À venir",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "À venir",
+         "NAME": "À venir",
+         "TYPE": "MOOD"
+      },
+      {
+         "ID": "adjust",
+         "NAME": "Adjust",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "adjusttie",
+         "NAME": "Adjust Tie",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "airguitar",
+         "NAME": "Air Guitar",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "airplane",
+         "NAME": "Air Plane",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "airsynth",
+         "NAME": "Air Synth",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "alien",
+         "NAME": "Alien",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "argue",
+         "NAME": "Argue",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "argue2",
+         "NAME": "Argue 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "armored",
+         "NAME": "Armored",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "arrogant",
+         "NAME": "Arrogant",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "atm",
+         "NAME": "Atm",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "backpack",
+         "NAME": "Backpack",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "bark",
+         "NAME": "Bark",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "bartender",
+         "NAME": "Bartender",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "baseball",
+         "NAME": "Baseball",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "baseballthrow",
+         "NAME": "Baseballthrow",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "bbq",
+         "NAME": "BBQ",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "beast",
+         "NAME": "Beast",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "beer",
+         "NAME": "Beer",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "beg",
+         "NAME": "Beg",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "bird",
+         "NAME": "Bird",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "blowkiss",
+         "NAME": "Blowkiss",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "blowkiss2",
+         "NAME": "Blowkiss 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "boi",
+         "NAME": "Boi",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "bong",
+         "NAME": "Bong",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "book",
+         "NAME": "Book",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "bouquet",
+         "NAME": "Bouquet",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "bow",
+         "NAME": "Bow",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "bow2",
+         "NAME": "Bow 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "box",
+         "NAME": "Box",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "boxing",
+         "NAME": "Boxing",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "boxing2",
+         "NAME": "Boxing 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "brave",
+         "NAME": "Brave",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "brief3",
+         "NAME": "Brief",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "bringiton",
+         "NAME": "Bring it on",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "bro",
+         "NAME": "Bro",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "bro2",
+         "NAME": "Bro2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "bumbin",
+         "NAME": "Bumbin",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "bumsleep",
+         "NAME": "Bumsleep",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "burger",
+         "NAME": "Manger un hamburger",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "camera",
+         "NAME": "Camera",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "casual",
+         "NAME": "Casual",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "casual2",
+         "NAME": "Casual2",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "casual3",
+         "NAME": "Casual3",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "casual4",
+         "NAME": "Casual4",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "casual5",
+         "NAME": "Casual5",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "casual6",
+         "NAME": "Casual6",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "celebrate",
+         "NAME": "Celebrate",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "champagnespray",
+         "NAME": "Champagne spray",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "champagne",
+         "NAME": "Champagne",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cheer",
+         "NAME": "Cheer",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "chichi",
+         "NAME": "Chichi",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "chicken",
+         "NAME": "Chicken",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "chill",
+         "NAME": "Chill",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "chinup",
+         "NAME": "Chinup",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cig",
+         "NAME": "Cig",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cigar",
+         "NAME": "Cigar",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cigar2",
+         "NAME": "Cigar 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "clap",
+         "NAME": "Clap",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "clapangry",
+         "NAME": "Clapangry",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "clean",
+         "NAME": "Clean",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "clean2",
+         "NAME": "Clean 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "clipboard",
+         "NAME": "Clipboard",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "clipboard2",
+         "NAME": "Clipboard 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cloudgaze",
+         "NAME": "Cloudgaze",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cloudgaze2",
+         "NAME": "Cloudgaze 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "clown",
+         "NAME": "Clown",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "clown2",
+         "NAME": "Clown 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "clown3",
+         "NAME": "Clown 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "clown4",
+         "NAME": "Clown 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "clown5",
+         "NAME": "Clown 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "coffee",
+         "NAME": "Coffee",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "comeatmebro",
+         "NAME": "Comeatmebro",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "confident",
+         "NAME": "Confident",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "cop",
+         "NAME": "Cop 1",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cop",
+         "NAME": "Cop 1",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "cop2",
+         "NAME": "Cop 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cop2",
+         "NAME": "Cop 2",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "cop3",
+         "NAME": "Cop 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cop3",
+         "NAME": "Cop 3",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "copbeacon",
+         "NAME": "Copbeacon",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cough",
+         "NAME": "Cough",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "countdown",
+         "NAME": "Countdown",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cpr",
+         "NAME": "Cpr",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cpr2",
+         "NAME": "Cpr 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "crawl",
+         "NAME": "Crawl",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "crossarms",
+         "NAME": "Crossarms",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "crossarms2",
+         "NAME": "Crossarms 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "crossarms3",
+         "NAME": "Crossarms 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "crossarms4",
+         "NAME": "Crossarms 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "crossarms5",
+         "NAME": "Crossarms 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "crossarms6",
+         "NAME": "Crossarms 6",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "crossarmsside",
+         "NAME": "Crossarmsside",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cup",
+         "NAME": "Cup",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "curtsy",
+         "NAME": "Curtsy",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cutthroat",
+         "NAME": "Cutthroat",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cutthroat2",
+         "NAME": "Cutthroat 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "damn",
+         "NAME": "Damn",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "damn2",
+         "NAME": "Damn 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dance",
+         "NAME": "Dance",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dance",
+         "NAME": "Dance",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dance2",
+         "NAME": "Dance 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dance2",
+         "NAME": "Dance 2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dance3",
+         "NAME": "Dance 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dance3",
+         "NAME": "Dance 3",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dance4",
+         "NAME": "Dance 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dance4",
+         "NAME": "Dance 4",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dance5",
+         "NAME": "Dance 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dance5",
+         "NAME": "Dance 5",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dance6",
+         "NAME": "Dance 6",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dance6",
+         "NAME": "Dance 6",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dance7",
+         "NAME": "Dance 7",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dance7",
+         "NAME": "Dance 7",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dance8",
+         "NAME": "Dance 8",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dance8",
+         "NAME": "Dance 8",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dance9",
+         "NAME": "Dance 9",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dance9",
+         "NAME": "Dance 9",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancef",
+         "NAME": "Dance F",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancef",
+         "NAME": "Dance F",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancef2",
+         "NAME": "Dance F 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancef2",
+         "NAME": "Dance F 2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancef3",
+         "NAME": "Dance F 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancef3",
+         "NAME": "Dance F 3",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancef4",
+         "NAME": "Dance F 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancef4",
+         "NAME": "Dance F 4",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancef5",
+         "NAME": "Dance F 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancef5",
+         "NAME": "Dance F 5",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancef6",
+         "NAME": "Dance F 6",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancef6",
+         "NAME": "Dance F 6",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "danceglowstick",
+         "NAME": "Dance Glowstick 1",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "danceglowstick",
+         "NAME": "Dance Glowstick 1",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "danceglowstick2",
+         "NAME": "Dance Glowstick 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "danceglowstick2",
+         "NAME": "Dance Glowstick 2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "danceglowstick3",
+         "NAME": "Dance Glowstick 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "danceglowstick3",
+         "NAME": "Dance Glowstick 3",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancehorse",
+         "NAME": "Dance Horse",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancehorse",
+         "NAME": "Dance Horse",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancehorse2",
+         "NAME": "Dance Horse 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancehorse2",
+         "NAME": "Dance Horse 2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancehorse3",
+         "NAME": "Dance Horse 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancehorse3",
+         "NAME": "Dance Horse 3",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "danceshy",
+         "NAME": "Dance Shy",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "danceshy",
+         "NAME": "Dance Shy",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "danceshy2",
+         "NAME": "Dance Shy 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "danceshy2",
+         "NAME": "Dance Shy 2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "danceshy3",
+         "NAME": "Dance Shy 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "danceshy3",
+         "NAME": "Dance Shy 3",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancesilly",
+         "NAME": "Dance Silly",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancesilly",
+         "NAME": "Dance Silly",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancesilly2",
+         "NAME": "Dance Silly 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancesilly2",
+         "NAME": "Dance Silly 2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancesilly3",
+         "NAME": "Dance Silly 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancesilly3",
+         "NAME": "Dance Silly 3",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancesilly4",
+         "NAME": "Dance Silly 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancesilly4",
+         "NAME": "Dance Silly 4",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancesilly5",
+         "NAME": "Dance Silly 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancesilly5",
+         "NAME": "Dance Silly 5",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancesilly6",
+         "NAME": "Dance Silly 6",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancesilly6",
+         "NAME": "Dance Silly 6",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancesilly7",
+         "NAME": "Dance Silly 7",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancesilly7",
+         "NAME": "Dance Silly 7",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancesilly8",
+         "NAME": "Dance Silly 8",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancesilly8",
+         "NAME": "Dance Silly 8",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "dancesilly9",
+         "NAME": "Dance Silly 9",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "dancesilly9",
+         "NAME": "Dance Silly 9",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "danceslow",
+         "NAME": "Dance Slow",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "danceslow",
+         "NAME": "Dance Slow",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "danceslow2",
+         "NAME": "Dance Slow 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "danceslow2",
+         "NAME": "Dance Slow 2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "danceslow3",
+         "NAME": "Dance Slow 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "danceslow3",
+         "NAME": "Dance Slow 3",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "danceslow4",
+         "NAME": "Dance Slow 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "danceslow4",
+         "NAME": "Dance Slow 4",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "danceupper",
+         "NAME": "Dance Upper",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "danceupper",
+         "NAME": "Dance Upper",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "danceupper2",
+         "NAME": "Dance Upper 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "danceupper2",
+         "NAME": "Dance Upper 2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "\"Default Female\"",
+         "NAME": "Default Female",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "\"Default Male\"",
+         "NAME": "Default Male",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "dj",
+         "NAME": "Dj",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "donut",
+         "NAME": "Donut",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "drink",
+         "NAME": "Drink",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "drunk",
+         "NAME": "Drunk",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "drunk2",
+         "NAME": "Drunk2",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "drunk3",
+         "NAME": "Drunk3",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "duo1a",
+         "NAME": "duo1a",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "duo1b",
+         "NAME": "duo1b",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "duo2a",
+         "NAME": "duo2a",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "duo2b",
+         "NAME": "duo2b",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "duo3a",
+         "NAME": "duo3a",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "duo3b",
+         "NAME": "duo3b",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "eat",
+         "NAME": "Eat",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "egobar",
+         "NAME": "Egobar",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "facepalm",
+         "NAME": "Facepalm",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "facepalm2",
+         "NAME": "Facepalm 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "facepalm3",
+         "NAME": "Facepalm 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "facepalm4",
+         "NAME": "Facepalm 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "fallasleep",
+         "NAME": "Fallasleep",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "fallover",
+         "NAME": "Fallover",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "fallover2",
+         "NAME": "Fallover 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "fallover3",
+         "NAME": "Fallover 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "fallover4",
+         "NAME": "Fallover 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "fallover5",
+         "NAME": "Fallover 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "femme",
+         "NAME": "Femme",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "fightme",
+         "NAME": "Fightme",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "fightme2",
+         "NAME": "Fightme 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "filmshocking",
+         "NAME": "Filmshocking",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "finger",
+         "NAME": "Finger",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "finger2",
+         "NAME": "Finger 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "fire",
+         "NAME": "Fire",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "fire2",
+         "NAME": "Fire2",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "fire3",
+         "NAME": "Fire3",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "fishdance",
+         "NAME": "Fishdance",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "flee",
+         "NAME": "Flee",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "flex",
+         "NAME": "Flex",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "flip",
+         "NAME": "Flip",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "flip2",
+         "NAME": "Flip 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "flipoff",
+         "NAME": "Flipoff",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "flipoff2",
+         "NAME": "Flipoff 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "flute",
+         "NAME": "Flute",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "foldarms",
+         "NAME": "Foldarms",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "foldarms2",
+         "NAME": "Foldarms 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "franklin",
+         "NAME": "Franklin",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "gangsign",
+         "NAME": "Gangsign",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "gangsign2",
+         "NAME": "GAngsign 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "gangster",
+         "NAME": "Gangster",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "gangster2",
+         "NAME": "Gangster2",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "gangster3",
+         "NAME": "Gangster3",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "gangster4",
+         "NAME": "Gangster4",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "gangster5",
+         "NAME": "Gangster5",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "give",
+         "NAME": "Give",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "give2",
+         "NAME": "Give2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "golfswing",
+         "NAME": "Golfswing",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "grooving",
+         "NAME": "Grooving",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "guard",
+         "NAME": "Guard",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "guard",
+         "NAME": "Guard",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "guitar",
+         "NAME": "Guitar",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "guitar2",
+         "NAME": "Guitar2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "guitarelectric",
+         "NAME": "Guitar electric",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "guitarelectric2",
+         "NAME": "Guitar electric 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "hammer",
+         "NAME": "Hammer",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "handcuffs",
+         "NAME": "Handcuffs",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "handshake",
+         "NAME": "Handshake",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "handshake",
+         "NAME": "Handshake",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "handshake2",
+         "NAME": "Handshake2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "handsup",
+         "NAME": "Handsup",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "hangout",
+         "NAME": "Hangout",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "headbutt",
+         "NAME": "Headbutt",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "headbutt",
+         "NAME": "Headbutt",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "headbutted",
+         "NAME": "Headbutted",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "heels",
+         "NAME": "Heels",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "heels2",
+         "NAME": "Heels2",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "hiking",
+         "NAME": "Hiking",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "hiking",
+         "NAME": "Hiking",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "hipster",
+         "NAME": "Hipster",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "hobo",
+         "NAME": "Hobo",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "holster",
+         "NAME": "Holster",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "hug",
+         "NAME": "Hug",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "hug",
+         "NAME": "Hug",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "hug2",
+         "NAME": "Hug 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "hug2",
+         "NAME": "Hug 2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "hug3",
+         "NAME": "Hug 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "hug3",
+         "NAME": "Hug 3",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "hurry",
+         "NAME": "Hurry",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "idle",
+         "NAME": "Idle",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idle2",
+         "NAME": "Idle 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idle3",
+         "NAME": "Idle 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idle4",
+         "NAME": "Idle 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idle5",
+         "NAME": "Idle 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idle6",
+         "NAME": "Idle 6",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idle7",
+         "NAME": "Idle 7",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idle8",
+         "NAME": "Idle 8",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idle9",
+         "NAME": "Idle 9",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idle10",
+         "NAME": "Idle 10",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idle11",
+         "NAME": "Idle 11",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idledrunk",
+         "NAME": "Idledrunk",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idledrunk2",
+         "NAME": "Idledrunk 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "idledrunk3",
+         "NAME": "Idledrunk 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "impatient",
+         "NAME": "Impatient",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "injured",
+         "NAME": "Blessé",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "injured2",
+         "NAME": "Blessé",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "inspect",
+         "NAME": "Inspect",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "janitor",
+         "NAME": "Janitor",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "janitor",
+         "NAME": "Janitor",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "janitor2",
+         "NAME": "Janitor2",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "jazzhands",
+         "NAME": "Jazzhands",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "jog",
+         "NAME": "Jog",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "jog",
+         "NAME": "Jog",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "jog2",
+         "NAME": "Jog 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "jog3",
+         "NAME": "Jog 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "jog4",
+         "NAME": "Jog 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "jog5",
+         "NAME": "Jog 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "joint",
+         "NAME": "Joint",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "jumpingjacks",
+         "NAME": "Jumpingjacks",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "karate",
+         "NAME": "Karate",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "karate2",
+         "NAME": "Karate 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "keyfob",
+         "NAME": "Keyfob",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "kneel",
+         "NAME": "Kneel",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "kneel2",
+         "NAME": "Kneel 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "kneel3",
+         "NAME": "Kneel 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "knock",
+         "NAME": "Knock",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "knock2",
+         "NAME": "Knock  2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "knucklecrunch",
+         "NAME": "Knucklecrunch",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lapdance",
+         "NAME": "Lapdance",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lapdance2",
+         "NAME": "Lapdance 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lapdance3",
+         "NAME": "Lapdance 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leafblower",
+         "NAME": "Leafblower",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lean",
+         "NAME": "Lean 1",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lean2",
+         "NAME": "Lean 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lean3",
+         "NAME": "Lean 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lean4",
+         "NAME": "Lean 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lean5",
+         "NAME": "Lean 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leanbar",
+         "NAME": "Leanbar",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leanbar2",
+         "NAME": "Leanbar 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leanbar3",
+         "NAME": "Leanbar 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leanbar4",
+         "NAME": "Leanbar 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leanflirt",
+         "NAME": "Leanflirt",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leanhight",
+         "NAME": "Leanhight",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leanhight2",
+         "NAME": "Leanhight 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leanside",
+         "NAME": "Leanside",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leanside2",
+         "NAME": "Leanside 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leanside3",
+         "NAME": "Leanside 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leanside4",
+         "NAME": "Leanside 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "leanside5",
+         "NAME": "Leanside 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "ledge",
+         "NAME": "Ledge",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lemar",
+         "NAME": "Lemar",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "lester",
+         "NAME": "Lester",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "lester2",
+         "NAME": "Lester2",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "lift",
+         "NAME": "Lift",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lol",
+         "NAME": "Lol",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lol2",
+         "NAME": "Lol 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lookout",
+         "NAME": "Lookout",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "maid",
+         "NAME": "Maid",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "makeitrain",
+         "NAME": "Makeitrain",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "maneater",
+         "NAME": "Maneater",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "map",
+         "NAME": "Map",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "me",
+         "NAME": "Me",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "mechanic",
+         "NAME": "Mechanic",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "mechanic2",
+         "NAME": "Mechanic 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "mechanic3",
+         "NAME": "Mechanic 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "mechanic4",
+         "NAME": "Mechanic 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "medic",
+         "NAME": "Medic",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "medic2",
+         "NAME": "Medic 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "meditate",
+         "NAME": "Meditate",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "meditate2",
+         "NAME": "Meditate 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "meditate3",
+         "NAME": "Meditate 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "metal",
+         "NAME": "metal",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "michael",
+         "NAME": "michael",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "mindblown",
+         "NAME": "Mindblown",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "mindblown2",
+         "NAME": "Mindblown 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "mindcontrol",
+         "NAME": "Mindcontrol",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "mindcontrol2",
+         "NAME": "Mindcontrol 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "money",
+         "NAME": "Money",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "mugshot",
+         "NAME": "Mugshot",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "muscle",
+         "NAME": "Muscle",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "musician",
+         "NAME": "Musician",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "namaste",
+         "NAME": "Namaste",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "nervous",
+         "NAME": "Nervous",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "nervous2",
+         "NAME": "Nervous 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "nervous3",
+         "NAME": "Nervous 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "no",
+         "NAME": "No",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "no2",
+         "NAME": "No 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "normal",
+         "NAME": "Normal",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "nosepick",
+         "NAME": "Nosepick",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "notepad",
+         "NAME": "Notepad",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "notepad2",
+         "NAME": "Notepad 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "noway",
+         "NAME": "Noway",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "ok",
+         "NAME": "Ok",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "outofbreath",
+         "NAME": "Outofbreath",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "parkingmeter",
+         "NAME": "Parkingmeter",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "party",
+         "NAME": "Party",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "passout",
+         "NAME": "Passout",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "passout2",
+         "NAME": "Passout 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "passout3",
+         "NAME": "Passout 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "passout4",
+         "NAME": "Passout 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "passout5",
+         "NAME": "Passout 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "peace",
+         "NAME": "Peace",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "peace2",
+         "NAME": "Peace 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "pee",
+         "NAME": "Pee",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "peek",
+         "NAME": "Peek",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "petting",
+         "NAME": "Petting",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "phone",
+         "NAME": "Phone",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "phonecall",
+         "NAME": "Phonecall",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "pickup",
+         "NAME": "Pickup",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "poledanc",
+         "NAME": "poledance 0",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "poledanc1",
+         "NAME": "poledance 1",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "poledanc2",
+         "NAME": "poledance 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "point",
+         "NAME": "Point",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "pointdown",
+         "NAME": "Pointdown",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "pointright",
+         "NAME": "Pointright",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "posh",
+         "NAME": "Posh",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "posh2",
+         "NAME": "Posh2",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "prive",
+         "NAME": "prive",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "prive1",
+         "NAME": "prive 1",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "prone",
+         "NAME": "Prone",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "prosthigh",
+         "NAME": "Prostituehigh",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "prostlow",
+         "NAME": "Prostituelow",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "puddle",
+         "NAME": "Puddle",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "pull",
+         "NAME": "Pull",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "pullover",
+         "NAME": "Pullover",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "punch",
+         "NAME": "Punch",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "punched",
+         "NAME": "Punched",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "punching",
+         "NAME": "Punching",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "push",
+         "NAME": "Push",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "push2",
+         "NAME": "Push 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "pushup",
+         "NAME": "Pushup",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "quick",
+         "NAME": "Quick",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "rabbit",
+         "NAME": "Rabbit",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "radio",
+         "NAME": "Radio",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "reaching",
+         "NAME": "Reaching",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "record",
+         "NAME": "Record",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "rose",
+         "NAME": "Rose",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "runner",
+         "NAME": "Runner",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "sad",
+         "NAME": "Sad",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "salute",
+         "NAME": "Salute",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "salute2",
+         "NAME": "Salute 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "salute3",
+         "NAME": "Salute 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sandwich",
+         "NAME": "Sandwich",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sassy",
+         "NAME": "Sassy",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "sassy2",
+         "NAME": "Sassy2",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "scared",
+         "NAME": "Scared",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "scared",
+         "NAME": "Scared",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "scared2",
+         "NAME": "Scared 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "screwyou",
+         "NAME": "Screwyou",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sexy",
+         "NAME": "Sexy",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "shady",
+         "NAME": "Shady",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "shakeoff",
+         "NAME": "Shakeoff",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "shot",
+         "NAME": "Shot",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "shrug",
+         "NAME": "Shrug",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "shrug2",
+         "NAME": "Shrug 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sit",
+         "NAME": "Sit 1",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sit2",
+         "NAME": "Sit 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sit3",
+         "NAME": "Sit 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sit4",
+         "NAME": "Sit 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sit5",
+         "NAME": "Sit 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sit6",
+         "NAME": "Sit 6",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sit7",
+         "NAME": "Sit 7",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sit8",
+         "NAME": "Sit 8",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sit9",
+         "NAME": "Sit 9",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitchair",
+         "NAME": "Sitchair",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitchair2",
+         "NAME": "Sitchair 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitchair3",
+         "NAME": "Sitchair 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitchair4",
+         "NAME": "Sitchair 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitchair5",
+         "NAME": "Sitchair 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitchair6",
+         "NAME": "Sitchair 6",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitchairside",
+         "NAME": "Sitchairside",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitdrunk",
+         "NAME": "Sitdrunk",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitsad",
+         "NAME": "Sitesad",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitscared",
+         "NAME": "Sitescared",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitscared2",
+         "NAME": "Sitescared 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitscared3",
+         "NAME": "Sitescared 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sitlean",
+         "NAME": "Sitlean",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "situp",
+         "NAME": "Situp",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "slap",
+         "NAME": "Slap",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "slap",
+         "NAME": "Slap",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "slap2",
+         "NAME": "Slap2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "slapped",
+         "NAME": "Slapped",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "slapped2",
+         "NAME": "Slapped2",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "sleep",
+         "NAME": "Sleep",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "slide",
+         "NAME": "Slide",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "slide2",
+         "NAME": "Slide 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "slide3",
+         "NAME": "Slide 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "slow",
+         "NAME": "Slow",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "slowclap",
+         "NAME": "Slowclap",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "slowclap2",
+         "NAME": "Slowclap 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "slowclap3",
+         "NAME": "Slowclap 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "slugger",
+         "NAME": "Slugger",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "smell",
+         "NAME": "Smell",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "smoke",
+         "NAME": "Fumer une cigarette",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "smoke2",
+         "NAME": "Fumer une cigarette",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "smoke3",
+         "NAME": "Fumer une cigarette",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "smoke4",
+         "NAME": "Fumer une cigarette",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "smokeweed",
+         "NAME": "Fumer un joint",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "soda",
+         "NAME": "Boire un soda",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "spiderman",
+         "NAME": "Spiderman",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "statue",
+         "NAME": "Statue",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "statue2",
+         "NAME": "Statue 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "statue3",
+         "NAME": "Statue 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "stickup",
+         "NAME": "Stickup",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "stickup",
+         "NAME": "Stickup",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "stickupscared",
+         "NAME": "Stickupscared",
+         "TYPE": "ACTION"
+      },
+      {
+         "ID": "stink",
+         "NAME": "stink",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "stretch",
+         "NAME": "Stretch",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "stretch2",
+         "NAME": "Stretch 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "stretch3",
+         "NAME": "Stretch 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "stretch4",
+         "NAME": "Stretch 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "strip",
+         "NAME": "Strip 0",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "strip1",
+         "NAME": "Strip 1",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "strip2",
+         "NAME": "Strip 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "stumble",
+         "NAME": "Stumble",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "stunned",
+         "NAME": "Stunned",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "suitcase",
+         "NAME": "Suitcase",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "suitcase2",
+         "NAME": "Suitcase 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sunbathe",
+         "NAME": "Sunbathe",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sunbathe2",
+         "NAME": "Sunbathe 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sunbathe3",
+         "NAME": "Sunbathe 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "sunbatheback",
+         "NAME": "Sunbatheback",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "superhero",
+         "NAME": "Superhero",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "superhero2",
+         "NAME": "Superhero 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "surrender",
+         "NAME": "Surrender",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "swagger",
+         "NAME": "Swagger",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "t",
+         "NAME": "T",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "t2",
+         "NAME": "T 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "tablet",
+         "NAME": "Tablet",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "tablet2",
+         "NAME": "Tablet 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "teddy",
+         "NAME": "Teddy",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "trevor",
+         "NAME": "Trevor",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "texting",
+         "NAME": "Texting",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "think",
+         "NAME": "Think",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "think2",
+         "NAME": "Think 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "think3",
+         "NAME": "Think 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "think4",
+         "NAME": "Think 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "think5",
+         "NAME": "Think 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "threaten",
+         "NAME": "Threaten",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "thumbsup",
+         "NAME": "Thumbsup",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "thumbsup2",
+         "NAME": "Thumbsup 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "thumbsup3",
+         "NAME": "Thumbsup 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "tough",
+         "NAME": "Tough",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "tough2",
+         "NAME": "Tough2",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "trash",
+         "NAME": "Trash",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "trash2",
+         "NAME": "Trash2",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "tryclothes",
+         "NAME": "Tryclothes",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "tryclothes2",
+         "NAME": "Tryclothes 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "tryclothes3",
+         "NAME": "Tryclothes 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "twerk",
+         "NAME": "Twerk",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "type",
+         "NAME": "Type",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "type2",
+         "NAME": "Type 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "type3",
+         "NAME": "Type 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "type4",
+         "NAME": "Type 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "umbrella",
+         "NAME": "Sortir un parapluie",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "uncuff",
+         "NAME": "Uncuff",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait",
+         "NAME": "Wait 1",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait2",
+         "NAME": "Wait 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait3",
+         "NAME": "Wait 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait4",
+         "NAME": "Wait 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait5",
+         "NAME": "Wait 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait6",
+         "NAME": "Wait 6",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait7",
+         "NAME": "Wait 7",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait8",
+         "NAME": "Wait 8",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait9",
+         "NAME": "Wait 9",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait10",
+         "NAME": "Wait 10",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait11",
+         "NAME": "Wait 11",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait12",
+         "NAME": "Wait 12",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wait13",
+         "NAME": "Wait 13",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "warmth",
+         "NAME": "Se rechauffer",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wave",
+         "NAME": "Wave 1",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wave2",
+         "NAME": "Wave 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wave3",
+         "NAME": "Wave 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wave4",
+         "NAME": "Wave 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wave5",
+         "NAME": "Wave 5",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wave6",
+         "NAME": "Wave 6",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wave7",
+         "NAME": "Wave 7",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wave8",
+         "NAME": "Wave 8",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wave9",
+         "NAME": "Wave 9",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "weld",
+         "NAME": "Weld",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "whiskey",
+         "NAME": "Whiskey",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "whistle",
+         "NAME": "Whistle",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "whistle2",
+         "NAME": "Whistle 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wide",
+         "NAME": "Wide",
+         "TYPE": "WALK"
+      },
+      {
+         "ID": "windowshop",
+         "NAME": "Window shop",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "wine",
+         "NAME": "Wine",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "yeah",
+         "NAME": "Yeah",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "yoga",
+         "NAME": "Yoga",
+         "TYPE": "EMOTE"
+      }
+   ],
+   "command_types": {
+      "emote": "e",
+      "shared_emote": "nearby",
+      "walk_style": "walk"
+   }
+}

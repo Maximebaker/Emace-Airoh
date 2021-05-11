@@ -5,6 +5,11 @@
 		"lang": "fr"
 	},
 	{
+		"id": "neo",
+		"name": "Néo",
+		"lang": "fr"
+	},
+	{
 		"id": "generic",
 		"name": "Generic",
 		"lang": "fr"
