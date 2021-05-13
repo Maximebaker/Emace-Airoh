@@ -10,6 +10,11 @@
 		"lang": "fr"
 	},
 	{
+		"id": "infini",
+		"name": "Infini",
+		"lang": "fr"
+	},
+	{
 		"id": "generic",
 		"name": "Generic",
 		"lang": "fr"
