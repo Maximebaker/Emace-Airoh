@@ -2290,12 +2290,6 @@
          "TYPE": "CMD"
       },
       {
-         "ID": "patron",
-         "NAME": "Gestion entreprise",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
          "ID": "peace",
          "NAME": "Peace",
          "TYPE": "EMOTE"
