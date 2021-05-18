@@ -1,12 +1,7 @@
 [
 	{
-		"id": "vision",
-		"name": "Vision",
-		"lang": "fr"
-	},
-	{
-		"id": "neo",
-		"name": "Néo",
+		"id": "generic",
+		"name": "Generic",
 		"lang": "fr"
 	},
 	{
@@ -15,13 +10,23 @@
 		"lang": "fr"
 	},
 	{
+		"id": "neo",
+		"name": "Néo",
+		"lang": "fr"
+	},
+	{
+		"id": "oxygen",
+		"name": "Oxygen",
+		"lang": "fr"
+	},
+	{
 		"id": "qc40",
 		"name": "Qc40",
 		"lang": "fr"
 	},
 	{
-		"id": "generic",
-		"name": "Generic",
+		"id": "vision",
+		"name": "Vision",
 		"lang": "fr"
 	}
 ]
