@@ -1441,6 +1441,12 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "jobc",
+         "NAME": "Jobc",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "jog",
          "NAME": "Jog",
          "TYPE": "EMOTE"
