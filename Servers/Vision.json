@@ -68,6 +68,11 @@
          "TYPE": "MOOD"
       },
       {
+         "ID": "argent",
+         "NAME": "Voir argent de poche",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "argue",
          "NAME": "Argue",
          "TYPE": "EMOTE"
@@ -1675,11 +1680,6 @@
          "TYPE": "CMD"
       },
       {
-         "ID": "infos",
-         "NAME": "Afficher informations personnage",
-         "TYPE": "CMD"
-      },
-      {
          "ID": "injured",
          "NAME": "Blessé",
          "TYPE": "MOOD"
@@ -2562,6 +2562,11 @@
          "NAME": "Enlever souliers",
          "TYPE": "CMD",
          "HASARGS": true
+      },
+      {
+         "ID": "saisir",
+         "NAME": "Saisir",
+         "TYPE": "CMD"
       },
       {
          "ID": "sad",
