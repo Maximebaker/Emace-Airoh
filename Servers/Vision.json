@@ -1983,6 +1983,11 @@
          "HASARGS": true
       },
       {
+         "ID": "mcare",
+         "NAME": "Tablette mécano",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "maid",
          "NAME": "Maid",
          "TYPE": "EMOTE"
