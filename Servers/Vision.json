@@ -2126,12 +2126,6 @@
          "TYPE": "MOOD"
       },
       {
-         "ID": "mp",
-         "NAME": "Envoyer un message à un prisonnier",
-         "TYPE": "CMD",
-         "HASARGS": true
-      },
-      {
          "ID": "mpnj",
          "NAME": "Mettre/enlever masque sur joueur (PNJ)",
          "TYPE": "CMD"
@@ -2539,6 +2533,11 @@
       {
          "ID": "rfauteuil",
          "NAME": "Ranger un fauteuil roulant",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "rherse",
+         "NAME": "Retrait des herses - Police seulement",
          "TYPE": "CMD"
       },
       {
