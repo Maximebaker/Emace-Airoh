@@ -615,6 +615,11 @@
          "NAME": "Cutthroat 2",
          "TYPE": "EMOTE"
       },
+	  {
+         "ID": "dab",
+         "NAME": "Faire un Dab",
+         "TYPE": "EMOTE"
+      },
       {
          "ID": "damn",
          "NAME": "Damn",
@@ -2528,11 +2533,6 @@
       {
          "ID": "retourner",
          "NAME": "Retourner un véhicule renversé",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "rfauteuil",
-         "NAME": "Ranger un fauteuil roulant",
          "TYPE": "CMD"
       },
       {
