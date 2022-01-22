@@ -2,31 +2,36 @@
 	{
 		"id": "generic",
 		"name": "Generic",
-		"lang": "fr"
+		"lang": "fr",
+		"game": "gtav"
 	},
 	{
 		"id": "infini",
 		"name": "Infini",
-		"lang": "fr"
+		"lang": "fr",
+		"game": "gtav"
 	},
 	{
 		"id": "neo",
 		"name": "Néo",
-		"lang": "fr"
+		"lang": "fr",
+		"game": "gtav"
 	},
 	{
 		"id": "oxygen",
 		"name": "Oxygen",
-		"lang": "fr"
-	},
-	{
-		"id": "qc40",
-		"name": "Qc40",
-		"lang": "fr"
+		"lang": "fr",
+		"game": "gtav"
 	},
 	{
 		"id": "vision",
 		"name": "Vision",
-		"lang": "fr"
+		"lang": "fr",
+		"game": "gtav"
+	},
+	{
+		"name": "RedM_WesternQC",
+		"lang": "fr",
+		"game": "rdr2"
 	}
 ]

@@ -1,0 +1,20 @@
+﻿{
+   "commands": [
+      {
+         "ID": "me",
+         "NAME": "Message",
+         "TYPE": "CMD",
+		 "HASARGS": true
+      },
+	  {
+         "ID": "am",
+         "NAME": "Menu des animations",
+         "TYPE": "CMD"
+      }
+   ],
+   "command_types": {
+      "emote": "am",
+      "shared_emote": "",
+      "walk_style": "walkanim"
+   }
+}
