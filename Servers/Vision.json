@@ -633,6 +633,12 @@
       {
          "ID": "dance",
          "NAME": "Dance",
+         "TYPE":"CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "dance",
+         "NAME": "Dance",
          "TYPE": "EMOTE"
       },
       {
