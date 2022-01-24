@@ -10,6 +10,11 @@
          "ID": "am",
          "NAME": "Menu des animations",
          "TYPE": "CMD"
+      },
+	  {
+         "ID": "ragdoll",
+         "NAME": "Ragdoll",
+         "TYPE": "CMD"
       }
    ],
    "command_types": {
