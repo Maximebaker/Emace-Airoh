@@ -34,6 +34,11 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "pant",
+         "NAME": "Mettre/enlever ses pantalons",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "ragdoll",
          "NAME": "Ragdoll",
          "TYPE": "CMD"
