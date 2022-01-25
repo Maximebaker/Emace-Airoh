@@ -19,8 +19,7 @@
       {
          "ID": "hat",
          "NAME": "Mettre/enlever son chapeau",
-         "TYPE": "CMD",
-         "HASARGS": false
+         "TYPE": "CMD"
       },
       {
          "ID": "me",
