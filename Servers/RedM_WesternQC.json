@@ -6,6 +6,11 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "calert",
+         "NAME": "Calert",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "jail",
          "NAME": "Envoyer en prison",
          "TYPE": "CMD",
@@ -22,6 +27,11 @@
          "NAME": "Message",
          "TYPE": "CMD",
          "HASARGS": true
+      },
+      {
+         "ID": "med",
+         "NAME": "Med",
+         "TYPE": "CMD"
       },
       {
          "ID": "ragdoll",
