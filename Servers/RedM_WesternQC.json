@@ -1,17 +1,23 @@
 ﻿{
    "commands": [
       {
-         "ID": "me",
-         "NAME": "Message",
-         "TYPE": "CMD",
-		 "HASARGS": true
-      },
-	  {
          "ID": "am",
          "NAME": "Menu des animations",
          "TYPE": "CMD"
       },
-	  {
+      {
+         "ID": "jail",
+         "NAME": "Envoyer en prison",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "me",
+         "NAME": "Message",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "ragdoll",
          "NAME": "Ragdoll",
          "TYPE": "CMD"
