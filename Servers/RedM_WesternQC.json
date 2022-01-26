@@ -89,6 +89,11 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "scenario",
+         "NAME": "scenario",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "tip",
          "NAME": "Tip",
          "TYPE": "CMD"
@@ -97,6 +102,12 @@
          "ID": "undress",
          "NAME": "Undress",
          "TYPE": "CMD"
+      },
+      {
+         "ID": "unjail",
+         "NAME": "Ramener de prison",
+         "TYPE": "CMD",
+         "HASARGS": true
       },
       {
          "ID": "vest",
