@@ -6,8 +6,49 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "bandana",
+         "NAME": "Bandana",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "belt",
+         "NAME": "belt",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "bill",
+         "NAME": "Bill",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "boots",
+         "NAME": "boots",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "calert",
          "NAME": "Calert",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "dress",
+         "NAME": "Dress",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "flipcoin",
+         "NAME": "Flipcoin",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "glove",
+         "NAME": "Glove",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "hat",
+         "NAME": "Mettre/enlever son chapeau",
          "TYPE": "CMD"
       },
       {
@@ -15,11 +56,6 @@
          "NAME": "Envoyer en prison",
          "TYPE": "CMD",
          "HASARGS": true
-      },
-      {
-         "ID": "hat",
-         "NAME": "Mettre/enlever son chapeau",
-         "TYPE": "CMD"
       },
       {
          "ID": "me",
@@ -38,8 +74,33 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "paybills",
+         "NAME": "Paybills",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "ragdoll",
          "NAME": "Ragdoll",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "rc",
+         "NAME": "Reset Character",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "tip",
+         "NAME": "Tip",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "undress",
+         "NAME": "Undress",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "vest",
+         "NAME": "Vest",
          "TYPE": "CMD"
       }
    ],
