@@ -32,6 +32,11 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "dance",
+         "NAME": "Dance",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "dress",
          "NAME": "Dress",
          "TYPE": "CMD"
@@ -79,6 +84,11 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "pet",
+         "NAME": "Menu Animal",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "ragdoll",
          "NAME": "Ragdoll",
          "TYPE": "CMD"
@@ -99,6 +109,21 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "twa",
+         "NAME": "Gun flip 1",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "twb",
+         "NAME": "Gun flip 2",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "twc",
+         "NAME": "Gun flip 3",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "undress",
          "NAME": "Undress",
          "TYPE": "CMD"
@@ -112,6 +137,11 @@
       {
          "ID": "vest",
          "NAME": "Vest",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "walkanim",
+         "NAME": "Style de marche",
          "TYPE": "CMD"
       }
    ],
