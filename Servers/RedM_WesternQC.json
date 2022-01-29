@@ -7,48 +7,58 @@
       },
       {
          "ID": "bandana",
-         "NAME": "Bandana",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
          "ID": "belt",
-         "NAME": "belt",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
          "ID": "bill",
-         "NAME": "Bill",
+         "NAME": "",
          "TYPE": "CMD",
          "HASARGS": true
       },
       {
          "ID": "boots",
-         "NAME": "boots",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
          "ID": "calert",
-         "NAME": "Calert",
+         "NAME": "",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "coma",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
          "ID": "dance",
-         "NAME": "Dance",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
          "ID": "dress",
-         "NAME": "Dress",
+         "NAME": "",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "eyewear",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
          "ID": "flipcoin",
-         "NAME": "Flipcoin",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
          "ID": "glove",
-         "NAME": "Glove",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
@@ -70,7 +80,7 @@
       },
       {
          "ID": "med",
-         "NAME": "Med",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
@@ -80,7 +90,7 @@
       },
       {
          "ID": "paybills",
-         "NAME": "Paybills",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
@@ -89,8 +99,14 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "poker",
+         "NAME": "Jouer au poker",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "ragdoll",
-         "NAME": "Ragdoll",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
@@ -100,12 +116,27 @@
       },
       {
          "ID": "scenario",
-         "NAME": "scenario",
+         "NAME": "",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "showjob",
+         "NAME": "",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "sleeves",
+         "NAME": "Manches",
          "TYPE": "CMD"
       },
       {
          "ID": "tip",
-         "NAME": "Tip",
+         "NAME": "",
+         "TYPE": "CMD"
+      },
+      {
+         "ID": "tent",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
@@ -125,7 +156,7 @@
       },
       {
          "ID": "undress",
-         "NAME": "Undress",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
@@ -136,7 +167,7 @@
       },
       {
          "ID": "vest",
-         "NAME": "Vest",
+         "NAME": "",
          "TYPE": "CMD"
       },
       {
