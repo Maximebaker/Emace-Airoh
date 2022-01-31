@@ -125,6 +125,11 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "scene",
+         "NAME": "",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "sleeves",
          "NAME": "Manches",
          "TYPE": "CMD"
