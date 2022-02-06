@@ -37,6 +37,11 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "coat",
+         "NAME": "Mettre/Retirer manteau",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "dance",
          "NAME": "",
          "TYPE": "CMD"
