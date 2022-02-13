@@ -1,6 +1,12 @@
 ﻿{
    "commands": [
       {
+         "ID": "me test",
+         "NAME": "Menu des animations",
+         "TYPE": "CMD",
+         "HASARGS":true
+      },
+      {
          "ID": "am",
          "NAME": "Menu des animations",
          "TYPE": "CMD"
