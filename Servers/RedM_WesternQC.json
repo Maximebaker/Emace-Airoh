@@ -188,8 +188,7 @@
       {
          "ID": "walkcrazy",
          "NAME": "Style de marche",
-         "TYPE": "WALK",
-         "useLikeCommand": true
+         "TYPE": "WALK"
       }
    ],
    "command_types": {
