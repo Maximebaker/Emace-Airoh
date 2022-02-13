@@ -1,11 +1,6 @@
 ﻿{
    "commands": [
       {
-         "ID": "a",
-         "NAME": "Répondre téléphone",
-         "TYPE": "CMD"
-      },
-      {
          "ID": "accessoire",
          "NAME": "Mettre/retirer accessoire",
          "TYPE": "CMD"
@@ -265,6 +260,12 @@
       {
          "ID": "c",
          "NAME": "Enlever chandail",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "co",
+         "NAME": "Mettre/retirer collier",
          "TYPE": "CMD",
          "HASARGS": true
       },
@@ -2474,11 +2475,6 @@
          "ID": "quick",
          "NAME": "Quick",
          "TYPE": "WALK"
-      },
-      {
-         "ID": "r",
-         "NAME": "Raccrocher téléphone",
-         "TYPE": "CMD"
       },
       {
          "ID": "rabbit",
