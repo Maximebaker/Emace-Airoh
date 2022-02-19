@@ -1,6 +1,11 @@
 ﻿{
    "commands": [
       {
+         "ID": "a",
+         "NAME": "Répondre au téléphone",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "accessoire",
          "NAME": "Mettre/retirer accessoire",
          "TYPE": "CMD"
@@ -2475,6 +2480,11 @@
          "ID": "quick",
          "NAME": "Quick",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "r",
+         "NAME": "raccrocher le téléphone",
+         "TYPE": "CMD"
       },
       {
          "ID": "rabbit",
