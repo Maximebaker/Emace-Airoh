@@ -44,6 +44,150 @@
             "ID": "veteran",
             "TYPE": "WALK"
         },
+        {
+            "ID": "dance1",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dance2",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dance3",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dance4",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dance5",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dance6",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dance7",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dance8",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dance9",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "danceawkward",
+            "NAME": "Dance (no loop)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "danceawkward2",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancecarefree",
+            "NAME": "Dance (no loop)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancecarefree2",
+            "NAME": "Dance (no loop)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancecarefree3",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancecarefree4",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "danceconfident",
+            "NAME": "Dance (no loop)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "danceconfident2",
+            "NAME": "Dance (no loop)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "danceconfident3",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "danceconfident4",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancedrunk",
+            "NAME": "Dance (no loop)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancedrunk2",
+            "NAME": "Dance (no loop)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancedrunk3",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancedrunk4",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "danceformal",
+            "NAME": "Dance (no loop)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "danceformal2",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancegraceful",
+            "NAME": "Dance (no loop)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancegraceful2",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "danceold",
+            "NAME": "Dance (no loop)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "danceold2",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancewild",
+            "NAME": "Dance (no loop)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancewild2",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancewild3",
+            "NAME": "Dance (no loop)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "dancewild4",
+            "TYPE": "EMOTE"
+        }
     ],
     "command_types": {
         "emote": "em",
