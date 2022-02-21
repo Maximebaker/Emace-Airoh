@@ -184,16 +184,11 @@
          "ID": "walkanim",
          "NAME": "Style de marche",
          "TYPE": "CMD"
-      },
-      {
-         "ID": "walkcrazy",
-         "NAME": "Style de marche",
-         "TYPE": "WALK"
       }
    ],
    "command_types": {
-      "emote": "",
-      "shared_emote": "",
-      "walk_style": ""
+      "emote": "em",
+      "shared_emote": "emw",
+      "walk_style": "walk"
    }
 }

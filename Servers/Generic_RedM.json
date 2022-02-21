@@ -1,0 +1,53 @@
+{
+    "commands": [
+        {
+            "ID": "casual",
+            "TYPE": "WALK"
+        },
+        {
+            "ID": "crazy",
+            "TYPE": "WALK"
+        },
+        {
+            "ID": "drunk",
+            "TYPE": "WALK"
+        },
+        {
+            "ID": "easy",
+            "TYPE": "WALK"
+        },
+        {
+            "ID": "flamboyant",
+            "TYPE": "WALK"
+        },
+        {
+            "ID": "greenhorn",
+            "TYPE": "WALK"
+        },
+        {
+            "ID": "gunslinger",
+            "TYPE": "WALK"
+        },
+        {
+            "ID": "inquisitive",
+            "TYPE": "WALK"
+        },
+        {
+            "ID": "refined",
+            "TYPE": "WALK"
+        },
+        {
+            "ID": "silenttype",
+            "TYPE": "WALK"
+        },
+        {
+            "ID": "veteran",
+            "TYPE": "WALK"
+        },
+    ],
+    "command_types": {
+        "emote": "em",
+        "shared_emote": "emw",
+        "walk_style": "walk"
+    }
+}

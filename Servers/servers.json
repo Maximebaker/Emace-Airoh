@@ -6,6 +6,12 @@
 		"game": "gtav"
 	},
 	{
+		"id": "generic_redm",
+		"name": "Generic_RedM",
+		"lang": "fr",
+		"game": "rdr2"
+	},
+	{
 		"id": "infini",
 		"name": "Infini",
 		"lang": "fr",
@@ -30,7 +36,7 @@
 		"game": "gtav"
 	},
 	{
-		"name": "RedM_WesternQC",
+		"name": "WesternQC",
 		"lang": "fr",
 		"game": "rdr2"
 	}
