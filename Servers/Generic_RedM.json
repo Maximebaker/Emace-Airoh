@@ -45,6 +45,10 @@
             "TYPE": "WALK"
         },
         {
+            "ID": "dance",
+            "TYPE": "ACTION"
+        },
+        {
             "ID": "dance1",
             "TYPE": "EMOTE"
         },
@@ -186,6 +190,91 @@
         },
         {
             "ID": "dancewild4",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "knockdoor",
+            "NAME": "Frapper à la porte",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "pee",
+            "NAME": "Uriner",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "sitbook",
+            "NAME": "Asseyez-vous et lisez",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "sitfire",
+            "NAME": "Asseyez-vous au sol",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "sitfire2",
+            "NAME": "Asseyez-vous au sol (2)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "sitledge",
+            "NAME": "Assis en surplomb",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "sitharmonica",
+            "NAME": "Assis avec harmonica",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "sitharmonica2",
+            "NAME": "Assis avec harmonica (2)",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "sitguitar",
+            "NAME": "Jouer de la guitare assis",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "sidearms",
+            "NAME": "Les mains sur la taille",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "sidearms2",
+            "NAME": "Mains sur la taille 2",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "vomit",
+            "NAME": "Vomir",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "vomitkneel",
+            "NAME": "Vomir à genoux",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "washfacebucket",
+            "NAME": "Lavez-vous le visage sur vos genoux",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "inspectkneel",
+            "NAME": "Observer accroupi",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "inspectground",
+            "NAME": "Inspecter le sol",
+            "TYPE": "EMOTE"
+        },
+        {
+            "ID": "inspect",
+            "NAME": "Inspecter",
             "TYPE": "EMOTE"
         }
     ],
