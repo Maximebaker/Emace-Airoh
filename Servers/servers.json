@@ -1,24 +1,20 @@
 [
 	{
-		"id": "generic",
 		"name": "Generic",
 		"lang": "fr",
 		"game": "gtav"
 	},
 	{
-		"id": "generic_redm",
 		"name": "Generic_RedM",
 		"lang": "fr",
 		"game": "rdr2"
 	},
 	{
-		"id": "notion",
 		"name": "Notion",
 		"lang": "fr",
 		"game": "gtav"
 	},
 	{
-		"id": "vision",
 		"name": "Vision",
 		"lang": "fr",
 		"game": "gtav"

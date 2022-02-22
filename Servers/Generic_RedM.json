@@ -276,6 +276,11 @@
             "ID": "inspect",
             "NAME": "Inspecter",
             "TYPE": "EMOTE"
+        },
+        {
+            "id": "impatient",
+            "name": "Être impatient",
+            "type": "EMOTE"
         }
     ],
     "command_types": {
