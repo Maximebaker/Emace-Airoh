@@ -912,6 +912,11 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "rps",
+         "NAME": "Roche, papier, ciseaux",
+         "TYPE": "CMD"
+      },
+      {
          "ID": "scenario",
          "NAME": "",
          "TYPE": "CMD"
@@ -970,11 +975,6 @@
       {
          "ID": "vest",
          "NAME": "",
-         "TYPE": "CMD"
-      },
-      {
-         "ID": "walkanim",
-         "NAME": "Style de marche",
          "TYPE": "CMD"
       }
    ],
