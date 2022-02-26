@@ -1,6 +1,21 @@
 ﻿{
    "commands": [
       {
+         "ID": "911",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "811",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
+         "ID": "511",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "adjust",
          "NAME": "Adjust",
          "TYPE": "EMOTE"
