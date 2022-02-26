@@ -1687,7 +1687,8 @@
       },
       {
          "ID": "me",
-         "TYPE": "CMD"
+         "TYPE": "CMD",
+         "hasargs": true
       },
       {
          "ID": "mechanic",
