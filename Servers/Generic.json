@@ -2819,6 +2819,110 @@
          "ID": "yoga",
          "NAME": "Yoga",
          "TYPE": "EMOTE"
+      },
+	  {
+         "ID": "Angry",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Drunk",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Dumb",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Electrocuted",
+         "TYPE": "MOOD"
+      }, 
+	  {
+         "ID": "Grumpy",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Grumpy2",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Grumpy3",
+         "TYPE": "MOOD"
+      },	  
+	  {
+         "ID": "Happy",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Injured",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Joyful",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Joyful2",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Joyful3",
+         "TYPE": "MOOD"
+      },	  
+	  {
+         "ID": "Mouthbreather",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Neverblink",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Oneeye",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Shocked",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Shocked2",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Sleeping",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Sleeping2",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Sleeping3",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Smug",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Speculative",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Stressed",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Sulking",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Weird",
+         "TYPE": "MOOD"
+      },
+	  {
+         "ID": "Weird2",
+         "TYPE": "MOOD"
       }
    ],
    "command_types": {

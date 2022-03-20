@@ -10,7 +10,7 @@
 		"game": "rdr2"
 	},
 	{
-		"name": "Notion",
+		"name": "Invasion",
 		"lang": "fr",
 		"game": "gtav"
 	},
@@ -23,10 +23,5 @@
 		"name": "Vision",
 		"lang": "fr",
 		"game": "gtav"
-	},
-	{
-		"name": "WesternQC",
-		"lang": "fr",
-		"game": "rdr2"
 	}
 ]

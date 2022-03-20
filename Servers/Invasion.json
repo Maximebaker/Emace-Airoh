@@ -1686,6 +1686,11 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "me",
+         "TYPE": "CMD",
+         "HASARGS": true
+      },
+      {
          "ID": "mechanic",
          "NAME": "Mechanic",
          "TYPE": "EMOTE"
@@ -2814,11 +2819,15 @@
          "ID": "yoga",
          "NAME": "Yoga",
          "TYPE": "EMOTE"
+      },
+	  {
+         "ID": "Ce serveur ne dispose pas du script ea_animations",
+         "TYPE": "MOOD"
       }
    ],
    "command_types": {
       "emote": "e",
       "shared_emote": "nearby",
-      "walk_style": "e"
+      "walk_style": "walk"
    }
 }
