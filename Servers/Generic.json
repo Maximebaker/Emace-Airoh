@@ -2928,6 +2928,7 @@
    "command_types": {
       "emote": "e",
       "shared_emote": "nearby",
-      "walk_style": "walk"
+      "walk_style": "walk",
+	  "mood": "mood"
    }
 }
