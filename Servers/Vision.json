@@ -68,6 +68,15 @@
          "TYPE": "MOOD"
       },
       {
+         "ID": "animerun",
+         "NAME": "Naruto Run",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "aware",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "argent",
          "NAME": "Voir argent de poche",
          "TYPE": "CMD"
@@ -108,6 +117,10 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "ballscratch",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "bark",
          "NAME": "Bark",
          "TYPE": "EMOTE"
@@ -145,6 +158,10 @@
       {
          "ID": "beg",
          "NAME": "Beg",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "beg2",
          "TYPE": "EMOTE"
       },
       {
@@ -228,6 +245,11 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "breakzipties",
+         "NAME": "Mains attaché dans le dos",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "brief3",
          "NAME": "Brief",
          "TYPE": "EMOTE"
@@ -260,6 +282,10 @@
       {
          "ID": "burger",
          "NAME": "Manger un hamburger",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "bye",
          "TYPE": "EMOTE"
       },
       {
@@ -376,6 +402,10 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "chinups",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "cig",
          "NAME": "Cig",
          "TYPE": "EMOTE"
@@ -466,6 +496,10 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "cmon",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "coffee",
          "NAME": "Coffee",
          "TYPE": "EMOTE"
@@ -476,10 +510,18 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "cokeout",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "color",
          "NAME": "Couleur du véhicule de service (police)",
          "TYPE": "CMD",
          "HASARGS": true
+      },
+      {
+         "ID": "come",
+         "TYPE": "EMOTE"
       },
       {
          "ID": "comeatmebro",
@@ -495,6 +537,18 @@
          "ID": "confident",
          "NAME": "Confident",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "conv1",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "conv2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "conv3",
+         "TYPE": "EMOTE"
       },
       {
          "ID": "cop",
@@ -557,6 +611,14 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "cower",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "cowerlow",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "crawl",
          "NAME": "Crawl",
          "TYPE": "EMOTE"
@@ -565,6 +627,10 @@
          "ID": "crocheter",
          "NAME": "Crocheter un véhicule",
          "TYPE": "CMD"
+      },
+      {
+         "ID": "cross",
+         "TYPE": "EMOTE"
       },
       {
          "ID": "crossarms",
@@ -604,6 +670,10 @@
       {
          "ID": "cup",
          "NAME": "Cup",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "curse",
          "TYPE": "EMOTE"
       },
       {
@@ -1091,6 +1161,10 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "down",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "drunk",
          "NAME": "Saoul",
          "TYPE": "MOOD"
@@ -1349,6 +1423,10 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "forgetit",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "fouiller",
          "NAME": "Fouiller quelqu'un",
          "TYPE": "CMD"
@@ -1403,6 +1481,10 @@
          "NAME": "Permet d'ouvrir certaines portes",
          "TYPE": "CMD",
          "HASARGS": true
+      },
+      {
+         "ID": "getup",
+         "TYPE": "EMOTE"
       },
       {
          "ID": "give",
@@ -1471,6 +1553,10 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "hairtie",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "hammer",
          "NAME": "Hammer",
          "TYPE": "EMOTE"
@@ -1497,6 +1583,16 @@
       },
       {
          "ID": "handsup",
+         "NAME": "Handsup",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "handsup2",
+         "NAME": "Handsup",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "handsup3",
          "NAME": "Handsup",
          "TYPE": "EMOTE"
       },
@@ -1722,6 +1818,10 @@
          "TYPE": "CMD"
       },
       {
+         "ID": "investigate",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "janitor",
          "NAME": "Janitor",
          "TYPE": "EMOTE"
@@ -1807,18 +1907,23 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "kickindoor",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "kneel",
-         "NAME": "Kneel",
          "TYPE": "EMOTE"
       },
       {
          "ID": "kneel2",
-         "NAME": "Kneel 2",
          "TYPE": "EMOTE"
       },
       {
          "ID": "kneel3",
-         "NAME": "Kneel 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "kneel4",
          "TYPE": "EMOTE"
       },
       {
@@ -1828,7 +1933,6 @@
       },
       {
          "ID": "knock2",
-         "NAME": "Knock  2",
          "TYPE": "EMOTE"
       },
       {
@@ -1844,17 +1948,26 @@
       },
       {
          "ID": "lapdance",
-         "NAME": "Lapdance",
          "TYPE": "EMOTE"
       },
       {
          "ID": "lapdance2",
-         "NAME": "Lapdance 2",
          "TYPE": "EMOTE"
       },
       {
          "ID": "lapdance3",
-         "NAME": "Lapdance 3",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "lapdance4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "layspike",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "layspike2",
          "TYPE": "EMOTE"
       },
       {
@@ -1966,6 +2079,10 @@
          "ID": "lester2",
          "NAME": "Lester2",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "lighter",
+         "TYPE": "EMOTE"
       },
       {
          "ID": "lift",
@@ -2321,6 +2438,10 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "peeposhy",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "peek",
          "NAME": "Peek",
          "TYPE": "EMOTE"
@@ -2341,8 +2462,16 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "picknose",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "pickup",
          "NAME": "Pickup",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "piss",
          "TYPE": "EMOTE"
       },
       {
@@ -2447,9 +2576,8 @@
          "TYPE": "EMOTE"
       },
       {
-         "ID": "punch",
-         "NAME": "Punch",
-         "TYPE": "ACTION"
+         "ID": "pumping",
+         "TYPE": "EMOTE"
       },
       {
          "ID": "punched",
@@ -2651,6 +2779,14 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "search",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "searchground",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "services",
          "NAME": "Afficher services",
          "TYPE": "CMD"
@@ -2671,13 +2807,29 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "sheesh",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "shit",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "shocked",
          "NAME": "Choqué",
          "TYPE": "MOOD"
       },
       {
+         "ID": "shoosh",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "shot",
          "NAME": "Shot",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "shower",
          "TYPE": "EMOTE"
       },
       {
@@ -2687,7 +2839,10 @@
       },
       {
          "ID": "shrug2",
-         "NAME": "Shrug 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "shrug3",
          "TYPE": "EMOTE"
       },
       {
@@ -2969,22 +3124,22 @@
       },
       {
          "ID": "stretch",
-         "NAME": "Stretch",
          "TYPE": "EMOTE"
       },
       {
          "ID": "stretch2",
-         "NAME": "Stretch 2",
          "TYPE": "EMOTE"
       },
       {
          "ID": "stretch3",
-         "NAME": "Stretch 3",
          "TYPE": "EMOTE"
       },
       {
          "ID": "stretch4",
-         "NAME": "Stretch 4",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "stretch5",
          "TYPE": "EMOTE"
       },
       {
@@ -3010,6 +3165,10 @@
       {
          "ID": "stunned",
          "NAME": "Stunned",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "stupor",
          "TYPE": "EMOTE"
       },
       {
@@ -3074,6 +3233,38 @@
          "TYPE": "WALK"
       },
       {
+         "ID": "swatback",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "swatcome",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "swatfreeze",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "swatfwd",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "swatleft",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "swatrally",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "swatright",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "swatyes",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "t",
          "NAME": "T",
          "TYPE": "EMOTE"
@@ -3091,6 +3282,10 @@
       {
          "ID": "tablet2",
          "NAME": "Tablet 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "taunt",
          "TYPE": "EMOTE"
       },
       {
@@ -3189,6 +3384,10 @@
          "ID": "trash2",
          "NAME": "Trash2",
          "TYPE": "WALK"
+      },
+      {
+         "ID": "trunk",
+         "TYPE": "EMOTE"
       },
       {
          "ID": "tryclothes",
@@ -3318,6 +3517,10 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "wanker",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "warmth",
          "NAME": "Se rechauffer",
          "TYPE": "EMOTE"
@@ -3383,6 +3586,10 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "what",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "whiskey",
          "NAME": "Whiskey",
          "TYPE": "EMOTE"
@@ -3395,6 +3602,10 @@
       {
          "ID": "whistle2",
          "NAME": "Whistle 2",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "why",
          "TYPE": "EMOTE"
       },
       {
@@ -3418,8 +3629,17 @@
          "TYPE": "EMOTE"
       },
       {
+         "ID": "yes",
+         "TYPE": "EMOTE"
+      },
+      {
          "ID": "yoga",
          "NAME": "Yoga",
+         "TYPE": "EMOTE"
+      },
+      {
+         "ID": "ziptied",
+         "NAME": "Mains attaché dans le dos",
          "TYPE": "EMOTE"
       },
       {
