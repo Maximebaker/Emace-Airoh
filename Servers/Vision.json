@@ -2787,11 +2787,6 @@
          "TYPE": "EMOTE"
       },
       {
-         "ID": "services",
-         "NAME": "Afficher services",
-         "TYPE": "CMD"
-      },
-      {
          "ID": "sexy",
          "NAME": "Sexy",
          "TYPE": "WALK"
